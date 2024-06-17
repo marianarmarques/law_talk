@@ -1,0 +1,94 @@
+Este ficheiro corresponde à parte 1 do livro 1 (Dos sujeitos do processo), titulo 3 (Do Arguido e do Seu Defensor) do código processual penal de portugal.
+
+Artigo 58.º - Qualidade de arguido
+                1 - Assume a qualidade de arguido todo aquele contra quem for deduzida acusação ou requerida instrução num processo penal.
+                2 - A qualidade de arguido conserva-se durante todo o decurso do processo.
+                3 - É correspondentemente aplicável o disposto nos n.os 2 a 7 do artigo seguinte.
+                4 - A pessoa coletiva ou entidade equiparada pode ser constituída arguida.
+                5 - A pessoa coletiva é representada por quem legal ou estatutariamente a deva representar e a entidade que careça de personalidade jurídica é representada pela pessoa que aja como diretor, gerente ou administrador e, na sua falta, por pessoa escolhida pela maioria dos associados.
+                6 - No caso de cisão da pessoa coletiva ou entidade equiparada, a representação cabe aos representantes das pessoas cindidas.
+                7 - No caso de fusão da pessoa coletiva ou entidade equiparada, a representação cabe ao representante da pessoa fundida.
+                8 - No caso de extinção e quando tenha sido declarada a insolvência e até ao encerramento da liquidação, mantém-se o representante à data da extinção ou da declaração de insolvência.
+                9 - (Revogado.)
+
+Artigo 59.º - Constituição de arguido
+                1 - Sem prejuízo do disposto no artigo anterior, é obrigatória a constituição de arguido logo que:
+                    a) Correndo inquérito contra pessoa determinada em relação à qual haja suspeita fundada da prática de crime, esta prestar declarações perante qualquer autoridade judiciária ou órgão de polícia criminal;
+                    b) Tenha de ser aplicada a qualquer pessoa uma medida de coação ou de garantia patrimonial, ressalvado o disposto nos n.os 3 a 5 do artigo 192.º;
+                    c) Um suspeito for detido, nos termos e para os efeitos previstos nos artigos 254.º a 261.º; ou
+                    d) For levantado auto de notícia que dê uma pessoa como agente de um crime e aquele lhe for comunicado, salvo se a notícia for manifestamente infundada.
+                2 - A constituição de arguido opera-se através da comunicação, oral ou por escrito, feita ao visado por uma autoridade judiciária ou um órgão de polícia criminal, de que a partir desse momento aquele deve considerar-se arguido num processo penal e da indicação e, se necessário, explicação dos direitos e deveres processuais referidos no artigo 61.º que por essa razão passam a caber-lhe.
+                3 - A constituição de arguido de pessoa coletiva ou entidade equiparada opera-se por comunicação ao seu representante, logo que se verifiquem as circunstâncias mencionadas nas alíneas a), b) ou d) do n.º 1.
+                4 - A constituição de arguido feita por órgão de polícia criminal é comunicada à autoridade judiciária no prazo de 10 dias e por esta apreciada, em ordem à sua validação, no prazo de 10 dias.
+                5 - A constituição de arguido implica a entrega, sempre que possível no próprio ato ou sem demora injustificada, de documento de que constem a identificação do processo e do defensor, se este tiver sido nomeado, e os direitos e deveres processuais referidos no artigo 61.º
+                6 - Se o arguido não conhecer ou não dominar a língua portuguesa, quando o documento previsto no número anterior não esteja disponível em língua que este compreenda, a informação é transmitida oralmente, se necessário com intervenção de intérprete, sem prejuízo de lhe ser posteriormente entregue, sem demora injustificada, documento escrito em língua que compreenda.
+                7 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova.
+                8 - A não validação da constituição de arguido pela autoridade judiciária não prejudica as provas anteriormente obtidas.
+                9 - Sem prejuízo da prossecução do processo, a constituição de arguido menor é comunicada, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.
+
+Artigo 60.º - Outros casos de constituição de arguido
+                1 - Se, durante qualquer inquirição feita a pessoa que não é arguido, surgir fundada suspeita de crime por ela cometido, a entidade que procede ao acto suspende-o imediatamente e procede à comunicação e à indicação referidas no n.º 2 do artigo anterior.
+                2 - A pessoa sobre quem recair suspeita de ter cometido um crime tem direito a ser constituída, a seu pedido, como arguido sempre que estiverem a ser efectuadas diligências, destinadas a comprovar a imputação, que pessoalmente a afectem.
+                3 - Os números anteriores são aplicáveis logo que, durante a inquirição de um seu representante como arguido ou testemunha, surja a fundada suspeita da prática de um crime pela pessoa coletiva ou entidade equiparada que ainda não seja arguida.
+                4 - É correspondentemente aplicável o disposto nos n.os 2 a 8 do artigo 58.º
+
+Artigo 61.º - Posição processual
+Desde o momento em que uma pessoa adquirir a qualidade de arguido é-lhe assegurado o exercício de direitos e de deveres processuais, sem prejuízo da aplicação de medidas de coacção e de garantia patrimonial e da efectivação de diligências probatórias, nos termos especificados na lei.
+
+Artigo 62.º - Direitos e deveres processuais
+                1 - O arguido goza, em especial, em qualquer fase do processo e salvas as excepções da lei, dos direitos de:
+                    a) Estar presente aos actos processuais que directamente lhe disserem respeito;
+                    b) Ser ouvido pelo tribunal ou pelo juiz de instrução sempre que eles devam tomar qualquer decisão que pessoalmente o afecte;
+                    c) Ser informado dos factos que lhe são imputados antes de prestar declarações perante qualquer entidade;
+                    d) Não responder a perguntas feitas, por qualquer entidade, sobre os factos que lhe forem imputados e sobre o conteúdo das declarações que acerca deles prestar;
+                    e) Constituir advogado ou solicitar a nomeação de um defensor;
+                    f) Ser assistido por defensor em todos os actos processuais em que participar e, quando detido, comunicar, mesmo em privado, com ele;
+                    g) Intervir no inquérito e na instrução, oferecendo provas e requerendo as diligências que se lhe afigurarem necessárias;
+                    h) Ser informado, pela autoridade judiciária ou pelo órgão de polícia criminal perante os quais seja obrigado a comparecer, dos direitos que lhe assistem;
+                    i) Ser acompanhado, caso seja menor, durante as diligências processuais a que compareça, pelos titulares das responsabilidades parentais, pelo representante legal ou por pessoa que tiver a sua guarda de facto ou, na impossibilidade de contactar estas pessoas, ou quando circunstâncias especiais fundadas no seu interesse ou as necessidades do processo o imponham, e apenas enquanto essas circunstâncias persistirem, por outra pessoa idónea por si indicada e aceite pela autoridade judiciária competente;
+                    j) Tradução e interpretação, nos termos dos artigos 92.º e 93.º;
+                    k) Recorrer, nos termos da lei, das decisões que lhe forem desfavoráveis.
+                2 - A comunicação em privado referida na alínea f) do número anterior ocorre à vista quando assim o impuserem razões de segurança, mas em condições de não ser ouvida pelo encarregado da vigilância.
+                3 - A informação a que se refere a alínea h) do n.º 1, no caso de arguido menor, é também disponibilizada às pessoas referidas na alínea i) do mesmo número.
+                4 - Caso o menor não tenha indicado outra pessoa para o acompanhar, ou a pessoa nomeada por si nos termos da alínea i) do n.º 1 não seja aceite pela autoridade judiciária competente, esta procede à nomeação, para o mesmo efeito, de técnico especializado para o acompanhamento.
+                5 - Para efeitos do disposto na alínea i) do n.º 1 e nos n.os 3 e 4, presume-se a menoridade se, depois de realizadas todas as diligências para proceder à identificação do arguido, a sua idade permanecer incerta e existirem motivos para crer que se trata de menor.
+                6 - Recaem em especial sobre o arguido os deveres de:
+                    a) Comparecer perante o juiz, o Ministério Público ou os órgãos de polícia criminal sempre que a lei o exigir e para tal tiver sido devidamente convocado;
+                    b) Responder com verdade às perguntas feitas por entidade competente sobre a sua identidade;
+                    c) Prestar termo de identidade e residência logo que assuma a qualidade de arguido;
+                    d) Sujeitar-se a diligências de prova e a medidas de coacção e garantia patrimonial especificadas na lei e ordenadas e efectuadas por entidade competente.
+                7 - Os direitos e os deveres previstos nos números anteriores são exercidos e cumpridos pela pessoa coletiva ou entidade equiparada, através do seu representante.
+
+Artigo 63.º - Defensor
+                1 - O arguido pode constituir advogado em qualquer altura do processo.
+                2 - (Revogado).
+                3 - (Revogado).
+                4 - Tendo o arguido mais do que um defensor constituído, as notificações são feitas àquele que for indicado em primeiro lugar no acto de constituição.
+
+Artigo 64.º - Direitos do defensor
+                1 - O defensor exerce os direitos que a lei reconhece ao arguido, salvo os que ela reservar pessoalmente a este.
+                2 - O arguido pode retirar eficácia ao acto realizado em seu nome pelo defensor, desde que o faça por declaração expressa anterior a decisão relativa àquele acto.
+
+Artigo 65.º - Obrigatoriedade de assistência
+                1 - É obrigatória a assistência do defensor:
+                    a) Nos interrogatórios de arguido detido ou preso;
+                    b) Nos interrogatórios feitos por autoridade judiciária;
+                    c) No debate instrutório e na audiência;
+                    d) Em qualquer acto processual, à excepção da constituição de arguido, sempre que o arguido for cego, surdo, mudo, analfabeto, desconhecedor da língua portuguesa, menor de 21 anos, ou se suscitar a questão da sua inimputabilidade ou da sua imputabilidade diminuída;
+                    e) Nos recursos ordinários ou extraordinários;
+                    f) Nos casos a que se referem os artigos 271.º e 294.º;
+                    g) Na audiência de julgamento realizada na ausência do arguido;
+                    h) Nos demais casos que a lei determinar.
+                2 - Fora dos casos previstos no número anterior pode ser nomeado defensor ao arguido, a pedido do tribunal ou do arguido, sempre que as circunstâncias do caso revelarem a necessidade ou a conveniência de o arguido ser assistido.
+                3 - Sem prejuízo do disposto nos números anteriores, se o arguido não tiver advogado constituído nem defensor nomeado é obrigatória a nomeação de defensor quando contra ele for deduzida acusação, devendo a identificação do defensor constar do despacho de encerramento do inquérito.
+                4 - No caso previsto no número anterior, o arguido é informado, no despacho de acusação, de que fica obrigado, caso seja condenado, a pagar os honorários do defensor oficioso, salvo se lhe for concedido apoio judiciário, e que pode proceder à substituição desse defensor mediante a constituição de advogado.
+                5 - Sendo arguida uma pessoa coletiva ou entidade equiparada é correspondentemente aplicável o disposto nos números anteriores.
+
+Artigo 66.º - Assistência a vários arguidos
+Sendo vários os arguidos no mesmo processo, podem eles ser assistidos por um único defensor, se isso não contrariar a função da defesa.
+
+Artigo 67.º - Defensor nomeado
+                1 - A nomeação de defensor é notificada ao arguido e ao defensor quando não estiverem presentes no acto.
+                2 - O defensor nomeado pode ser dispensado do patrocínio se alegar causa que o tribunal julgue justa.
+                3 - O tribunal pode sempre substituir o defensor nomeado, a requerimento do arguido, por causa justa.
+                4 - Enquanto não for substituído, o defensor nomeado para um acto mantém-se para os actos subsequentes do processo.

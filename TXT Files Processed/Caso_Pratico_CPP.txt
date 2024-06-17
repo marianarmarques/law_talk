@@ -1,0 +1,37 @@
+Este documento contem um caso prático do Codigo Processual Penal e as suas respetivas resoluções.
+
+Enunciado: A está inimizado com B e C, na sequência de diversos conflitos entre eles e quer vingar-se. Assim, decide partir os vidros do automóvel de B, causando-lhe um prejuízo patrimonial de 400 E. (conduta que se subsume ao crime de dano do artigo 212º do CP); pouco tempo depois, passa a perseguir insistentemente C  causando-lhe inquietação (conduta subsumível ao crime do artigo 154º-A do CP), também para se vingar.
+Tempos depois, A vem a ser chamado para  prestar declarações no âmbito do processo penal, ato processual que teve por objeto aqueles factos, e que lhe foram imputados. B e C  empenharam-se na colaboração com as entidades competentes no processo, apresentando provas; suscitada a questão, exigiram que A fosse levado a julgamento para que fosse  condenado pelos ilícitos que praticou. Além disso, exigiram que todos  os danos  que lhe foram causados fossem reparados, tendo para o efeito respeitado as formalidades necessárias. De facto, A veio a ser julgado pelos dois crimes na mesma audiência, perante um juiz, o qual, a final,  vem a condenar A em pena de prisão, embora suspensa na execução, mas também condenou nas indemnizações solicitadas.
+Tendo presentes os factos agora descritos, refira (fundamentado sempre com as normas legais pertinentes).
+
+Pergunta : Quais as condições ou pressupostos que foram preenchidos para que os acontecimentos descritos no enunciado se pudessem ter verificado?
+Resposta :Princípio da Oficialidade. Limitação. Ambos os crimes são semipúblicos e o procedimento depende de queixa. Artigos 49º do CPP; artigo 113º do Código Penal.
+
+Pergunta : Qual foi a decisão final que foi proferida pela entidade competente para promover?
+Resposta : A foi condenado, pelo que foi julgado (audiência). Para ter havido julgamento, a entidade competente (o Ministério Público) teve de acusar, logo, princípio da legalidade na promoção processual:
+    1º momento (artigo 262º CPP);
+    2º momento: acusação: indícios suficientes (artigo 283 CPP); 
+Era admissível aplicação da suspensão provisória do processo ao caso (que poderia obviar o julgamento, uma vez que é alternativa à acusação ) – ou ainda mediação penal, todavia, B e C manifestaram-se contra, logo não haveria concordância.
+
+Pergunta : Qual é o estatuto processual que A terá assumido e qual o seu fundamento legal?
+Resposta : “Tempos depois, A vem a ser chamado para prestar declarações no âmbito do processo penal, ato processual que teve por objeto aqueles factos, e que lhe foram imputados.” Arguido: 58.º n.º 1 a) | 272.º n.º 1. Como está a ser investigado no âmbito de um processo penal, A deverá ser interrogado, mas já investido do estatuto de Arguido. Ser Arguido é um estatuto subjetivo que concede direitos ao seu titular.
+
+Pergunta : Qual o estatuto processual que B e C terão assumido, tendo em conta a atividade que desenvolveram, bem como as pretensões que apresentaram ?
+Resposta : “B e C empenharam-se na colaboração com as entidades competentes no processo, apresentando provas; suscitada a questão, exigiram que A fosse levado a julgamento para que fosse condenado pelos ilícitos que praticou. Além disso, exigiram que todos os danos que lhe foram causados fossem reparados, tendo para o efeito respeitado as formalidades necessárias.”
+
+Pergunta : Qual o estatuto processual dos Assistentes ?
+Resposta : O estatuto do Assistente corresponde à figura do ofendido que pretende ter uma atuação proativa do processo.
+
+Pergunta : Qual o estatuto das partes civis ?
+Resposta : A pretensão indemnizatória é esclarecida, à partida, no processo penal respetivo.
+
+Pergunta : Qual a legitimidade e competência do órgão judicante para realizar o julgamento e proferir a decisão final acima referida ?
+Resposta: - Critério qualitativo não se aplica (14.º, n.º 1 e n.º 2, a); 16.º, nº. 2, a))
+          - Aplica-se o critério quantitativo
+          - os crimes de dano (art.º 212.º CP) e de perseguição têm uma medida legal com um limite máximo de 3 anos de prisão
+          - O concurso de crimes abstratamente poderá ser punido com uma pena de prisão até 6 anos (3+3)  
+          - Em princípio seria competente o Tribunal coletivo – art.º 14.º, n.º 2, b) 
+          - Contudo, o Ministério Público parece ter entendido que a pena de prisão não deveria ser superior a 5 anos (16.º, n.º 3), visto que o julgamento foi realizado perante um juiz  
+          - Neste caso, o tribunal singular seria competente, mas não poderia punir com pena de prisão superior a 5 anos (16.º, n.º 4)
+          - Doutrinalmente é discutida a constitucionalidade desta possibilidade, tendo o TC já se pronunciado pela sua conformidade com a CRP
+          - Tribunal de júri não seria competente, quer pela ausência de preenchimento dos critérios qualitativo e quantitativo, quer por não ter sido requerida a sua intervenção (art.º 13.º)

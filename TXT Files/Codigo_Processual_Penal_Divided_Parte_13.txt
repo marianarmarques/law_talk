@@ -1,0 +1,134 @@
+Este ficheiro corresponde à parte 2, livro 6 (Das fases preliminares), titulo 1 (Da instrução) do código processual penal de portugal.
+
+Capítulo I - Disposições Gerais
+
+Artigo 286.º - Finalidade e Âmbito da Instrução
+1 - A instrução visa a comprovação judicial da decisão de deduzir acusação ou de arquivar o inquérito em ordem a submeter ou não a causa a julgamento.
+2 - A instrução tem carácter facultativo.
+3 - Não há lugar a instrução nas formas de processo especiais.
+
+Artigo 287.º - Requerimento para Abertura da Instrução
+1 - A abertura da instrução pode ser requerida no prazo de 20 dias a contar da notificação da acusação ou do arquivamento:
+    a) Pelo arguido, relativamente a factos pelos quais o ministério público ou o assistente, em caso de procedimento dependente de acusação particular, tiverem deduzido acusação; ou
+    b) Pelo assistente, se o procedimento não depender de acusação particular, relativamente a factos pelos quais o ministério público não tiver deduzido acusação.
+2 - O requerimento não está sujeito a formalidades especiais, mas deve conter, em súmula, as razões de facto e de direito de discordância relativamente à acusação ou não acusação, bem como, sempre que disso for caso, a indicação dos atos de instrução que o requerente pretende que o juiz leve a cabo, dos meios de prova que não tenham sido considerados no inquérito e dos factos que, através de uns e de outros, se espera provar, sendo ainda aplicável ao requerimento do assistente o disposto nas alíneas b) e d) do n.º 3 do artigo 283.º, não podendo ser indicadas mais de 20 testemunhas.
+3 - O requerimento só pode ser rejeitado por extemporâneo, por incompetência do juiz ou por inadmissibilidade legal da instrução.
+4 - No despacho de abertura de instrução o juiz nomeia defensor ao arguido que não tenha advogado constituído nem defensor nomeado.
+5 - O despacho de abertura de instrução é notificado ao ministério público, ao assistente, ao arguido e ao seu defensor.
+6 - É aplicável o disposto no n.º 14 do artigo 113.º
+
+Artigo 288.º - Direcção da Instrução
+1 - A direcção da instrução compete a um juiz de instrução, assistido pelos órgãos de polícia criminal.
+2 - As regras de competência relativas ao tribunal são correspondentemente aplicáveis ao juiz de instrução.
+3 - Quando a competência para a instrução pertencer ao supremo tribunal de justiça ou à relação, o instrutor é designado, por sorteio, de entre os juízes da secção e fica impedido de intervir nos subsequentes atos do processo.
+4 - O juiz investiga autonomamente o caso submetido em instrução, tendo em conta a indicação, constante do requerimento da abertura de instrução, a que se refere o n.º 2 do artigo anterior.
+
+Artigo 289.º - Conteúdo da Instrução
+1 - A instrução é formada pelo conjunto dos atos de instrução que o juiz entenda dever levar a cabo e, obrigatoriamente, por um debate instrutório, oral e contraditório, no qual podem participar o ministério público, o arguido, o defensor, o assistente e o seu advogado, mas não as partes civis.
+2 - O ministério público, o arguido, o defensor, o assistente e o seu advogado podem assistir aos atos de instrução por qualquer deles requeridos e suscitar pedidos de esclarecimento ou requerer que sejam formuladas as perguntas que entenderem relevantes para a descoberta da verdade.
+
+Capítulo II - Dos Atos de Instrução
+
+Artigo 290.º - Atos do Juiz de Instrução e Atos Delegáveis
+1 - O juiz pratica todos os atos necessários à realização das finalidades referidas no artigo 286.º, n.º 1.
+2 - O juiz pode, todavia, conferir a órgãos de polícia criminal o encargo de procederem a quaisquer diligências e investigações relativas à instrução, salvo tratando-se do interrogatório do arguido, da inquirição de testemunhas, de atos que por lei sejam cometidos em exclusivo à competência do juiz e, nomeadamente, os referidos no artigo 268.º, n.º 1, e no artigo 270.º, n.º 2.
+
+Artigo 291.º - Ordem dos Atos e Repetição
+1 - Os atos de instrução efetuam-se pela ordem que o juiz reputar mais conveniente para o apuramento da verdade. O juiz indefere os atos requeridos que entenda não interessarem à instrução ou servirem apenas para protelar o andamento do processo e pratica ou ordena oficiosamente aqueles que considerar úteis.
+2 - Do despacho previsto no número anterior cabe apenas reclamação, sendo irrecorrível o despacho que a decidir.
+3 - Os atos e diligências de prova praticados no inquérito só são repetidos no caso de não terem sido observadas as formalidades legais ou, tendo sido requeridos, quando a sua repetição se revelar indispensável à realização das finalidades da instrução.
+4 - Não são inquiridas testemunhas que devam depor sobre os aspetos referidos no artigo 128.º, n.º 2.
+
+Artigo 292.º - Provas Admissíveis
+1 - São admissíveis na instrução todas as provas que não forem proibidas por lei.
+2 - O juiz de instrução interroga o arguido e ouve a vítima, mesmo que não se tenha constituído assistente, quando o julgar necessário e sempre que estes o solicitarem.
+
+Artigo 293.º - Mandado de Comparência e Notificação
+1 - Sempre que for necessário assegurar a presença de qualquer pessoa em ato de instrução, o juiz emite mandado de comparência do qual constem a identificação da pessoa, a indicação do dia, do local e da hora a que deve apresentar-se e a menção das sanções em que incorre no caso de falta injustificada.
+2 - O mandado de comparência é notificado ao interessado com pelo menos três dias de antecedência, salvo em caso de urgência devidamente fundamentada, em que o juiz pode deixar ao notificando apenas o tempo necessário à comparência.
+
+Artigo 294.º - Declarações para Memória Futura
+Oficiosamente ou a requerimento, o juiz pode proceder, durante a instrução, à inquirição de testemunhas, à tomada de declarações do assistente, das partes civis, de peritos e de consultores técnicos e a acareações, nos termos e com as finalidades referidas no artigo 271.º
+
+Artigo 295.º - Certidões e Certificados de Registo
+São juntas aos autos as certidões e certificados de registo, nomeadamente o certificado de registo criminal do arguido, que ainda não constarem dos autos e se afigurarem previsivelmente necessários à instrução ou ao julgamento que venha a ter lugar e à determinação da competência do tribunal.
+
+Artigo 296.º - Auto de Instrução
+As diligências de prova realizadas em ato de instrução são documentadas mediante gravação ou redução a auto, sendo juntos ao processo os requerimentos apresentados pela acusação e pela defesa nesta fase, bem como quaisquer documentos relevantes para apreciação da causa.
+
+Capítulo III - Do Debate Instrutório
+
+Artigo 297.º - Designação da Data para o Debate
+1 - Quando considerar que não há lugar à prática de atos de instrução, nomeadamente nos casos em que estes não tiverem sido requeridos, ou em cinco dias a partir da prática do último ato, o juiz designa, quando ainda não o tenha feito, dia, hora e local para o debate instrutório, o qual é fixado para a data mais próxima possível, de modo que o prazo máximo de duração da instrução possa em qualquer caso ser respeitado.
+2 - É correspondentemente aplicável o disposto nos n.os 3 e 4 do artigo 312.º
+3 - A designação de data para o debate instrutório é notificada ao ministério público, ao arguido e ao assistente pelo menos cinco dias antes de aquele ter lugar. Em caso de conexão de processos nos termos do artigo 24.º, n.º 1, alíneas c), d) e e), a designação da data para o debate instrutório é notificada aos arguidos que não tenham requerido a instrução.
+4 - A designação de data para o debate é igualmente notificada, pelo menos três dias antes de aquele ter lugar, a quaisquer testemunhas, peritos e consultores técnicos cuja presença no debate o juiz considerar indispensável.
+5 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, 254.º e 293.º
+
+Artigo 298.º - Finalidade do Debate
+O debate instrutório visa permitir uma discussão perante o juiz, por forma oral e contraditória, sobre se, do decurso do inquérito e da instrução, resultam indícios de facto e elementos de direito suficientes para justificar a submissão do arguido a julgamento.
+
+Artigo 299.º - Atos Supervenientes
+1 - A designação de data para o debate não prejudica o dever do juiz de levar a cabo, antes do debate ou durante ele, os atos de instrução cujo interesse para a descoberta da verdade se tenha entretanto revelado.
+2 - A realização dos atos referidos no número anterior processa-se com observância das formalidades estabelecidas no capítulo anterior.
+
+Artigo 300.º - Adiamento do Debate
+1 - O debate só pode ser adiado por absoluta impossibilidade de ter lugar, nomeadamente por grave e legítimo impedimento de o arguido estar presente.
+2 - Em caso de adiamento, o juiz designa imediatamente nova data, a qual não pode exceder em 10 dias a anteriormente fixada. A nova data é comunicada aos presentes, mandando o juiz proceder à notificação dos ausentes cuja presença seja necessária.
+3 - Se o arguido renunciar ao direito de estar presente, o debate não é adiado com fundamento na sua falta, sendo ele representado pelo defensor constituído ou nomeado.
+4 - O debate só pode ser adiado uma vez. Se o arguido faltar na segunda data marcada, é representado pelo defensor constituído ou nomeado.
+
+Artigo 301.º - Disciplina, Direcção e Organização do Debate
+1 - A disciplina do debate, a sua direcção e organização competem ao juiz, detendo este, no necessário, poderes correspondentes aos conferidos por este código ao presidente, na audiência.
+2 - O debate decorre sem sujeição a formalidades especiais. O juiz assegura, todavia, a contraditoriedade na produção da prova e a possibilidade de o arguido ou o seu defensor se pronunciarem sobre ela em último lugar.
+3 - O juiz recusa qualquer requerimento ou diligência de prova que ultrapasse a natureza indiciária para aquela exigida nesta fase.
+
+Artigo 302.º - Decurso do Debate
+1 - O juiz abre o debate com uma exposição sumária sobre os atos de instrução a que tiver procedido e sobre as questões de prova relevantes para a decisão instrutória e que, em sua opinião, apresentem carácter controverso.
+2 - Em seguida concede a palavra ao ministério público, ao advogado do assistente e ao defensor para que estes, querendo, requeiram a produção de provas indiciárias suplementares que se proponham apresentar, durante o debate, sobre questões concretas controversas.
+3 - Segue-se a produção da prova sob a direta orientação do juiz, o qual decide, sem formalidades, quaisquer questões que a propósito se suscitarem. O juiz pode dirigir-se diretamente aos presentes, formulando-lhes as perguntas que entender necessárias à realização das finalidades do debate.
+4 - Antes de encerrar o debate, o juiz concede de novo a palavra ao ministério público, ao advogado do assistente e ao defensor para que estes, querendo, formulem em síntese as suas conclusões sobre a suficiência ou insuficiência dos indícios recolhidos e sobre questões de direito de que dependa o sentido da decisão instrutória.
+5 - É admissível réplica sucinta, a exercer uma só vez, sendo, porém, sempre o defensor, se pedir a palavra, o último a falar.
+
+Artigo 303.º - Alteração dos Factos Descritos na Acusação ou no Requerimento para Abertura da Instrução
+1 - Se dos atos de instrução ou do debate instrutório resultar alteração não substancial dos factos descritos na acusação do ministério público ou do assistente, ou no requerimento para abertura da instrução, o juiz, oficiosamente ou a requerimento, comunica a alteração ao defensor, interroga o arguido sobre ela sempre que possível e concede-lhe, a requerimento, um prazo para preparação da defesa não superior a oito dias, com o consequente adiamento do debate, se necessário.
+2 - Não tem aplicação o disposto no número anterior se a alteração verificada determinar a incompetência do juiz de instrução.
+3 - Uma alteração substancial dos factos descritos na acusação ou no requerimento para abertura da instrução não pode ser tomada em conta pelo tribunal para o efeito de pronúncia no processo em curso, nem implica a extinção da instância.
+4 - A comunicação da alteração substancial dos factos ao ministério público vale como denúncia para que ele proceda pelos novos factos, se estes forem autonomizáveis em relação ao objeto do processo.
+5 - O disposto no n.º 1 é correspondentemente aplicável quando o juiz alterar a qualificação jurídica dos factos descritos na acusação ou no requerimento para a abertura da instrução.
+
+Artigo 304.º - Continuidade do Debate
+1 - Ao debate instrutório é correspondentemente aplicável o disposto no artigo 328.º, n.os 1 e 2.
+2 - O juiz interrompe o debate sempre que, no decurso dele, se aperceber de que é indispensável a prática de novos atos de instrução que não possam ser levados a cabo no próprio debate.
+
+Artigo 305.º - Acta
+1 - Do debate instrutório é lavrada acta, a qual, sem prejuízo do disposto no artigo 99.º, n.º 3, é redigida por súmula em tudo o que se referir a declarações orais, nos termos do artigo 100.º, n.º 2.
+2 - A acta é assinada pelo juiz e pelo funcionário de justiça que a lavrar.
+
+Capítulo IV - Do Encerramento da Instrução
+
+Artigo 306.º - Prazos de Duração Máxima da Instrução
+1 - O juiz encerra a instrução nos prazos máximos de dois meses, se houver arguidos presos ou sob obrigação de permanência na habitação, ou de quatro meses, se os não houver.
+2 - O prazo de dois meses referido no número anterior é elevado para três meses quando a instrução tiver por objeto um dos crimes referidos no artigo 215.º, n.º 2.
+3 - Para efeito do disposto nos números anteriores, o prazo conta-se a partir da data de recebimento do requerimento para abertura da instrução.
+
+Artigo 307.º - Decisão Instrutória
+1 - Encerrado o debate instrutório, o juiz profere despacho de pronúncia ou de não pronúncia, que é logo ditado para acta, considerando-se notificado aos presentes, podendo fundamentar por remissão para as razões de facto e de direito enunciadas na acusação ou no requerimento de abertura da instrução.
+2 - É correspondentemente aplicável o disposto no artigo 281.º, obtida a concordância do ministério público.
+3 - Quando a complexidade da causa em instrução o aconselhar, o juiz, no acto de encerramento do debate instrutório, ordena que os autos lhe sejam feitos conclusos a fim de proferir, no prazo máximo de 10 dias, o despacho de pronúncia ou de não pronúncia. Neste caso, o juiz comunica de imediato aos presentes a data em que o despacho será lido, sendo correspondentemente aplicável o disposto na segunda parte do n.º 1.
+4 - A circunstância de ter sido requerida apenas por um dos arguidos não prejudica o dever de o juiz retirar da instrução as consequências legalmente impostas a todos os arguidos.
+5 - À notificação do lesado que tiver manifestado o propósito de deduzir pedido de indemnização civil, quando não for assistente, bem como, no caso previsto no n.º 4, à notificação de pessoas não presentes é correspondentemente aplicável o disposto no n.º 5 do artigo 283.º.
+
+Artigo 308.º - Despacho de Pronúncia ou de Não Pronúncia
+1 - Se, até ao encerramento da instrução, tiverem sido recolhidos indícios suficientes de se terem verificado os pressupostos de que depende a aplicação ao arguido de uma pena ou de uma medida de segurança, o juiz, por despacho, pronuncia o arguido pelos factos respectivos; caso contrário, profere despacho de não pronúncia.
+2 - É correspondentemente aplicável ao despacho referido no número anterior o disposto no artigo 283.º, n.os 2, 3 e 4, sem prejuízo do disposto na segunda parte do n.º 1 do artigo anterior.
+3 - No despacho referido no n.º 1 o juiz começa por decidir das nulidades e outras questões prévias ou incidentais de que possa conhecer.
+
+Artigo 309.º - Nulidade da Decisão Instrutória
+1 - A decisão instrutória é nula na parte em que pronunciar o arguido por factos que constituam alteração substancial dos descritos na acusação do ministério público ou do assistente ou no requerimento para abertura da instrução.
+2 - A nulidade é arguida no prazo de oito dias contados da data da notificação da decisão.
+
+Artigo 310.º - Recursos
+1 - A decisão instrutória que pronunciar o arguido pelos factos constantes da acusação do ministério público, formulada nos termos do artigo 283.º ou do n.º 4 do artigo 285.º, é irrecorrível, mesmo na parte em que apreciar nulidades e outras questões prévias ou incidentais, e determina a remessa imediata dos autos ao tribunal competente para o julgamento.
+2 - O disposto no número anterior não prejudica a competência do tribunal de julgamento para excluir provas proibidas.
+3 - É recorrível o despacho que indeferir a arguição da nulidade cominada no artigo anterior.

@@ -1,0 +1,266 @@
+Este ficheiro corresponde à parte 1 do livro 1 (Dos sujeitos do processo), titulo 1 (Do juiz e do tribunal) do código processual penal de portugal.
+
+Capítulo I - Da jurisdição
+
+Artigo 8.º - Administração da justiça penal
+Os tribunais judiciais são os órgãos competentes para decidir as causas penais e aplicar penas e medidas de segurança criminais.
+
+Artigo 9.º - Exercício da função jurisdicional penal
+                1 - Os tribunais judiciais administram a justiça penal de acordo com a lei e o direito.
+                2 - No exercício da sua função, os tribunais e demais autoridades judiciárias têm direito a ser coadjuvados por todas as outras autoridades; a colaboração solicitada prefere a qualquer outro serviço.
+
+Capítulo II - Da competência
+
+Secção I - Competência material e funcional
+
+Artigo 10.º - Disposições aplicáveis
+A competência material e funcional dos tribunais em matéria penal é regulada pelas disposições deste código e, subsidiariamente, pelas leis de organização judiciária.
+
+Artigo 11.º - Competência do Supremo Tribunal de Justiça
+                1 - Em matéria penal, o plenário do Supremo Tribunal de Justiça tem a competência que lhe é atribuída por lei.
+                2 - Compete ao presidente do Supremo Tribunal de Justiça, em matéria penal:
+                    a) Conhecer dos conflitos de competência entre secções;
+                    b) Autorizar a intercepção, a gravação e a transcrição de conversações ou comunicações em que intervenham o presidente da república, o presidente da assembleia da república ou o primeiro-ministro e determinar a respectiva destruição, nos termos dos artigos 187.º a 190.º;
+                    c) Exercer as demais atribuições conferidas por lei.
+                3 - Compete ao pleno das secções criminais do Supremo Tribunal de Justiça, em matéria penal:
+                    a) Julgar o presidente da república, o presidente da assembleia da república e o primeiro-ministro pelos crimes praticados no exercício das suas funções;
+                    b) Julgar os recursos de decisões proferidas em 1.ª instância pelas secções;
+                    c) Uniformizar a jurisprudência, nos termos dos artigos 437.º e seguintes.
+                4 - Compete às secções criminais do Supremo Tribunal de Justiça, em matéria penal:
+                    a) Julgar processos por crimes cometidos por juízes do Supremo Tribunal de Justiça e das relações e magistrados do ministério público que exerçam funções junto destes tribunais, ou equiparados;
+                    b) Julgar os recursos que não sejam da competência do pleno das secções;
+                    c) Conhecer dos pedidos de habeas corpus em virtude de prisão ilegal;
+                    d) Conhecer dos pedidos de revisão;
+                    e) Decidir sobre o pedido de atribuição de competência a outro tribunal da mesma espécie e hierarquia, nos casos de obstrução ao exercício da jurisdição pelo tribunal competente;
+                    f) Exercer as demais atribuições conferidas por lei.
+                5 - As secções funcionam com três juízes.
+                6 - Compete aos presidentes das secções criminais do Supremo Tribunal de Justiça, em matéria penal:
+                    a) Conhecer dos conflitos de competência entre relações, entre estas e os tribunais de 1.ª instância ou entre tribunais de 1.ª instância de diferentes distritos judiciais;
+                    b) Exercer as demais atribuições conferidas por lei.
+                7 - Compete a cada juiz das secções criminais do Supremo Tribunal de Justiça, em matéria penal, praticar os actos jurisdicionais relativos ao inquérito, dirigir a instrução, presidir ao debate instrutório e proferir despacho de pronúncia ou não pronúncia nos processos referidos na alínea a) do n.º 3 e na alínea a) do n.º 4.
+
+Artigo 12.º - Competência das Relações
+                1 - Em matéria penal, o plenário das relações tem a competência que lhe é atribuída por lei.
+                2 - Compete aos presidentes das relações, em matéria penal:
+                    a) Conhecer dos conflitos de competência entre secções;
+                    b) Exercer as demais atribuições conferidas por lei.
+                3 - Compete às secções criminais das relações, em matéria penal:
+                    a) Julgar processos por crimes cometidos por juízes de direito, procuradores da república e procuradores-adjuntos;
+                    b) Julgar recursos;
+                    c) Julgar os processos judiciais de extradição;
+                    d) Julgar os processos de revisão e confirmação de sentença penal estrangeira;
+                    e) Exercer as demais atribuições conferidas por lei.
+                4 - As secções funcionam com três juízes.
+                5 - Compete aos presidentes das secções criminais das relações, em matéria penal:
+                    a) Conhecer dos conflitos de competência entre tribunais de 1.ª instância do respectivo distrito judicial;
+                    b) Exercer as demais atribuições conferidas por lei.
+                6 - Compete a cada juiz das secções criminais das relações, em matéria penal, praticar os actos jurisdicionais relativos ao inquérito, dirigir a instrução, presidir ao debate instrutório e proferir despacho de pronúncia ou não pronúncia nos processos referidos na alínea a) do n.º 3.
+
+Artigo 13.º - Competência do Tribunal do Júri
+                1 - Compete ao tribunal do júri julgar os processos que, tendo a intervenção do júri sido requerida pelo ministério público, pelo assistente ou pelo arguido, respeitarem a crimes previstos no título iii e no capítulo i do título v do livro ii do código penal e na lei penal relativa às violações do direito internacional humanitário.
+                2 - Compete ainda ao tribunal do júri julgar os processos que, não devendo ser julgados pelo tribunal singular e tendo a intervenção do júri sido requerida pelo ministério público, pelo assistente ou pelo arguido, respeitarem a crimes cuja pena máxima, abstractamente aplicável, for superior a oito anos de prisão.
+                3 - O requerimento do ministério público e o do assistente devem ter lugar no prazo para dedução da acusação, conjuntamente com esta, e o do arguido, no prazo do requerimento para abertura de instrução. Havendo instrução, o requerimento do arguido e o do assistente que não deduziu acusação devem ter lugar no prazo de oito dias a contar da notificação da pronúncia.
+                4 - (Revogado.)
+                5 - O requerimento de intervenção do júri é irretractável.
+
+Artigo 14.º - Competência do Tribunal Colectivo
+                1 - Compete ao tribunal colectivo, em matéria penal, julgar os processos que, não devendo ser julgados pelo tribunal do júri, respeitarem a crimes previstos no título iii e no capítulo i do título v do livro ii do código penal e na lei penal relativa às violações do direito internacional humanitário.
+                2 - Compete, ainda, ao tribunal colectivo julgar os processos que, não devendo ser julgados pelo tribunal singular, respeitarem a crimes:
+                    a) Dolosos ou agravados pelo resultado, quando for elemento do tipo a morte de uma pessoa; ou
+                    b) Cuja pena máxima, abstratamente aplicável, seja superior a 5 anos de prisão mesmo quando, no caso de concurso de infrações, seja inferior o limite máximo correspondente a cada crime.
+
+Artigo 15.º - Determinação da pena aplicável
+Para efeito do disposto nos artigos 13.º e 14.º, na determinação da pena abstractamente aplicável são levadas em conta todas as circunstâncias que possam elevar o máximo legal da pena a aplicar no processo.
+
+Artigo 16.º - Competência do Tribunal Singular
+                1 - Compete ao tribunal singular, em matéria penal, julgar os processos que por lei não couberem na competência dos tribunais de outra espécie.
+                2 - Compete também ao tribunal singular, em matéria penal, julgar os processos que respeitarem a crimes:
+                    a) Previstos no capítulo ii do título v do livro ii do código penal; ou
+                    b) Cuja pena máxima, abstractamente aplicável, seja igual ou inferior a cinco anos de prisão.
+                    c) (Revogado.)
+                3 - Compete ainda ao tribunal singular julgar os processos por crimes previstos no artigo 14.º, n.º 2, alínea b), mesmo em caso de concurso de infracções, quando o ministério público, na acusação, ou, em requerimento, quando seja superveniente o conhecimento do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a cinco anos.
+                4 - No caso previsto no número anterior, o tribunal não pode aplicar pena de prisão superior a cinco anos.
+
+Artigo 17.º - Competência do Juiz de Instrução
+Compete ao juiz de instrução proceder à instrução, decidir quanto à pronúncia e exercer todas as funções jurisdicionais até à remessa do processo para julgamento, nos termos prescritos neste código.
+
+Artigo 18.º - Tribunal de Execução de Penas
+A competência do tribunal de execução de penas é regulada em lei especial.
+
+Secção II - Competência territorial
+
+Artigo 19.º - Regras gerais
+                1 - É competente para conhecer de um crime o tribunal em cuja área se tiver verificado a consumação.
+                2 - Tratando-se de crime que compreenda como elemento do tipo a morte de uma pessoa, é competente o tribunal em cuja área o agente actuou ou, em caso de omissão, deveria ter actuado.
+                3 - Para conhecer de crime que se consuma por actos sucessivos ou reiterados, ou por um só acto susceptível de se prolongar no tempo, é competente o tribunal em cuja área se tiver praticado o último acto ou tiver cessado a consumação.
+                4 - Se o crime não tiver chegado a consumar-se, é competente para dele conhecer o tribunal em cuja área se tiver praticado o último acto de execução ou, em caso de punibilidade dos actos preparatórios, o último acto de preparação.
+
+Artigo 20.º - Crime cometido a bordo de navio ou aeronave
+                1 - É competente para conhecer de crime cometido a bordo de navio o tribunal da área do porto português para onde o agente se dirigir ou onde ele desembarcar; e, não se dirigindo o agente para território português ou nele não desembarcando, ou fazendo parte da tripulação, o tribunal da área da matrícula.
+                2 - O disposto no número anterior é correspondentemente aplicável a crime cometido a bordo de aeronave.
+                3 - Para qualquer caso não previsto nos números anteriores é competente o tribunal da área onde primeiro tiver havido notícia do crime.
+
+Artigo 21.º - Crime de localização duvidosa ou desconhecida
+                1 - Se o crime estiver relacionado com áreas diversas e houver dúvidas sobre aquela em que se localiza o elemento relevante para determinação da competência territorial, é competente para dele conhecer o tribunal de qualquer das áreas, preferindo o daquela onde primeiro tiver havido notícia do crime.
+                2 - Se for desconhecida a localização do elemento relevante, é competente o tribunal da área onde primeiro tiver havido notícia do crime.
+
+Artigo 22.º - Crime cometido no estrangeiro
+                1 - Se o crime for cometido no estrangeiro, é competente para dele conhecer o tribunal da área onde o agente tiver sido encontrado ou do seu domicílio. Quando ainda assim não for possível determinar a competência, esta pertence ao tribunal da área onde primeiro tiver havido notícia do crime.
+                2 - Se o crime for cometido em parte no estrangeiro, é competente para dele conhecer o tribunal da área nacional onde tiver sido praticado o último acto relevante, nos termos das disposições anteriores.
+
+Artigo 23.º - Processo respeitante a magistrado
+Se num processo for ofendido, pessoa com a faculdade de se constituir assistente ou parte civil um magistrado, e para o processo devesse ter competência, por força das disposições anteriores, o tribunal onde o magistrado exerce funções, é competente o tribunal da mesma hierarquia ou espécie com sede mais próxima, salvo tratando-se do supremo tribunal de justiça.
+
+Secção III - Competência por conexão
+
+Artigo 24.º - Casos de conexão
+                1 - Há conexão de processos quando:
+                    a) O mesmo agente tiver cometido vários crimes através da mesma acção ou omissão;
+                    b) O mesmo agente tiver cometido vários crimes, na mesma ocasião ou lugar, sendo uns causa ou efeito dos outros, ou destinando-se uns a continuar ou ocultar os outros;
+                    c) O mesmo crime tiver sido cometido por vários agentes em comparticipação;
+                    d) Vários agentes tiverem cometido diversos crimes em comparticipação, na mesma ocasião ou lugar, sendo uns causa ou efeito dos outros, ou destinando-se uns a continuar ou ocultar os outros; ou
+                    e) Vários agentes tiverem cometido diversos crimes reciprocamente na mesma ocasião ou lugar.
+                    f) Esteja em causa responsabilidade cumulativa do agente do crime e da pessoa coletiva ou entidade equiparada a que o mesmo crime é imputado.
+                2 - A conexão só opera relativamente aos processos que se encontrarem simultaneamente na fase de inquérito, de instrução ou de julgamento.
+                3 - A conexão não opera quando seja previsível que origine o incumprimento dos prazos de duração máxima da instrução ou o retardamento excessivo desta fase processual ou da audiência de julgamento.
+
+Artigo 25.º - Conexão de processos da competência de tribunais com sede na mesma comarca
+Para além dos casos previstos no artigo anterior, há ainda conexão de processos quando o mesmo agente tiver cometido vários crimes cujo conhecimento seja da competência de tribunais com sede na mesma comarca, nos termos dos artigos 19.º e seguintes.
+
+Artigo 26.º - Limites à conexão
+A conexão não opera entre processos que sejam e processos que não sejam da competência de tribunais de menores.
+
+Artigo 27.º - Competência material e funcional determinada pela conexão
+Se os processo conexos devessem ser da competência de tribunais de diferente hierarquia ou espécie, é competente para todos o tribunal de hierarquia ou espécie mais elevada.
+
+Artigo 28.º - Competência determinada pela conexão
+Se os processos devessem ser da competência de tribunais com jurisdição em diferentes áreas ou com sede na mesma comarca, é competente para conhecer de todos:
+                    a) O tribunal competente para conhecer do crime a que couber pena mais grave;
+                    b) Em caso de crimes de igual gravidade, o tribunal a cuja ordem o arguido estiver preso ou, havendo vários arguidos presos, aquele à ordem do qual estiver preso o maior número;
+                    c) Se não houver arguidos presos ou o seu número for igual, o tribunal da área onde primeiro tiver havido notícia de qualquer dos crimes.
+
+Artigo 29.º - Unidade e apensação dos processos
+                1 - Para todos os crimes determinantes de uma conexão, nos termos das disposições anteriores, organiza-se um só processo.
+                2 - Se tiverem já sido instaurados processos distintos, logo que a conexão for reconhecida procede-se à apensação de todos àquele que respeitar ao crime determinante da competência por conexão.
+
+Artigo 30.º - Separação dos processos
+                1 - Sem prejuízo do disposto no n.º 5 do artigo 264.º, oficiosamente ou a requerimento do ministério público, do arguido, do assistente ou do lesado, o tribunal faz cessar a conexão e ordena a separação de algum, alguns ou de todos os processos sempre que:
+                    a) A conexão afetar gravemente e de forma desproporcionada a posição de qualquer arguido ou houver na separação um interesse ponderoso e atendível de qualquer um deles, nomeadamente no não prolongamento da prisão preventiva;
+                    b) A conexão puder representar um risco para a realização da justiça em tempo útil, para a pretensão punitiva do estado ou para o interesse do ofendido, do assistente ou do lesado;
+                    c) A manutenção da conexão possa pôr em risco o cumprimento dos prazos de duração máxima da instrução ou retardar excessivamente a audiência de julgamento;
+                    d) A conexão puder retardar excessivamente o julgamento de qualquer dos arguidos; ou
+                    e) Houver declaração de contumácia, ou o julgamento decorrer na ausência de um ou alguns dos arguidos e o tribunal tiver como mais conveniente a separação de processos.
+                2 - A requerimento de algum ou alguns dos arguidos, o tribunal ordena a providência referida no número anterior quando outro ou outros dos arguidos tiverem requerido a intervenção do júri.
+                3 - O requerimento referido na primeira parte do número anterior tem lugar nos oito dias posteriores à notificação do despacho que tiver admitido a intervenção do júri.
+
+Artigo 31.º - Prorrogação da competência
+A competência determinada por conexão, nos termos dos artigos anteriores, mantém-se:
+                    a) Mesmo que, relativamente ao crime ou aos crimes determinantes da competência por conexão, o tribunal profira uma absolvição ou a responsabilidade criminal se extinga antes do julgamento;
+                    b) Para o conhecimento dos processos separados nos termos do artigo 30.º, n.º 1.
+
+Capítulo III - Da declaração de incompetência
+
+Artigo 32.º - Conhecimento e dedução da incompetência
+                1 - A incompetência do tribunal é por este conhecida e declarada oficiosamente e pode ser deduzida pelo ministério público, pelo arguido e pelo assistente até ao trânsito em julgado da decisão final.
+                2 - Tratando-se de incompetência territorial, ela somente pode ser deduzida e declarada:
+                    a) Até ao início do debate instrutório, tratando-se de juiz de instrução; ou
+                    b) Até ao início da audiência de julgamento, tratando-se de tribunal de julgamento.
+
+Artigo 33.º - Efeitos da declaração de incompetência
+                1 - Declarada a incompetência do tribunal, o processo é remetido para o tribunal competente, o qual anula os actos que se não teriam praticado se perante ele tivesse corrido o processo e ordena a repetição dos actos necessários para conhecer da causa.
+                2 - O tribunal declarado incompetente pratica os actos processuais urgentes.
+                3 - As medidas de coacção ou de garantia patrimonial ordenadas pelo tribunal declarado incompetente conservam eficácia mesmo após a declaração de incompetência, mas devem, no mais breve prazo, ser convalidadas ou infirmadas pelo tribunal competente.
+                4 - Se para conhecer de um crime não forem competentes os tribunais portugueses, o processo é arquivado.
+
+Capítulo IV - Dos conflitos de competência
+
+Artigo 34.º - Casos de conflito e sua cessação
+                1 - Há conflito, positivo ou negativo, de competência quando, em qualquer estado do processo, dois ou mais tribunais, de diferente ou da mesma espécie, se considerarem competentes ou incompetentes para conhecer do mesmo crime imputado ao mesmo arguido.
+                2 - O conflito cessa logo que um dos tribunais se declarar, mesmo oficiosamente, incompetente ou competente, segundo o caso.
+
+Artigo 35.º - Denúncia do conflito
+                1 - O tribunal, logo que se aperceber do conflito, suscita-o junto do órgão competente para o decidir, nos termos dos artigos 11.º e 12.º, remetendo-lhe cópia dos actos e todos os elementos necessários à sua resolução, com indicação do ministério público, do arguido, do assistente e dos advogados respectivos.
+                2 - O conflito pode ser suscitado também pelo ministério público, pelo arguido ou pelo assistente mediante requerimento dirigido ao órgão competente para a resolução, contendo a indicação das decisões e das posições em conflito, ao qual se juntam os elementos mencionados na parte final do número anterior.
+                3 - A denúncia ou o requerimento previstos nos números anteriores não prejudicam a realização dos actos processuais urgentes.
+
+Artigo 36.º - Resolução do conflito
+                1 - O órgão competente para dirimir o conflito envia os autos com vista ao ministério público e notifica os sujeitos processuais que não tiverem suscitado o conflito para, em todos os casos, alegarem no prazo de cinco dias, após o que, e depois de recolhidas as informações e as provas que reputar necessárias, resolve o conflito.
+                2 - A decisão sobre o conflito é irrecorrível.
+                3 - A decisão é imediatamente comunicada aos tribunais em conflito e ao ministério público junto deles e notificada ao arguido e ao assistente.
+                4 - É correspondentemente aplicável o disposto no artigo 33.º, n.º 3.
+
+Capítulo V - Da obstrução ao exercício da jurisdição
+
+Artigo 37.º - Pressupostos e efeito
+Quando, em qualquer estado do processo posterior ao despacho que designar dia para a audiência, em virtude de graves situações locais idóneas a perturbar o desenvolvimento do processo:
+                    a) O exercício da jurisdição pelo tribunal competente se revelar impedido ou gravemente dificultado;
+                    b) For de recear daquele exercício grave perigo para a segurança ou a tranquilidade públicas; ou
+                    c) A liberdade de determinação dos participantes no processo se encontrar gravemente comprometida;
+a competência é atribuída a outro tribunal da mesma espécie e hierarquia onde a obstrução previsivelmente se não verifique e que se encontre o mais próximo possível do obstruído.
+
+Artigo 38.º - Apreciação e decisão
+                1 - Cabe às secções criminais do Supremo Tribunal de Justiça decidir do pedido de atribuição de competência que lhe seja dirigido pelo tribunal obstruído, pelo ministério público, pelo arguido, pelo assistente ou pelas partes civis. O pedido é logo acompanhado dos elementos relevantes para a decisão.
+                2 - É, com as necessárias adaptações, aplicável o disposto nos n.os 1 e 3 do artigo 36.º, bem como no n.º 3 do artigo 33.º
+                3 - O pedido de atribuição de competência não tem efeito suspensivo, mas este pode ser-lhe conferido, atentas as circunstâncias do caso, pelo tribunal competente para a decisão. Neste caso o tribunal obstruído pratica os actos processuais urgentes.
+                4 - Se o pedido for deferido, o tribunal designado declara se e em que medida os actos processuais já praticados conservam eficácia ou devem ser repetidos perante ele.
+                5 - Se o pedido do arguido, do assistente ou das partes civis for considerado manifestamente infundado, o requerente é condenado ao pagamento de uma soma entre 6 uc e 20 uc.
+
+Capítulo VI - Dos impedimentos, recusas e escusas
+
+Artigo 39.º - Impedimentos
+                1 - Nenhum juiz pode exercer a sua função num processo penal:
+                    a) Quando for, ou tiver sido, cônjuge ou representante legal do arguido, do ofendido ou de pessoa com a faculdade de se constituir assistente ou parte civil ou quando com qualquer dessas pessoas viver ou tiver vivido em condições análogas às dos cônjuges;
+                    b) Quando ele, ou o seu cônjuge, ou a pessoa que com ele viver em condições análogas às dos cônjuges, for ascendente, descendente, parente até ao 3.º grau, tutor ou curador, adoptante ou adoptado do arguido, do ofendido ou de pessoa com a faculdade de se constituir assistente ou parte civil ou for afim destes até àquele grau;
+                    c) Quando tiver intervindo no processo como representante do ministério público, órgão de polícia criminal, defensor, advogado do assistente ou da parte civil ou perito; ou
+                    d) Quando, no processo, tiver sido ouvido ou dever sê-lo como testemunha.
+                2 - Se o juiz tiver sido oferecido como testemunha, declara, sob compromisso de honra, por despacho nos autos, se tem conhecimento de factos que possam influir na decisão da causa. Em caso afirmativo verifica-se o impedimento; em caso negativo deixa de ser testemunha.
+                3 - Não podem exercer funções, a qualquer título, no mesmo processo juízes que sejam entre si cônjuges, parentes ou afins até ao 3.º grau ou que vivam em condições análogas às dos cônjuges.
+
+Artigo 40.º - Impedimento por participação em processo
+                1 - Nenhum juiz pode intervir em julgamento, recurso ou pedido de revisão relativos a processo em que tiver:
+                    a) Aplicado medida de coação prevista nos artigos 200.º a 202.º;
+                    b) Presidido a debate instrutório;
+                    c) Participado em julgamento anterior;
+                    d) Proferido ou participado em decisão de recurso anterior que tenha conhecido, a final, do objeto do processo, de decisão instrutória ou de decisão a que se refere a alínea a), ou proferido ou participado em decisão de pedido de revisão anterior.
+                    e) Recusado o arquivamento em caso de dispensa de pena, a suspensão provisória ou a forma sumaríssima por discordar da sanção proposta.
+                2 - Nenhum juiz pode intervir em instrução relativa a processo em que tiver participado nos termos previstos nas alíneas a) ou e) do número anterior.
+                3 - Nenhum juiz pode intervir em processo que tenha tido origem em certidão por si mandada extrair noutro processo pelos crimes previstos nos artigos 359.º ou 360.º do código penal.
+
+Artigo 41.º - Declaração de impedimento e seu efeito
+                1 - O juiz que tiver qualquer impedimento nos termos dos artigos anteriores declara-o imediatamente por despacho nos autos.
+                2 - A declaração de impedimento pode ser requerida pelo ministério público ou pelo arguido, pelo assistente ou pelas partes civis logo que sejam admitidos a intervir no processo, em qualquer estado deste; ao requerimento são juntos os elementos comprovativos. O juiz visado profere o despacho no prazo máximo de cinco dias.
+                3 - Os actos praticados por juiz impedido são nulos, salvo se não puderem ser repetidos utilmente e se se verificar que deles não resulta prejuízo para a justiça da decisão do processo.
+
+Artigo 42.º - Recurso
+                1 - O despacho em que o juiz se considerar impedido é irrecorrível. Do despacho em que ele não reconhecer impedimento que lhe tenha sido oposto cabe recurso para o tribunal imediatamente superior.
+                2 - Se o impedimento for oposto a juiz do Supremo Tribunal de Justiça, o recurso é decidido pela secção criminal deste mesmo tribunal sem a participação do visado.
+                3 - O recurso tem efeito suspensivo, sem prejuízo de serem levados a cabo, mesmo pelo juiz visado, se tal for indispensável, os actos processuais urgentes.
+
+Artigo 43.º - Recusas e escusas
+                1 - A intervenção de um juiz no processo pode ser recusada quando correr o risco de ser considerada suspeita, por existir motivo, sério e grave, adequado a gerar desconfiança sobre a sua imparcialidade.
+                2 - Pode constituir fundamento de recusa, nos termos do n.º 1, a intervenção do juiz noutro processo ou em fases anteriores do mesmo processo fora dos casos do artigo 40.º
+                3 - A recusa pode ser requerida pelo ministério público, pelo arguido, pelo assistente ou pelas partes civis.
+                4 - O juiz não pode declarar-se voluntariamente suspeito, mas pode pedir ao tribunal competente que o escuse de intervir quando se verificarem as condições dos n.os 1 e 2.
+                5 - Os actos processuais praticados por juiz recusado ou escusado até ao momento em que a recusa ou a escusa forem solicitadas só são anulados quando se verificar que deles resulta prejuízo para a justiça da decisão do processo; os praticados posteriormente só são válidos se não puderem ser repetidos utilmente e se se verificar que deles não resulta prejuízo para a justiça da decisão do processo.
+
+Artigo 44.º - Prazos
+O requerimento de recusa e o pedido de escusa são admissíveis até ao início da audiência, até ao início da conferência nosrecursos ou até ao início do debate instrutório. Só o são posteriormente, até à sentença, ou até à decisão instrutória, quando osfactos invocados como fundamento tiverem tido lugar, ou tiverem sido conhecidos pelo invocante, após o início da audiência oudo debate.
+
+Artigo 45.º - Processo e decisão
+                1 - O requerimento de recusa e o pedido de escusa devem ser apresentados, juntamente com os elementos em que sefundamentam, perante:
+                    a) O tribunal imediatamente superior;
+                    b) A secção criminal do Supremo Tribunal de Justiça, tratando-se de juiz a ele pertencente, decidindo aquela sem a participaçãodo visado.
+                2 - Depois de apresentados o requerimento ou o pedido previstos no número anterior, o juiz visado pratica apenas os actosprocessuais urgentes ou necessários para assegurar a continuidade da audiência.
+                3 - O juiz visado pronuncia-se sobre o requerimento, por escrito, em cinco dias, juntando logo os elementos comprovativos.
+                4 - O tribunal, se não recusar logo o requerimento ou o pedido por manifestamente infundados, ordena as diligências de provanecessárias à decisão.
+                5 - O tribunal dispõe de um prazo de 30 dias, a contar da entrega do respectivo requerimento ou pedido, para decidir sobre arecusa ou a escusa.
+                6 - A decisão prevista no número anterior é irrecorrível.
+                7 - Se o tribunal recusar o requerimento do arguido, do assistente ou das partes civis por manifestamente infundado, condena orequerente ao pagamento de uma soma entre seis e vinte UCs.
+
+Artigo 46.º - Termos posteriores
+O juiz impedido, recusado ou escusado remete logo o processo ao juiz que, de harmonia com as leis de organização judiciária,deva substituí-lo.
+
+Artigo 47.º - Extensão do regime de impedimentos, recusas e escusas
+                1 - As disposições do presente capítulo são aplicáveis, com as adaptações necessárias, nomeadamente as constantes dosnúmeros seguintes, aos peritos, intérpretes e funcionários de justiça.
+                2 - A declaração de impedimento e o seu requerimento, bem como o requerimento de recusa e o pedido de escusa, são dirigidos ao tribunal ou ao juiz de instrução perante os quais correr o processo em que o incidente se suscitar e são por elesapreciados e imediata e definitivamente decididos, sem submissão a formalismo especial.
+                3 - Se não houver quem legalmente substitua o impedido, recusado ou escusado, o tribunal ou o juiz de instrução designam o substituto.

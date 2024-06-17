@@ -1,0 +1,121 @@
+Esta secção do ficheiro corresponde à parte 1 do livro 1 (Dos sujeitos do processo), titulo 4 (Vítima) do código processual penal de portugal.
+
+Artigo 67.º-A - Vítima
+1 - Considera-se:
+    a) 'Vítima':
+        i) A pessoa singular que sofreu um dano, nomeadamente um atentado à sua integridade física ou psíquica, um dano emocional ou moral, ou um dano patrimonial, diretamente causado por ação ou omissão, no âmbito da prática de um crime;
+        ii) Os familiares de uma pessoa cuja morte tenha sido diretamente causada por um crime e que tenham sofrido um dano em consequência dessa morte;
+        iii) A criança ou jovem até aos 18 anos que sofreu um dano causado por ação ou omissão no âmbito da prática de um crime, incluindo os que sofreram maus tratos relacionados com a exposição a contextos de violência doméstica;
+    b) 'Vítima especialmente vulnerável', a vítima cuja especial fragilidade resulte, nomeadamente, da sua idade, do seu estado de saúde ou de deficiência, bem como do facto de o tipo, o grau e a duração da vitimização haver resultado em lesões com consequências graves no seu equilíbrio psicológico ou nas condições da sua integração social;
+    c) 'Familiares', o cônjuge da vítima ou a pessoa que convivesse com a vítima em condições análogas às dos cônjuges, os seus parentes em linha reta, os irmãos e as pessoas economicamente dependentes da vítima;
+    d) 'Criança ou jovem', uma pessoa singular com idade inferior a 18 anos.
+2 - Para os efeitos previstos na subalínea ii) da alínea a) do n.º 1 integram o conceito de vítima, pela ordem e prevalência seguinte, o cônjuge sobrevivo não separado judicialmente de pessoas e bens, ou a pessoa que convivesse com a vítima em condições análogas às dos cônjuges, os descendentes e os ascendentes, na medida estrita em que tenham sofrido um dano com a morte, com exceção do autor dos factos que provocaram a morte.
+3 - As vítimas de criminalidade violenta, de criminalidade especialmente violenta e de terrorismo são sempre consideradas vítimas especialmente vulneráveis para efeitos do disposto na alínea b) do n.º 1.
+4 - Assistem à vítima os direitos de informação, de assistência, de proteção e de participação ativa no processo penal, previstos neste código e no estatuto da vítima.
+5 - A vítima tem direito a colaborar com as autoridades policiais ou judiciárias competentes, prestando informações e facultando provas que se revelem necessárias à descoberta da verdade e à boa decisão da causa.
+
+Esta secção do ficheiro corresponde à parte 1 do livro 1 (Dos sujeitos do processo), titulo 5 (Do Assistente) do código processual penal de portugal.
+
+Artigo 68.º - Assistente
+1 - Podem constituir-se assistentes no processo penal, além das pessoas e entidades a quem leis especiais conferirem esse direito:
+    a) Os ofendidos, considerando-se como tais os titulares dos interesses que a lei especialmente quis proteger com a incriminação, desde que maiores de 16 anos;
+    b) As pessoas de cuja queixa ou acusação particular depender o procedimento;
+    c) No caso de o ofendido morrer sem ter renunciado à queixa, o cônjuge sobrevivo não separado judicialmente de pessoas e bens ou a pessoa, de outro ou do mesmo sexo, que com o ofendido vivesse em condições análogas às dos cônjuges, os descendentes e adoptados, ascendentes e adoptantes, ou, na falta deles, irmãos e seus descendentes, salvo se alguma destas pessoas houver comparticipado no crime;
+    d) No caso de o ofendido ser menor de 16 anos ou por outro motivo incapaz, o representante legal e, na sua falta, as pessoas indicadas na alínea anterior, segundo a ordem aí referida, ou, na ausência dos demais, a entidade ou instituição com responsabilidades de protecção, tutelares ou educativas, quando o mesmo tenha sido judicialmente confiado à sua responsabilidade ou guarda, salvo se alguma delas houver auxiliado ou comparticipado no crime;
+    e) Qualquer pessoa nos crimes contra a paz e a humanidade, bem como nos crimes de tráfico de influência, favorecimento pessoal praticado por funcionário, denegação de justiça, prevaricação, recebimento ou oferta indevidos de vantagem, corrupção, peculato, participação económica em negócio, abuso de poder e de fraude na obtenção ou desvio de subsídio ou subvenção.
+2 - Tratando-se de procedimento dependente de acusação particular, o requerimento tem lugar no prazo de 10 dias a contar da advertência referida no n.º 4 do artigo 246.º
+3 - Os assistentes podem intervir em qualquer altura do processo, aceitando-o no estado em que se encontrar, desde que o requeiram ao juiz:
+    a) Até cinco dias antes do início do debate instrutório ou da audiência de julgamento;
+    b) Nos casos do artigo 284.º e da alínea b) do n.º 1 do artigo 287.º, no prazo estabelecido para a prática dos respectivos actos.
+    c) No prazo para interposição de recurso da sentença.
+4 - O juiz, depois de dar ao Ministério Público e ao arguido a possibilidade de se pronunciarem sobre o requerimento, decide por despacho, que é logo notificado àqueles.
+5 - Durante o inquérito, a constituição de assistente e os incidentes a ela respeitantes podem correr em separado, com junção dos elementos necessários à decisão.
+
+Artigo 69.º - Posição processual e atribuições dos assistentes
+1 - Os assistentes têm a posição de colaboradores do Ministério Público, a cuja actividade subordinam a sua intervenção no processo, salvas as excepções da lei.
+2 - Compete em especial aos assistentes:
+    a) Intervir no inquérito e na instrução, oferecendo provas e requerendo as diligências que se afigurarem necessárias e conhecer os despachos que sobre tais iniciativas recaírem;
+    b) Deduzir acusação independente da do Ministério Público e, no caso de procedimento dependente de acusação particular, ainda que aquele a não deduza;
+    c) Interpor recurso das decisões que os afectem, mesmo que o Ministério Público o não tenha feito, dispondo, para o efeito, de acesso aos elementos processuais imprescindíveis, sem prejuízo do regime aplicável ao segredo de justiça.
+
+Artigo 70.º - Representação judiciária dos assistentes
+1 - Os assistentes são sempre representados por advogado. Havendo vários assistentes, são todos representados por um só advogado. Se divergirem quanto à escolha, decide o juiz.
+2 - Ressalva-se do disposto na segunda parte do número anterior o caso de haver entre os vários assistentes interesses incompatíveis, bem como o de serem diferentes os crimes imputados ao arguido. Neste último caso, cada grupo de pessoas a quem a lei permitir a constituição como assistente por cada um dos crimes pode constituir um advogado, não sendo todavia lícito a cada pessoa ter mais de um representante.
+3 - Os assistentes podem ser acompanhados por advogado nas diligências em que intervierem.
+
+Esta secção do ficheiro corresponde à parte 1 do livro 1 (Dos sujeitos do processo), titulo 6 (Das Partes Civis) do código processual penal de portugal.
+
+Artigo 71.º - Princípio de adesão
+O pedido de indemnização civil fundado na prática de um crime é deduzido no processo penal respectivo, só o podendo ser em separado, perante o tribunal civil, nos casos previstos na lei.
+
+Artigo 72.º - Pedido em separado
+1 - O pedido de indemnização civil pode ser deduzido em separado, perante o tribunal civil, quando:
+    a) O processo penal não tiver conduzido à acusação dentro de oito meses a contar da notícia do crime, ou estiver sem andamento durante esse lapso de tempo;
+    b) O processo penal tiver sido arquivado ou suspenso provisoriamente, ou o procedimento se tiver extinguido antes do julgamento;
+    c) O procedimento depender de queixa ou de acusação particular;
+    d) Não houver ainda danos ao tempo da acusação, estes não forem conhecidos ou não forem conhecidos em toda a sua extensão;
+    e) A sentença penal não se tiver pronunciado sobre o pedido de indemnização civil, nos termos do artigo 82.º, n.º 3;
+    f) For deduzido contra o arguido e outras pessoas com responsabilidade meramente civil, ou somente contra estas haja sido provocada, nessa acção, a intervenção principal do arguido;
+    g) O valor do pedido permitir a intervenção civil do tribunal colectivo, devendo o processo penal correr perante tribunal singular;
+    h) O processo penal correr sob a forma sumária ou sumaríssima;
+    i) O lesado não tiver sido informado da possibilidade de deduzir o pedido civil no processo penal ou notificado para o fazer, nos termos dos artigos 75.º, n.º 1, e 77.º, n.º 2.
+2 - No caso de o procedimento depender de queixa ou de acusação particular, a prévia dedução do pedido perante o tribunal civil pelas pessoas com direito de queixa ou de acusação vale como renúncia a este direito.
+
+Artigo 73.º - Pessoas com responsabilidade meramente civil
+1 - O pedido de indemnização civil pode ser deduzido contra pessoas com responsabilidade meramente civil e estas podem intervir voluntariamente no processo penal.
+2 - A intervenção voluntária impede as pessoas com responsabilidade meramente civil de praticarem actos que o arguido tiver perdido o direito de praticar.
+
+Artigo 74.º - Legitimidade e poderes processuais
+1 - O pedido de indemnização civil é deduzido pelo lesado, entendendo-se como tal a pessoa que sofreu danos ocasionados pelo crime, ainda que se não tenha constituído ou não possa constituir-se assistente.
+2 - A intervenção processual do lesado restringe-se à sustentação e à prova do pedido de indemnização civil, competindo-lhe, correspondentemente, os direitos que a lei confere aos assistentes.
+3 - Os demandados e os intervenientes têm posição processual idêntica à do arguido quanto à sustentação e à prova das questões civis julgadas no processo, sendo independente cada uma das defesas.
+
+Artigo 75.º - Dever de informação
+1 - Logo que, no decurso do inquérito, tomarem conhecimento da existência de eventuais lesados, as autoridades judiciárias e os órgãos de polícia criminal devem informá-los da possibilidade de deduzirem pedido de indemnização civil em processo penal e das formalidades a observar.
+2 - Quem tiver sido informado de que pode deduzir pedido de indemnização civil nos termos do número anterior, ou, não o tendo sido, se considere lesado, pode manifestar no processo, até ao encerramento do inquérito, o propósito de o fazer.
+
+Artigo 76.º - Representação
+1 - O lesado pode fazer-se representar por advogado, sendo obrigatória a representação sempre que, em razão do valor do pedido, se deduzido em separado, fosse obrigatória a constituição de advogado, nos termos da lei do processo civil.
+2 - Os demandados e os intervenientes devem fazer-se representar por advogado.
+3 - Compete ao Ministério Público formular o pedido de indemnização civil em representação do Estado e de outras pessoas e interesses cuja representação lhe seja atribuída por lei.
+
+Artigo 77.º - Formulação do pedido
+1 - Quando apresentado pelo Ministério Público ou pelo assistente, o pedido é deduzido na acusação ou, em requerimento articulado, no prazo em que esta deve ser formulada.
+2 - O lesado que tiver manifestado o propósito de deduzir pedido de indemnização civil, nos termos do artigo 75.º, n.º 2, é notificado do despacho de acusação, ou, não o havendo, do despacho de pronúncia, se a ele houver lugar, para, querendo, deduzir o pedido, em requerimento articulado, no prazo de 20 dias.
+3 - Se não tiver manifestado o propósito de deduzir pedido de indemnização ou se não tiver sido notificado nos termos do número anterior, o lesado pode deduzir o pedido até 20 dias depois de ao arguido ser notificado o despacho de acusação ou, se o não houver, o despacho de pronúncia.
+4 - Quando, em razão do valor do pedido, se deduzido em separado, não fosse obrigatória a constituição de advogado, o lesado, nos prazos estabelecidos nos números anteriores, pode requerer que lhe seja arbitrada a indemnização civil. O requerimento não está sujeito a formalidades especiais e pode consistir em declaração em auto, com indicação do prejuízo sofrido e das provas.
+5 - Salvo nos casos previstos no número anterior, o pedido de indemnização civil é acompanhado de duplicados para os demandados e para a secretaria.
+
+Artigo 78.º - Contestação
+1 - A pessoa contra quem for deduzido pedido de indemnização civil é notificada para, querendo, contestar no prazo de 20 dias.
+2 - A contestação é deduzida por artigos.
+3 - A falta de contestação não implica confissão dos factos.
+
+Artigo 79.º - Provas
+1 - As provas são requeridas com os articulados.
+2 - Cada requerente, demandado ou interveniente pode arrolar testemunhas em número não superior a 10 ou a 5, consoante o valor do pedido exceda ou não a alçada da relação em matéria cível.
+3 - No caso de o valor do pedido exceder a alçada da relação em matéria cível, não podem ser arroladas mais de cinco testemunhas por facto.
+
+Artigo 80.º - Julgamento
+O lesado, os demandados e os intervenientes são obrigados a comparecer no julgamento apenas quando tiverem de prestar declarações a que não puderem recusar-se.
+
+Artigo 81.º - Renúncia, desistência e conversão do pedido
+O lesado pode, em qualquer altura do processo:
+    a) Renunciar ao direito de indemnização civil e desistir do pedido formulado;
+    b) requerer que o objecto da prestação indemnizatória seja convertido em diferente atribuição patrimonial, desde que prevista na lei.
+
+Artigo 82.º - Liquidação em execução de sentença e reenvio para os tribunais civis
+1 - Se não dispuser de elementos bastantes para fixar a indemnização, o tribunal condena no que se liquidar em execução de sentença. Neste caso, a execução corre perante o tribunal civil, servindo de título executivo a sentença penal.
+2 - Pode, no entanto, o tribunal, oficiosamente ou mediante requerimento, estabelecer uma indemnização provisória por conta da indemnização a fixar posteriormente, se dispuser de elementos bastantes, e conferir-lhe o efeito previsto no artigo seguinte.
+3 - O tribunal pode, oficiosamente ou a requerimento, remeter as partes para os tribunais civis quando as questões suscitadas pelo pedido de indemnização civil inviabilizarem uma decisão rigorosa ou forem susceptíveis de gerar incidentes que retardem intoleravelmente o processo penal.
+
+Artigo 82.º-A - Reparação da vítima em casos especiais
+1 - Não tendo sido deduzido pedido de indemnização civil no processo penal ou em separado, nos termos dos artigos 72.º e 77.º, o tribunal, em caso de condenação, pode arbitrar uma quantia a título de reparação pelos prejuízos sofridos quando particulares exigências de protecção da vítima o imponham.
+2 - No caso previsto no número anterior, é assegurado o respeito pelo contraditório.
+3 - A quantia arbitrada a título de reparação é tida em conta em acção que venha a conhecer de pedido civil de indemnização.
+
+Artigo 83.º - Exequibilidade provisória
+A requerimento do lesado, o tribunal pode declarar a condenação em indemnização civil, no todo ou em parte, provisoriamente executiva, nomeadamente sob a forma de pensão.
+
+Artigo 84.º - Caso julgado
+A decisão penal, ainda que absolutória, que conhecer do pedido civil constitui caso julgado nos termos em que a lei atribui eficácia de caso julgado às sentenças civis.

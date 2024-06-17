@@ -1,0 +1,52 @@
+Hipóteses práticas
+
+
+1. A é detido por órgão de polícia criminal no momento em que praticava o crime previsto no art.º 210.º do CP. Qual o
+tribunal competente para realizar este julgamento e que forma de processo será seguida?
+    (- Lei n.º 20/2013: julgamento sob forma sumária (381.º; 16.º/2, c)) – tribunal singular; Declaração de inconstitucionalidade do
+    julgamento sob forma sumária de crimes da competência do tribunal coletivo - Lei n.º 1/2016 consagrou esta declaração de
+    inconstitucionalidade)
+    - Critério qualitativo não se aplica; Critério quantitativo – 14.º/2, b) – tribunal coletivo; se o MP fizesse uso do poder do art.º
+    16.º/3 seria pensável processo sumário ou abreviado.
+
+2. Durante a audiência de julgamento, o presidente do tribunal entendeu que deveria ser ordenada a comparência de um
+perito para proceder a uma perícia sobre uma questão controvertida. Trata-se de prova que não constava da lista da
+acusação nem da contestação. O exercício deste poder pelo Tribunal é legítimo? E que princípios deve respeitar?
+    Estrutura acusatória integrada por um pp. investigação (subsidiário)
+    - 340.º + 327.º/2
+    - boa decisão da causa e descoberta da verdade
+    - necessidade de submeter os meios de prova ao contraditório dos sujeitos processuais (340.º/2 e 327.º/2) – justificação;
+    necessidade de conhecimento antecipado e preparação para o contraditório
+
+3. Suponha que a audiência teve início no dia 28/3/2022 e, após terem sido ouvidas as testemunhas oferecidas pela
+acusação, verifica-se o seu adiamento para o dia 22/4/2022. Contudo, por um infeliz incidente, não foi possível retomar a
+audiência nessa data, só o podendo no dia 5/5/2022. Quid iuris?
+    - Pp. concentração - vertente temporal de continuidade da audiência
+    - 328.º
+    - Justificação: memória dos sujeitos processuais e do tribunal, garantindo contraditório e boa decisão; consequência do pp.
+    publicidade
+    - + de 30 dias: novos meios e obrigatoriedade da documentação de prova em audiência 363.º - já não há perda de eficácia
+    da prova produzida – 328.º/5 (até 2013 - perda de eficácia; Ac. Fixação jurisprudência 11/2008)
+
+4. Imagine que, em julgamento, são apurados não só os factos constantes da acusação mas ainda outros factos que
+demonstram que o crime praticado por A não se enquadra no art.º 205.º/4, a) CP (conforme constava da acusação),
+mas sim no art.º 205.º/4, b) CP. Como deve proceder o tribunal?
+     - Alteração substancial dos factos - Art.º 1.º/, f) CPP
+     - novos factos: violam o objeto do processo, não são autonomizáveis face ao mesmo
+     - Tribunal deve continuar o julgamento pelos factos constantes da acusação e desconsiderar os entretanto apurados
+     - 359.º/1 CPP
+
+5. Durante a audiência de julgamento é solicitado que se proceda à leitura das declarações de testemunha que prestou
+declarações, no inquérito, perante OPC. Justifica-se este pedido apenas porque seria mais rápido terminar o julgamento,
+em vez de esperar ouvir a testemunha noutras sessões. Quis iuris?
+    - Ilegitimidade do pedido. Pp. imediação (355.º); ligação comunicante entre tribunal e outros sujeitos com os meios de prova;
+    - garantia da livre apreciação da prova; ligação com outros princípios, como o princípio da publicidade
+    - Casos excecionais de leituras/visualizações de declarações - não existem no caso; 356.º/4 não se verifica
+
+6. Correndo uma investigação criminal contra A, este vem a ser detido e é apresentado à entidade competente para o efeito.
+É-lhe aplicada uma medida de coação que implica o afastamento de A do local de trabalho e a proibição de contactar os
+ofendidos. Suponha que A não comparece no início da audiência de julgamento. Que regime deve ser observado?
+    - A foi constituído arguido aquando da detenção - prestou TIR
+    -   Regularmente notificado - julgado na ausência caso não compareça
+    -   regime do julgamento na ausência; explicação do regime e da sua previsão legal.
+    - Arts. 58.º/1, c) + 113.º/1, c) + 196.º + 333.º + 334.º

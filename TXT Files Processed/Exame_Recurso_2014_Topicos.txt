@@ -1,0 +1,51 @@
+Este ficheiro apresenta casos práticos de crimes contra as pessoas.
+
+Caso 1: Enunciado
+Alice é uma jovem de 15 anos de temperamento apaixonado e obsessivo.
+Namorava há oito meses com Bernardo quando soube que este a enganava, namoriscando outras raparigas – viu-o mesmo a beijar Carla, uma “amiga” comum…
+Alice ficou desesperada, acabou o namoro por entre lágrimas (e pedidos de desculpa pouco convincentes de Bernardo) e começou a deixar de ir à Escola para não se encontrar com Bernardo e Carla (que entretanto assumiram o namoro).
+Alice começou a comer muito pouco, isolou-se, passando a maior parte do tempo no seu quarto a chorar e a ouvir música. Os pais desvalorizaram a situação, pensando tratar-se de um desgosto passageiro… Diana, amiga de Alice, mas um pouco mais velha (com 18 anos), passou a ser a sua única confidente. Diana tentava, em vão, animar Alice e fazê-la sair de casa…
+A partir de certa altura Alice começou a pensar obsessivamente em morrer e pedia insistentemente a Diana para a matar… Diana recusou vezes sem conta, continuando a tentar animá-la… Então, Alice pediu-lhe para se informar sobre algum veneno eficaz, rápido e indolor. Diana acabou por prometer que se informaria junto do irmão, que estudava farmácia. E assim fez. Sem contar o seu propósito ao irmão, conseguiu informar-se e adquirir um medicamento que, tomado em dose excessiva, era idóneo a causar a morte.
+Certa tarde em que Alice voltou a dizer que a sua vida não fazia sentido e que queria morrer, Diana entregou-lhe o dito medicamento, dizendo: - Se tomares seis destes comprimidos, provavelmente morres.
+Nessa noite, Alice tomou os comprimidos, mas, logo a seguir arrependeu-se e ligou a Diana, muito aflita, dizendo-lhe o que tinha feito. Diana, também aflita e arrependida, chamou o INEM, contando tudo aos médicos. Os médicos conseguiram salvar Alice.
+- Proceda ao enquadramento jurídico-penal da presente situação, fundamentando legal e doutrinalmente a sua resposta.
+
+Caso 1: Resolução
+- Estamos no âmbito dos crimes contra a vida (arts. 131º e ss. do CP e art. 24º da CRP).
+- Distinguir o crime de Homicídio a pedido da vítima (art.134º do CP) do crime de Incitamento ou ajuda ao suicídio (art. 135º do CP).
+- No caso não há crime de homicídio a pedido da vítima, pois é a própria vítima que domina a ação, praticando o ato adequado a pôr fim à própria vida; por outro lado, se fosse Diana a praticar tal ato, a pedido de Alice, não se poderia considerar tal pedido sério, lúcido e esclarecido, tendo em conta a idade de Alice e ainda o seu estado depressivo (cf. 38º e 134º do CP. Nesse caso estaríamos perante um homicídio simples (art. 131º) ou privilegiado (133º - dependendo dos motivos / estado de afeto de Diana).
+- Há crime de ajuda ao suicídio, por auxílio material (art. 135º do CP); aplica-se o nº 2, tendo em consideração a idade da vítima e o seu estado de perturbação.
+- Para o preenchimento do art. 135º basta a tentativa de suicídio; assim, não faz sentido falar em desistência por parte de Diana. Porém, o seu arrependimento releva, podendo haver uma atenuação especial da pena (art. 72º e 73º do CP)
+
+Caso 2: Enunciado
+Eduardo contraiu avultadas dívidas de jogo. Eduardo foi colega de Fernando, jovem empresário de sucesso. Pediu-lhe então emprestada uma soma considerável de dinheiro para poder pagar as suas dívidas. Porém, Fernando, não confiando em
+Eduardo, recusou-se a emprestar tal montante.
+Eduardo é um jovem vingativo e obstinado. Sabendo que Fernando namora com Gabriela, e conhecendo as suas rotinas, resolveu fazer-lhe uma espera.
+Agarrou-a violentamente, empurrou-a para dentro do seu carro e levou-a para uma velha garagem, no meio de um descampado. Depois, telefonou a Fernando, dizendo-lhe: - Tenho comigo a tua namorada e só a liberto quando me deres o dinheiro que te pedi! E não quero emprestado, tem de ser dado!... Amanhã, no café do costume, à hora do costume, vou buscar o dinheiro… se não mo deres, a tua
+Gabriela fica aqui a apodrecer e desligou.
+Entretanto pensou: A vingança seria mais completa se me aproveitasse da miúda, que até é uma “giraça”!
+Aproximou-se de Gabriela, que chorava convulsivamente e, pela força, teve cópula com a jovem, que continuou sempre a chorar e a gritar.
+Porém, passado pouco tempo apareceu a polícia que, alertada por Fernando, descobriu onde Eduardo e Gabriela se encontravam…
+- Diga como deveria Eduardo ser jurídico-penalmente responsabilizado, fundamentando legal e doutrinalmente a sua resposta.
+
+Caso 2: Resolução
+- Há crime de rapto (art. 161º do CP).
+- O bem jurídico que aqui está em causa é a liberdade – mais propriamente liberdade de locomoção.
+- O rapto distingue-se do sequestro (art. 158º) pela necessidade de deslocação da vítima (que, no caso, ocorreu), pelos meios, que estão tipificados (no caso, houve violência) e pelas finalidades visadas (no caso, al. d) – constranger a uma ação – doação de dinheiro; também se poderia falar na al. c)).
+- Assim, o rapto consome o uso de violência, o sequestro e ainda a tentativa de coação (art. 154º). Na verdade, Eduardo tentou coagir Fernando a entregar-lhe uma quantia avultada de dinheiro, através da ameaça com “mal importante” (manter a sua namorada presa); assim, esta tentativa já está abrangida pela al. d) do nº 1 do art. 161º.
+- Porém, há concurso efetivo entre o art. 161º e o crime de violação (art. 164º nº 1). Na verdade, quando Eduardo raptou Gabriela não tinha intenção de cometer qualquer crime contra a liberdade sexual, mas sim de coagir Filipe (como já vimos). Depois, Eduardo decidiu cometer o crime de violação, consumando-o.
+- Quanto ao crime de violação – está preenchido, já que houve cópula por meio de violência (“pela força”, para além da situação de desamparo em que a vítima se encontrava - numa garagem no meio de um descampado). Não é necessária a prova de efetiva resistência (luta) da vítima, mas sim da violência, ameaça grave ou colocação da vítima na impossibilidade de resistir; há mesmo quem entenda que basta o dissentimento da vítima para haver violência (no sentido de alguma força física inerente à consumação e violência psíquica).
+
+Caso 3: Enunciado
+Hugo é colega de trabalho de Isabel.
+Desde que Isabel chegou à empresa que Hugo tenta, sem êxito, seduzi-la, dirigindo-lhe piropos e convidando-a para sair.
+Porém, Isabel acabou por lhe dizer, sem rodeios, que tem namorado, não estando disponível para saídas… Hugo ficou muito zangado e, para se vingar, certa tarde, aproveitando uma ocasião em que Isabel se baixou para ir buscar uns papéis a uma gaveta, apalpou-lhe as nádegas enquanto os colegas se riam disfarçadamente…
+Isabel saiu, furiosa, foi contar o sucedido ao diretor da empresa e apresentou queixa crime.
+- Diga se e como poderia Hugo ser jurídico-penalmente responsabilizado, fundamentando legal e doutrinalmente a sua resposta.
+
+Caso 3: Resolução
+- Os piropos e convites, fazendo parte do processo de tentativa de sedução, não são crimes… (podia pensar-se numa futura criminalização, não propriamente de piropos, mas de ofensas verbais atinentes à esfera sexual, mas não é isto que aqui está em causa – hoje – art. 170º - propostas de teor sexual).
+- Porém, o “apalpão nas nádegas” já deve ser considerado um contacto de natureza sexual – não chegando a alcançar a gravidade de um ato sexual de relevo, como seria um contacto numa zona mais íntima (art. 163º).
+- Sendo este contacto de natureza sexual praticado (tendo em conta todo o contexto) contra a vontade da vítima, é claro que houve um constrangimento da mesma a suportar tal contacto, estando preenchido o tipo legal de importunação sexual (art. 170º).
+- Apesar de este tipo legal de crime gerar polémica (na parte, exatamente, do “constrangimento a contacto de natureza sexual”), penso que o bem jurídico que aqui se pretende proteger é, tal como nos outros crimes sexuais, a liberdade e autodeterminação sexual, não uma determinada moral sexual.
+Na verdade, o que se punem são os contactos de natureza sexual contra a vontade da vítima e, assim, lesivos da sua liberdade na esfera da sexualidade.

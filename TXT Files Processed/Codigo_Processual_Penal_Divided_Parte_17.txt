@@ -1,0 +1,278 @@
+Este ficheiro corresponde à parte 2, livro 9 (Dos recursos), titulo 1 (Dos recursos ordinários) do código processual penal de portugal.
+
+Capítulo I - Princípios Gerais
+
+Artigo 399.º - Princípio Geral
+É permitido recorrer dos acórdãos, das sentenças e dos despachos cuja irrecorribilidade não estiver prevista na lei.
+
+Artigo 400.º - Decisões que não admitem recurso
+                1 - Não é admissível recurso:
+                    a) De despachos de mero expediente;
+                    b) De decisões que ordenam atos dependentes da livre resolução do tribunal;
+                    c) De acórdãos proferidos, em recurso, pelas relações, que não conheçam, a final, do objeto do processo, exceto nos casos em que, inovadoramente, apliquem medidas de coação ou de garantia patrimonial, quando em 1.ª instância tenha sido decidido não aplicar qualquer medida para além da prevista no artigo 196.º;
+                    d) De acórdãos absolutórios proferidos, em recurso, pelas relações, exceto no caso de decisão condenatória em 1.ª instância em pena de prisão superior a 5 anos;
+                    e) De acórdãos proferidos, em recurso, pelas relações, que apliquem pena não privativa da liberdade ou pena de prisão não superior a 5 anos, exceto no caso de decisão absolutória em 1.ª instância;
+                    f) De acórdãos condenatórios proferidos, em recurso, pelas relações, que confirmem decisão de 1.ª instância e apliquem pena de prisão não superior a 8 anos;
+                    g) Nos demais casos previstos na lei.
+                2 - Sem prejuízo do disposto nos artigos 427.º e 432.º, o recurso da parte da sentença relativa à indemnização civil só é admissível desde que o valor do pedido seja superior à alçada do tribunal recorrido e a decisão impugnada seja desfavorável para o recorrente em valor superior a metade desta alçada.
+                3 - Mesmo que não seja admissível recurso quanto à matéria penal, pode ser interposto recurso da parte da sentença relativa à indemnização civil.
+
+Artigo 401.º - Legitimidade e Interesse em Agir
+                1 - Têm legitimidade para recorrer:
+                    a) O Ministério Público, de quaisquer decisões, ainda que no exclusivo interesse do arguido;
+                    b) O arguido e o assistente, de decisões contra eles proferidas;
+                    c) As partes civis, da parte das decisões contra cada uma proferidas;
+                    d) Aqueles que tiverem sido condenados ao pagamento de quaisquer importâncias, nos termos deste Código, ou tiverem a defender um direito afetado pela decisão.
+                2 - Não pode recorrer quem não tiver interesse em agir.
+
+Artigo 402.º - Âmbito do Recurso
+                1 - Sem prejuízo do disposto no artigo seguinte, o recurso interposto de uma sentença abrange toda a decisão.
+                2 - Salvo se for fundado em motivos estritamente pessoais, o recurso interposto:
+                    a) Por um dos arguidos, em caso de comparticipação, aproveita aos restantes;
+                    b) Pelo arguido, aproveita ao responsável civil;
+                    c) Pelo responsável civil, aproveita ao arguido, mesmo para efeitos penais.
+                3 - O recurso interposto apenas contra um dos arguidos, em casos de comparticipação, não prejudica os restantes.
+
+Artigo 403.º - Limitação do Recurso
+                1 - É admissível a limitação do recurso a uma parte da decisão quando a parte recorrida puder ser separada da parte não recorrida, por forma a tornar possível uma apreciação e uma decisão autónomas.
+                2 - Para efeito do disposto no número anterior, é autónoma, nomeadamente, a parte da decisão que se referir:
+                    a) A matéria penal;
+                    b) A matéria civil;
+                    c) Em caso de concurso de crimes, a cada um dos crimes;
+                    d) Em caso de unidade criminosa, à questão da culpabilidade, relativamente àquela que se referir à questão da determinação da sanção;
+                    e) Em caso de comparticipação criminosa, a cada um dos arguidos, sem prejuízo do disposto no artigo 402.º, n.º 2, alíneas a) e c);
+                    f) Dentro da questão da determinação da sanção, a cada uma das penas ou medidas de segurança.
+                3 - A limitação do recurso a uma parte da decisão não prejudica o dever de retirar da procedência daquele as consequências legalmente impostas relativamente a toda a decisão recorrida.
+
+Artigo 404.º - Recurso Subordinado
+                1 - Em caso de recurso interposto por uma das partes civis, a parte contrária pode interpor recurso subordinado.
+                2 - O recurso subordinado é interposto no prazo de 30 dias contado da data da notificação referida nos n.os 6 e 7 do artigo 411.º
+                3 - Se o primeiro recorrente desistir do recurso, este ficar sem efeito ou o tribunal não tomar conhecimento dele, o recurso subordinado fica sem efeito.
+
+Artigo 405.º - Reclamação Contra Despacho que não Admitir ou que Retiver o Recurso
+                1 - Do despacho que não admitir ou que retiver o recurso, o recorrente pode reclamar para o presidente do tribunal a que o recurso se dirige.
+                2 - A reclamação é apresentada na secretaria do tribunal recorrido no prazo de dez dias contados da notificação do despacho que não tiver admitido o recurso ou da data em que o recorrente tiver tido conhecimento da retenção.
+                3 - No requerimento o reclamante expõe as razões que justificam a admissão ou a subida imediata do recurso e indica os elementos com que pretende instruir a reclamação.
+                4 - A decisão do presidente do tribunal superior é definitiva quando confirmar o despacho de indeferimento. No caso contrário, não vincula o tribunal de recurso.
+
+Artigo 406.º - Subida nos Autos e em Separado
+                1 - Sobem nos próprios autos os recursos interpostos de decisões que ponham termo à causa e os que com aqueles deverem subir.
+                2 - Sobem em separado os recursos não referidos no número anterior que deverem subir imediatamente.
+
+Artigo 407.º - Momento da Subida
+                1 - Sobem imediatamente os recursos cuja retenção os tornaria absolutamente inúteis.
+                2 - Também sobem imediatamente os recursos interpostos:
+                    a) De decisões que ponham termo à causa;
+                    b) De decisões posteriores às referidas na alínea anterior;
+                    c) De decisões que apliquem ou mantenham medidas de coação ou de garantia patrimonial, nos termos deste Código;
+                    d) De decisões que condenem no pagamento de quaisquer importâncias, nos termos deste Código;
+                    e) De despacho em que o juiz não reconhecer impedimento contra si deduzido;
+                    f) De despacho que recusar ao Ministério Público legitimidade para a prossecução do processo;
+                    g) De despacho que não admitir a constituição de assistente ou a intervenção de parte civil;
+                    h) De despacho que indeferir o requerimento para a abertura de instrução;
+                    i) Da decisão instrutória, sem prejuízo do disposto no artigo 310.º;
+                    j) De despacho que indeferir requerimento de submissão de arguido suspeito de anomalia mental à perícia respetiva.
+                    k) De despacho proferido ao abrigo do disposto nos n.os 2, 3 e 5 do artigo 328.º-A.
+                3 - Quando não deverem subir imediatamente, os recursos sobem e são instruídos e julgados conjuntamente com o recurso interposto da decisão que tiver posto termo à causa.
+
+Artigo 408.º - Recursos com Efeito Suspensivo
+                1 - Têm efeito suspensivo do processo:
+                    a) Os recursos interpostos de decisões finais condenatórias, sem prejuízo do disposto no artigo 214.º;
+                    b) O recurso do despacho de pronúncia, sem prejuízo do disposto no artigo 310.º
+                2 - Suspendem os efeitos da decisão recorrida:
+                    a) Os recursos interpostos de decisões que condenarem ao pagamento de quaisquer importâncias, nos termos deste Código, se o recorrente depositar o seu valor;
+                    b) O recurso do despacho que julgar quebrada a caução.
+                    c) O recurso de despacho que ordene a execução da prisão, em caso de não cumprimento de pena não privativa da liberdade;
+                    d) O recurso de despacho que considere sem efeito, por falta de pagamento de taxa de justiça, o recurso da decisão final condenatória.
+                3 - Os recursos previstos no n.º 1 do artigo anterior têm efeito suspensivo do processo quando deles depender a validade ou a eficácia dos atos subsequentes, suspendendo a decisão recorrida nos restantes casos.
+
+Artigo 409.º - Proibição de Reformatio in Pejus
+                1 - Interposto recurso de decisão final somente pelo arguido, pelo Ministério Público, no exclusivo interesse daquele, ou pelo arguido e pelo Ministério Público no exclusivo interesse do primeiro, o tribunal superior não pode modificar, na sua espécie ou medida, as sanções constantes da decisão recorrida, em prejuízo de qualquer dos arguidos, ainda que não recorrentes.
+                2 - A proibição estabelecida no número anterior não se aplica à agravação da quantia fixada para cada dia de multa, se a situação económica e financeira do arguido tiver entretanto melhorado de forma sensível.
+
+Capítulo II - Da Tramitação Unitária
+
+Artigo 410.º - Fundamentos do Recurso
+                1 - Sempre que a lei não restringir a cognição do tribunal ou os respetivos poderes, o recurso pode ter como fundamento quaisquer questões de que pudesse conhecer a decisão recorrida.
+                2 - Mesmo nos casos em que a lei restrinja a cognição do tribunal de recurso a matéria de direito, o recurso pode ter como fundamentos, desde que o vício resulte do texto da decisão recorrida por si só ou conjugada com as regras da experiência comum:
+                    a) A insuficiência para a decisão da matéria de facto provada;
+                    b) A contradição insanável da fundamentação ou entre a fundamentação e a decisão;
+                    c) Erro notório na apreciação da prova.
+                3 - O recurso pode ainda ter como fundamento, mesmo que a lei restrinja a cognição do tribunal de recurso a matéria de direito, a inobservância de requisito cominado sob pena de nulidade que não deva considerar-se sanada.
+
+Artigo 411.º - Interposição e Notificação do Recurso
+                1 - O prazo para interposição de recurso é de 30 dias e conta-se:
+                    a) A partir da notificação da decisão;
+                    b) Tratando-se de sentença, do respetivo depósito na secretaria;
+                    c) Tratando-se de decisão oral reproduzida em ata, a partir da data em que tiver sido proferida, se o interessado estiver ou dever considerar-se presente.
+                2 - O recurso de decisão proferida em audiência pode ser interposto por simples declaração na ata.
+                3 - O requerimento de interposição do recurso é sempre motivado, sob pena de não admissão do recurso, podendo a motivação, no caso de recurso interposto por declaração na ata, ser apresentada no prazo de 30 dias contados da data da interposição.
+                4 - (Revogado.)
+                5 - No requerimento de interposição de recurso o recorrente pode requerer que se realize audiência, especificando os pontos da motivação do recurso que pretende ver debatidos.
+                6 - O requerimento de interposição ou a motivação são notificados aos restantes sujeitos processuais afetados pelo recurso, após o despacho a que se refere o n.º 1 do artigo 414.º, devendo ser entregue o número de cópias necessário.
+                7 - O requerimento de interposição de recurso que afete o arguido julgado na ausência, ou a motivação, anteriores à notificação da sentença, são notificados àquele quando esta lhe for notificada, nos termos do n.º 5 do artigo 333.º
+
+Artigo 412.º - Motivação do Recurso e Conclusões
+                1 - A motivação enuncia especificamente os fundamentos do recurso e termina pela formulação de conclusões, deduzidas por artigos, em que o recorrente resume as razões do pedido.
+                2 - Versando matéria de direito, as conclusões indicam ainda:
+                    a) As normas jurídicas violadas;
+                    b) O sentido em que, no entendimento do recorrente, o tribunal recorrido interpretou cada norma ou com que a aplicou e o sentido em que ela devia ter sido interpretada ou com que devia ter sido aplicada; e
+                    c) Em caso de erro na determinação da norma aplicável, a norma jurídica que, no entendimento do recorrente, deve ser aplicada.
+                3 - Quando impugne a decisão proferida sobre matéria de facto, o recorrente deve especificar:
+                    a) Os concretos pontos de facto que considera incorretamente julgados;
+                    b) As concretas provas que impõem decisão diversa da recorrida;
+                    c) As provas que devem ser renovadas.
+                4 - Quando as provas tenham sido gravadas, as especificações previstas nas alíneas b) e c) do número anterior fazem-se por referência ao consignado na ata, nos termos do disposto no n.º 3 do artigo 364.º, devendo o recorrente indicar concretamente as passagens em que se funda a impugnação.
+                5 - Havendo recursos retidos, o recorrente especifica obrigatoriamente, nas conclusões, quais os que mantêm interesse.
+                6 - No caso previsto no n.º 4, o tribunal procede à audição ou visualização das passagens indicadas e de outras que considere relevantes para a descoberta da verdade e a boa decisão da causa.
+
+Artigo 413.º - Resposta
+                1 - Os sujeitos processuais afetados pela interposição do recurso podem responder no prazo de 30 dias contados da notificação referida no n.º 6 do artigo 411.º
+                2 - (Revogado.)
+                3 - A resposta é notificada aos sujeitos processuais por ela afetados, devendo ser entregue no número de cópias necessário.
+                4 - É correspondentemente aplicável o disposto nos n.os 3 a 5 do artigo 412.º
+
+Artigo 414.º - Admissão do Recurso
+                1 - Interposto o recurso e junta a motivação ou expirado o prazo para o efeito, o juiz profere despacho e, em caso de admissão, fixa o seu efeito e regime de subida.
+                2 - O recurso não é admitido quando a decisão for irrecorrível, quando for interposto fora de tempo, quando o recorrente não reunir as condições necessárias para recorrer, quando faltar a motivação ou, faltando as conclusões, quando o recorrente não as apresente em 10 dias após ser convidado a fazê-lo.
+                3 - A decisão que admita o recurso ou que determine o efeito que lhe cabe ou o regime de subida não vincula o tribunal superior.
+                4 - Se o recurso não for interposto de decisão que conheça, a final, do objeto do processo, o tribunal pode, antes de ordenar a remessa do processo ao tribunal superior, sustentar ou reparar aquela decisão.
+                5 - Havendo arguidos presos, deve mencionar-se tal circunstância, com indicação da data da privação da liberdade e do estabelecimento prisional onde se encontrem.
+                6 - Subindo o recurso em separado, o juiz deve averiguar se o mesmo se mostra instruído com todos os elementos necessários à boa decisão da causa, determinando, se for caso disso, a extração e junção de certidão das pertinentes peças processuais.
+                7 - Se o recurso subir nos próprios autos e houver arguidos privados da liberdade, o tribunal, antes da remessa do processo para o tribunal superior, ordena a extração de certidão das peças processuais necessárias ao seu reexame.
+                8 - Havendo vários recursos da mesma decisão, dos quais alguns versem sobre matéria de facto e outros exclusivamente sobre matéria de direito, são todos julgados conjuntamente pelo tribunal competente para conhecer da matéria de facto.
+
+Artigo 415.º - Desistência
+                1 - O Ministério Público, o arguido, o assistente e as partes civis podem desistir do recurso interposto, até ao momento de o processo ser concluso ao relator para exame preliminar.
+                2 - A desistência faz-se por requerimento ou por termo no processo e é verificada por despacho do relator.
+
+Artigo 416.º - Vista ao Ministério Público
+                1 - Antes de ser apresentado ao relator, o processo vai com vista ao Ministério Público junto do tribunal de recurso.
+                2 - Se tiver sido requerida audiência nos termos do n.º 5 do artigo 411.º, a vista ao Ministério Público destina-se apenas a tomar conhecimento do processo.
+
+Artigo 417.º - Exame Preliminar
+                1 - Colhido o visto do Ministério Público o processo é concluso ao relator para exame preliminar.
+                2 - Se, na vista a que se refere o artigo anterior, o Ministério Público não se limitar a apor o seu visto, o arguido e os demais sujeitos processuais afetados pela interposição do recurso são notificados para, querendo, responder no prazo de 10 dias.
+                3 - Se das conclusões do recurso não for possível deduzir total ou parcialmente as indicações previstas nos n.os 2 a 5 do artigo 412.º, o relator convida o recorrente a completar ou esclarecer as conclusões formuladas, no prazo de 10 dias, sob pena de o recurso ser rejeitado ou não ser conhecido na parte afetada. Se a motivação do recurso não contiver as conclusões e não tiver sido formulado o convite a que se refere o n.º 2 do artigo 414.º, o relator convida o recorrente a apresentá-las em 10 dias, sob pena de o recurso ser rejeitado.
+                4 - O aperfeiçoamento previsto no número anterior não permite modificar o âmbito do recurso que tiver sido fixado na motivação.
+                5 - No caso previsto no n.º 3, os sujeitos processuais afetados pela interposição do recurso são notificados da apresentação de aditamento ou esclarecimento pelo recorrente, podendo responder-lhe no prazo de 10 dias.
+                6 - Após exame preliminar, o relator profere decisão sumária sempre que:
+                    a) Alguma circunstância obstar ao conhecimento do recurso;
+                    b) O recurso dever ser rejeitado;
+                    c) Existir causa extintiva do procedimento ou da responsabilidade criminal que ponha termo ao processo ou seja o único motivo do recurso; ou
+                    d) A questão a decidir já tiver sido judicialmente apreciada de modo uniforme e reiterado.
+                7 - Quando o recurso não puder ser julgado por decisão sumária, o relator decide no exame preliminar:
+                    a) Se deve manter-se o efeito que foi atribuído ao recurso;
+                    b) Se há provas a renovar e pessoas que devam ser convocadas.
+                8 - Cabe reclamação para a conferência dos despachos proferidos pelo relator nos termos dos n.os 6 e 7.
+                9 - Quando o recurso deva ser julgado em conferência, o relator elabora um projeto de acórdão no prazo de 15 dias a contar da data em que o processo lhe for concluso nos termos dos n.os 1, 2 ou 5.
+                10 - A reclamação prevista no n.º 8 é apreciada conjuntamente com o recurso, quando este deva ser julgado em conferência.
+
+Artigo 418.º - Vistos
+                1 - Concluído o exame preliminar, o processo, acompanhado do projeto de acórdão se for caso disso, vai a visto do presidente e dos juízes-adjuntos e depois à conferência, na primeira sessão que tiver lugar.
+                2 - Sempre que a natureza do processo e a disponibilidade de meios técnicos o permitirem, são tiradas cópias para que os vistos sejam efetuados simultaneamente.
+
+Artigo 419.º - Conferência
+                1 - Na conferência intervêm o presidente da secção, o relator e dois juízes-adjuntos.
+                2 - A discussão é dirigida pelo presidente, que, porém, só vota, para desempatar, quando não puder formar-se maioria com os votos do relator e dos juízes-adjuntos.
+                3 - O recurso é julgado em conferência quando:
+                    a) Tenha sido apresentada reclamação da decisão sumária prevista no n.º 6 do artigo 417.º;
+                    b) A decisão recorrida não conheça, a final, do objeto do processo, nos termos da alínea a) do n.º 1 do artigo 97.º; ou
+                    c) Não tiver sido requerida a realização de audiência e não seja necessário proceder à renovação da prova nos termos do artigo 430.º
+
+Artigo 420.º - Rejeição do Recurso
+                1 - O recurso é rejeitado sempre que:
+                    a) For manifesta a sua improcedência;
+                    b) Se verifique causa que devia ter determinado a sua não admissão nos termos do n.º 2 do artigo 414.º; ou
+                    c) O recorrente não apresente, complete ou esclareça as conclusões formuladas e esse vício afetar a totalidade do recurso, nos termos do n.º 3 do artigo 417.º
+                2 - Em caso de rejeição do recurso, a decisão limita-se a identificar o tribunal recorrido, o processo e os seus sujeitos e a especificar sumariamente os fundamentos da decisão.
+                3 - Se o recurso for rejeitado, o tribunal condena o recorrente, se não for o Ministério Público, ao pagamento de uma importância entre três e dez UCs.
+
+Artigo 421.º - Prosseguimento do Processo
+                1 - Se o processo houver de prosseguir, é aberta conclusão ao presidente da secção, o qual designa a audiência para um dos vinte dias seguintes, determina as pessoas a convocar e manda completar os vistos, se for caso disso.
+                2 - São sempre convocados para a audiência o Ministério Público, o defensor, os representantes do assistente e das partes civis.
+                3 - Excetuado o caso do Ministério Público, as notificações são feitas por via postal.
+                4 - É correspondentemente aplicável o disposto no artigo 418.º, n.º 2.
+
+Artigo 422.º - Adiamento da Audiência
+                1 - A não comparência de pessoas convocadas só determina o adiamento da audiência quando o tribunal o considerar indispensável à realização da justiça.
+                2 - Se o defensor não comparecer e não houver lugar a adiamento, o tribunal nomeia novo defensor. É correspondentemente aplicável o disposto no artigo 67.º, n.º 2.
+                3 - Não é permitido mais de um adiamento da audiência.
+
+Artigo 423.º - Audiência
+                1 - Após o presidente ter declarado aberta a audiência, o relator introduz os debates com uma exposição sumária sobre o objeto do recurso, na qual enuncia as questões que o tribunal entende merecerem exame especial.
+                2 - À exposição do relator segue-se a renovação da prova, quando a ela houver lugar.
+                3 - Seguidamente, o presidente dá a palavra, para alegações, aos representantes do recorrente e dos recorridos, a cada um por período não superior a trinta minutos, prorrogável em caso de especial complexidade.
+                4 - Não há lugar a réplica, sem prejuízo da concessão da palavra ao defensor, antes do encerramento da audiência, por mais quinze minutos, se ele não tiver sido o último a intervir.
+                5 - São subsidiariamente aplicáveis as disposições relativas à audiência de julgamento em 1.ª instância.
+
+Artigo 424.º - Deliberação
+                1 - Encerrada a audiência, o tribunal reúne para deliberar.
+                2 - São correspondentemente aplicáveis as disposições sobre deliberação e votação em julgamento, tendo em atenção a natureza das questões que constituem o objeto do recurso.
+                3 - Sempre que se verificar uma alteração não substancial dos factos descritos na decisão recorrida ou da respetiva qualificação jurídica não conhecida do arguido, este é notificado para, querendo, se pronunciar no prazo de 10 dias.
+
+Artigo 425.º - Acórdão
+                1 - Concluída a deliberação e votação, é elaborado acórdão pelo relator ou, se este tiver ficado vencido, pelo primeiro juiz-adjunto que tiver feito vencimento.
+                2 - São admissíveis declarações de voto.
+                3 - Se não for possível lavrar imediatamente o acórdão, o presidente fixa publicamente a data, dentro dos 15 dias seguintes, para a publicação da decisão, após o respetivo registo em livro de lembranças assinado pelos juízes.
+                4 - É correspondentemente aplicável aos acórdãos proferidos em recurso o disposto nos artigos 379.º e 380.º, sendo o acórdão ainda nulo quando for lavrado contra o vencido, ou sem o necessário vencimento.
+                5 - Os acórdãos absolutórios enunciados no artigo 400.º, n.º 1, alínea d), que confirmem decisão de 1.ª instância sem qualquer declaração de voto podem limitar-se a negar provimento ao recurso, remetendo para os fundamentos da decisão impugnada.
+                6 - O acórdão é notificado aos recorrentes, aos recorridos e ao Ministério Público.
+                7 - O prazo para a interposição de recurso conta-se a partir da notificação do acórdão.
+
+Artigo 426.º - Reenvio do Processo para Novo Julgamento
+                1 - Sempre que, por existirem os vícios referidos nas alíneas do n.º 2 do artigo 410.º, não for possível decidir da causa, o tribunal de recurso determina o reenvio do processo para novo julgamento relativamente à totalidade do objeto do processo ou a questões concretamente identificadas na decisão de reenvio.
+                2 - O reenvio decretado pelo Supremo Tribunal de Justiça, no âmbito de recurso interposto, em 2.ª instância, de acórdão da relação é feito para este tribunal, que admite a renovação da prova ou reenvia o processo para novo julgamento em 1.ª instância.
+                3 - No caso de haver processos conexos, o tribunal superior faz cessar a conexão e ordena a separação de algum ou alguns deles para efeitos de novo julgamento quando o vício referido no número anterior recair apenas sobre eles.
+                4 - Se da nova decisão a proferir no tribunal recorrido vier a ser interposto recurso, este é sempre distribuído ao mesmo relator, exceto em caso de impossibilidade.
+
+Artigo 426.º-A - Competência para o Novo Julgamento
+                1 - Quando for decretado o reenvio do processo, o novo julgamento compete ao tribunal que tiver efetuado o julgamento anterior, sem prejuízo do disposto no artigo 40.º, ou, no caso de não ser possível, ao tribunal que se encontre mais próximo, de categoria e composição idênticas às do tribunal que proferiu a decisão recorrida.
+                2 - Quando na mesma comarca existir mais de um juízo da mesma categoria e composição, o julgamento compete ao tribunal que resultar da distribuição.
+
+Capítulo III - Do Recurso Perante as Relações
+
+Artigo 427.º - Recurso para a Relação
+Excetuados os casos em que há recurso direto para o Supremo Tribunal de Justiça, o recurso da decisão proferida por tribunal de 1.ª instância interpõe-se para a relação.
+
+Artigo 428.º - Poderes de Cognição
+As relações conhecem de facto e de direito.
+
+Artigo 429.º - Composição do Tribunal em Audiência
+                1 - Na audiência intervêm o presidente da secção, o relator e dois juízes-adjuntos.
+                2 - Sempre que possível, mantêm-se para a audiência juízes que tiverem intervindo na conferência.
+
+Artigo 430.º - Renovação da Prova
+                1 - Quando deva conhecer de facto e de direito, a relação admite a renovação da prova se se verificarem os vícios referidos nas alíneas do n.º 2 do artigo 410.º e houver razões para crer que aquela permitirá evitar o reenvio do processo.
+                2 - A decisão que admitir ou recusar a renovação da prova é definitiva e fixa os termos e a extensão com que a prova produzida em 1.ª instância pode ser renovada.
+                3 - A renovação da prova realiza-se em audiência.
+                4 - O arguido é sempre convocado para a audiência, mas, se tiver sido regularmente convocado, a sua falta não dá lugar a adiamento, salvo decisão do tribunal em contrário.
+                5 - É correspondentemente aplicável o preceituado quanto à discussão e julgamento em 1.ª instância.
+
+Artigo 431.º - Modificabilidade da Decisão Recorrida
+Sem prejuízo do disposto no artigo 410.º, a decisão do tribunal de 1.ª instância sobre matéria de facto pode ser modificada:
+                    a) Se do processo constarem todos os elementos de prova que lhe serviram de base;
+                    b) Se a prova tiver sido impugnada nos termos do n.º 3 do artigo 412.º; ou
+                    c) Se tiver havido renovação da prova.
+
+Capítulo IV - Do Recurso Perante o Supremo Tribunal de Justiça
+
+Artigo 432.º - Recurso para o Supremo Tribunal de Justiça
+                1 - Recorre-se para o Supremo Tribunal de Justiça:
+                    a) De decisões das relações proferidas em 1.ª instância, visando exclusivamente o reexame da matéria de direito ou com os fundamentos previstos nos n.os 2 e 3 do artigo 410.º;
+                    b) De decisões que não sejam irrecorríveis proferidas pelas relações, em recurso, nos termos do artigo 400.º;
+                    c) De acórdãos finais proferidos pelo tribunal do júri ou pelo tribunal coletivo que apliquem pena de prisão superior a 5 anos, visando exclusivamente o reexame da matéria de direito ou com os fundamentos previstos nos n.os 2 e 3 do artigo 410.º;
+                    d) De decisões interlocutórias que devam subir com os recursos referidos nas alíneas anteriores.
+                2 - Nos casos da alínea c) do número anterior não é admissível recurso prévio para a relação, sem prejuízo do disposto no n.º 8 do artigo 414.º
+
+Artigo 433.º - Outros Casos de Recurso
+Recorre-se ainda para o Supremo Tribunal de Justiça noutros casos que a lei especialmente preveja.
+
+Artigo 434.º - Poderes de Cognição
+O recurso interposto para o Supremo Tribunal de Justiça visa exclusivamente o reexame de matéria de direito, sem prejuízo do disposto nas alíneas a) e c) do n.º 1 do artigo 432.º
+
+Artigo 435.º - Audiência
+Na audiência o tribunal é constituído pelo presidente da secção, pelo relator e por dois juízes-adjuntos.
+
+Artigo 436.º - Alteração da Composição do Tribunal
+Não sendo possível a participação na audiência dos juízes que intervieram na conferência, são chamados outros juízes, designando-se novo relator ou completando-se os vistos.

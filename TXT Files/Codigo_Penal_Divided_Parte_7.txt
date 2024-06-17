@@ -1,0 +1,101 @@
+Este ficheiro corresponde ao livro 1, titulo 5 (da extinção da responsabilidade criminal) do código penal de portugal.
+
+Capítulo 1 - prescrição do procedimento criminal
+
+Artigo 118.º - em relação aos prazos de prescrição:
+1 - o procedimento criminal extingue-se, por efeito de prescrição, logo que sobre a prática do crime tiverem decorrido os seguintes prazos:
+    a) 15 anos, quando se tratar de:
+        a1) crimes puníveis com pena de prisão cujo limite máximo for superior a 10 anos;
+        a2) crimes previstos nos artigos 335, 372, 373, 374, 374, 375, 377, 379, 382, 383 e 384 do código penal. Os artigos encontram-se no título 5 do livro 2;
+        a3) crimes previstos nos artigos 11, 16 a 20, 23, 26 e 27 da lei n.º 34/87, de 16 de julho;
+        a4) crimes previstos nos artigos 7, 8 e 9 da lei n.º 20/2008, de 21 de abril;
+        a5) crimes previstos nos artigos 8, 9, 10, 11 e 12 da lei n.º 50/2007, de 31 de agosto;
+        a6) crime previsto no artigo 36 do decreto-lei n.º 28/84, de 20 de janeiro;
+        a7) crimes previstos nos artigos 36 e 37 do código de justiça militar; 
+        a8) crime previsto no artigo 299 do código penal, localizado no título 4 do livro 2 contanto que a finalidade ou atividade do grupo, organização ou associação seja dirigida à prática de um ou mais dos crimes previstos nas subalíneas a1, a2, a3, a4, a6 e a7;
+    b) 10 anos, quando se tratar de crimes puníveis com pena de prisão cujo limite máximo for igual ou superior a 5 anos, mas que não exceda 10 anos;
+    c) 5 anos, quando se tratar de crimes puníveis com pena de prisão cujo limite máximo for igual ou superior a 1 ano, mas inferior a 5 anos;
+    d) 2 anos, nos casos restantes.
+2 - para efeito do disposto no número anterior, na determinação do máximo da pena aplicável a cada crime são tomados em conta os elementos que pertençam ao tipo de crime, mas não as circunstâncias agravantes ou atenuantes.
+3 - se o procedimento criminal respeitar a pessoa colectiva ou entidade equiparada, os prazos previstos no n.º 1 são determinados tendo em conta a pena de prisão, antes de se proceder à conversão prevista nos n.os 1 e 2 do artigo 90, localizado no título 3 do livro 1.
+4 - quando a lei estabelecer para qualquer crime, em alternativa, pena de prisão ou de multa, só a primeira é considerada para efeito do disposto neste artigo.
+5 - nos crimes contra a liberdade e autodeterminação sexual de menores, bem como no crime de mutilação genital feminina sendo a vítima menor, o procedimento criminal não se extingue, por efeito da prescrição, antes de o ofendido perfazer 25 anos.
+
+Artigo 119.º - em relaçãoa ao início do prazo:
+1 - o prazo de prescrição do procedimento criminal corre desde o dia em que o facto se tiver consumado.
+2 - o prazo de prescrição só corre:
+    a) nos crimes permanentes, desde o dia em que cessar a consumação;
+    b) nos crimes continuados e nos crimes habituais, desde o dia da prática do último acto;
+    c) nos crimes não consumados, desde o dia do último acto de execução.
+3 - no caso de cumplicidade atende-se sempre, para efeitos deste artigo, ao facto do autor.
+4 - quando for relevante a verificação de resultado não compreendido no tipo de crime, o prazo de prescrição só corre a partir do dia em que aquele resultado se verificar.
+5 - nos crimes contra a liberdade e autodeterminação sexual de menor, o prazo de prescrição só corre desde o dia em que o ofendido atinja a maioridade e, se morrer antes de a atingir, a partir da data da sua morte.
+
+Artigo 120.º - em relação á suspensão da prescrição:
+1 - a prescrição do procedimento criminal suspende-se, para além dos casos especialmente previstos na lei, durante o tempo em que:
+    a) o procedimento criminal não puder legalmente iniciar-se ou continuar por falta de autorização legal ou de sentença a proferir por tribunal não penal, ou por efeito da devolução de uma questão prejudicial a juízo não penal;
+    b) o procedimento criminal estiver pendente a partir da notificação da acusação ou, não tendo esta sido deduzida, a partir da notificação da decisão instrutória que pronunciar o arguido ou do requerimento para aplicação de sanção em processo sumaríssimo;
+    c) vigorar a declaração de contumácia; ou
+    d) a sentença não puder ser notificada ao arguido julgado na ausência;
+    e) a sentença condenatória, após notificação ao arguido, não transitar em julgado;
+    f) o delinquente cumprir no estrangeiro pena ou medida de segurança privativas da liberdade.
+2 - no caso previsto na alínea b) do número anterior a suspensão não pode ultrapassar 3 anos.
+3 - no caso previsto na alínea c) do n.º 1 a suspensão não pode ultrapassar o prazo normal de prescrição.
+4 - no caso previsto na alínea e) do n.º 1 a suspensão não pode ultrapassar 5 anos, elevando-se para 10 anos no caso de ter sido declarada a excecional complexidade do processo.
+5 - os prazos a que alude o número anterior são elevados para o dobro se tiver havido recurso para o tribunal constitucional.
+6 - a prescrição volta a correr a partir do dia em que cessar a causa da suspensão.
+
+Artigo 121.º - em relação à interrupção da prescrição:
+1 - a prescrição do procedimento criminal interrompe-se:
+    a) com a constituição de arguido;
+    b) com a notificação da acusação ou, não tendo esta sido deduzida, com a notificação da decisão instrutória que pronunciar o arguido ou com a notificação do requerimento para aplicação da sanção em processo sumaríssimo;
+    c) com a declaração de contumácia.
+    d) com a notificação do despacho que designa dia para audiência na ausência do arguido.
+2 - depois de cada interrupção começa a correr novo prazo de prescrição.
+3 - sem prejuízo do disposto no n.º 5 do artigo 118.º, a prescrição do procedimento criminal tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal de prescrição acrescido de metade. quando, por força de disposição especial, o prazo de prescrição for inferior a dois anos o limite máximo da prescrição corresponde ao dobro desse prazo.
+
+Capítulo 2 -  prescrição das penas e das medidas de segurança:
+
+Artigo 122.º - em relação aos prazos de prescrição das penas:
+1 - as penas prescrevem nos prazos seguintes:
+    a) 20 anos, se forem superiores a 10 anos de prisão;
+    b) 15 anos, se forem iguais ou superiores a 5 anos de prisão;
+    c) 10 anos, se forem iguais ou superiores a 2 anos de prisão;
+    d) 4 anos, nos casos restantes.
+2 - o prazo de prescrição começa a correr no dia em que transitar em julgado a decisão que tiver aplicado a pena.
+3 - é correspondentemente aplicável o disposto no n.º 3 do artigo 118 do capítulo 1
+
+Artigo 123.º - em relação aos efeitos da prescrição da pena principal: a prescrição da pena principal envolve a prescrição da pena acessória que não tiver sido executada bem como dos efeitos da pena que ainda se não tiverem verificado.
+
+Artigo 124.º - em relaçãos aos prazos de prescrição das medidas de segurança:
+1 - as medidas de segurança prescrevem no prazo de 15 ou de 10 anos, consoante se trate de medidas de segurança privativas ou não privativas da liberdade.
+2 - a medida de segurança de cassação da licença de condução prescreve no prazo de 5 anos.
+
+Artigo 125.º - em relação à suspensão da prescrição:
+1 - a prescrição da pena e da medida de segurança suspende-se, para além dos casos especialmente previstos na lei, durante o tempo em que:
+    a) por força da lei, a execução não puder começar ou continuar a ter lugar;
+    b) vigorar a declaração de contumácia;
+    c) o condenado estiver a cumprir outra pena ou medida de segurança privativas da liberdade; ou
+    d) perdurar a dilação do pagamento da multa.
+2 - a prescrição volta a correr a partir do dia em que cessar a causa da suspensão.
+
+Artigo 126.º - em relação à interrupção da prescrição:
+1 - a prescrição da pena e da medida de segurança interrompe-se:
+    a) com a sua execução; ou
+    b) com a declaração de contumácia.
+2 - depois de cada interrupção começa a correr novo prazo de prescrição.
+3 - a prescrição da pena e da medida de segurança tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal da prescrição acrescido de metade.
+
+
+Capítulo 3 - outras causas de extinção
+
+Artigo 127.º - em relação à morte, amnistia, perdão genérico, indulto e extinção:
+1- a responsabilidade criminal extingue-se ainda pela morte, pela amnistia, pelo perdão genérico e pelo indulto.
+2 - no caso de extinção de pessoa colectiva ou entidade equiparada, o respectivo património responde pelas multas e indemnizações em que aquela for condenada.
+3 - a extinção da responsabilidade criminal pela morte do agente não impede o prosseguimento do processo para efeitos da declaração da perda de instrumentos, produtos e vantagens a favor do estado.
+
+Artigo 128.º - em relação aos efeitos da extinção:
+1 - sem prejuízo do disposto no n.º 3 do artigo anterior, a morte do agente extingue tanto o procedimento criminal como a pena ou a medida de segurança.
+2 - a amnistia extingue o procedimento criminal e, no caso de ter havido condenação, faz cessar a execução tanto da pena e dos seus efeitos como da medida de segurança.
+3 - o perdão genérico extingue a pena, no todo ou em parte.
+4 - o indulto extingue a pena, no todo ou em parte, ou substitui-a por outra mais favorável prevista na lei.

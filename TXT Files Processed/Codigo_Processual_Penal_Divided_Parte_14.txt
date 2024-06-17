@@ -1,0 +1,411 @@
+Esta secção do ficheiro corresponde à parte 2, livro 7 (Do julgamento), titulo 3 (Dos actos preliminares) do código processual penal de portugal.
+
+Artigo 311.º - Saneamento do Processo
+                1 - Recebidos os autos no tribunal, o presidente pronuncia-se sobre as nulidades e outras questões prévias ou incidentais que obstem à apreciação do mérito da causa, de que possa desde logo conhecer.
+                2 - Se o processo tiver sido remetido para julgamento sem ter havido instrução, o presidente despacha no sentido:
+                    a) De rejeitar a acusação, se a considerar manifestamente infundada;
+                    b) De não aceitar a acusação do assistente ou do ministério público na parte em que ela representa uma alteração substancial dos factos, nos termos do n.º 1 do artigo 284.º e do n.º 4 do artigo 285.º, respectivamente.
+                3 - Para efeitos do disposto no número anterior, a acusação considera-se manifestamente infundada:
+                    a) Quando não contenha a identificação do arguido;
+                    b) Quando não contenha a narração dos factos;
+                    c) Se não indicar as disposições legais aplicáveis ou as provas que a fundamentam; ou
+                    d) Se os factos não constituírem crime.
+
+Artigo 311.º-A - Despacho para Apresentação de Contestação
+                1 - Resolvidas as questões referidas no artigo anterior, o presidente ordena, por despacho, a notificação do arguido para contestar.
+                2 - O despacho contém, sob pena de nulidade:
+                    a) A indicação dos factos e disposições legais aplicáveis, o que pode ser feito por remissão para a acusação ou para a pronúncia, se a houver;
+                    b) Cópia da acusação ou da pronúncia;
+                    c) A nomeação de defensor do arguido, se ainda não estiver constituído no processo; e
+                    d) A data e a assinatura do presidente.
+                3 - O despacho é também notificado ao defensor.
+                4 - A notificação do arguido tem lugar nos termos das alíneas a) e b) do n.º 1 do artigo 113.º, exceto quando aquele tiver indicado a sua residência ou domicílio profissional à autoridade policial ou judiciária que elaborar o auto de notícia ou que o ouvir no inquérito ou na instrução e nunca tiver comunicado a alteração da mesma através de carta registada, caso em que a notificação é feita mediante via postal simples, nos termos da alínea c) do n.º 1 do artigo 113.º
+                5 - Do despacho a que se refere o n.º 1 não há recurso.
+
+Artigo 311.º-B - Contestação e Rol de Testemunhas
+                1 - O arguido, em 20 dias a contar da notificação do despacho referido no artigo anterior, apresenta, querendo, a contestação, acompanhada do rol de testemunhas, sendo aplicável o disposto no n.º 14 do artigo 113.º
+                2 - A contestação não está sujeita a formalidades especiais.
+                3 - Juntamente com o rol de testemunhas, o arguido indica os peritos e consultores técnicos que devem ser notificados para a audiência, bem como qualquer outra prova que entenda adequada à sua defesa.
+                4 - Ao rol de testemunhas é aplicável o disposto na alínea e) do n.º 3 e nos n.os 7 e 8 do artigo 283.º
+
+Artigo 312.º - Data da Audiência
+                1 - Findo o prazo previsto no artigo anterior, o presidente despacha designando dia, hora e local para a audiência, que será fixada para a data mais próxima possível, de modo que entre ela e o dia em que os autos forem recebidos não decorram mais de dois meses.
+                2 - No despacho a que se refere o número anterior é, desde logo, igualmente designada data para a realização da audiência em caso de adiamento nos termos do artigo 333.º, n.º 1, ou para audição do arguido a requerimento do seu advogado ou defensor nomeado ao abrigo do artigo 333.º, n.º 3.
+                3 - Sempre que o arguido se encontrar em prisão preventiva ou com obrigação de permanência na habitação, a data da audiência é fixada com precedência sobre qualquer outro julgamento.
+                4 - O tribunal marca a data da audiência de modo a que não ocorra sobreposição com outros atos judiciais a que os advogados ou defensores tenham obrigação de comparecer, aplicando-se o disposto no artigo 151.º do código de processo civil.
+
+Artigo 313.º - Notificação do Despacho que Designa Dia para a Audiência
+                1 - O despacho que designa dia para a audiência é notificado ao ministério público, ao arguido e seu defensor, ao assistente, partes civis, seus advogados e representantes, pelo menos 20 dias antes da data fixada para a audiência.
+                2 - O número anterior é correspondentemente aplicável à pessoa coletiva ou entidade equiparada arguida na morada indicada nos termos da alínea c) do n.º 5 do artigo 196.º
+                3 - (Revogado.)
+                4 - Do despacho que designa dia para a audiência não há recurso.
+
+Artigo 314.º - Comunicação aos Restantes Juízes
+                1 - O despacho que designa dia para a audiência é imediatamente comunicado, por cópia, aos juízes que fazem parte do tribunal.
+                2 - Conjuntamente, ou logo que possível, são-lhes remetidas cópias da acusação ou arquivamento, da acusação do assistente, da decisão instrutória, da contestação do arguido, dos articulados das partes civis e de qualquer despacho relativo a medidas de coação ou de garantia patrimonial.
+                3 - Sempre que se mostrar necessário, nomeadamente em razão da especial complexidade da causa ou de qualquer questão prévia ou incidental que nele se suscite, o presidente pode, oficiosamente ou a solicitação de qualquer dos restantes juízes, ordenar que o processo lhes vá com vista por prazo não superior a oito dias. Nesse caso, não é feita remessa dos documentos referidos no número anterior.
+
+Artigo 315.º - Contestação e Rol de Testemunhas
+Revogado.
+
+Artigo 316.º - Adicionamento ou Alteração do Rol de Testemunhas
+                1 - O ministério público, o assistente, o arguido ou as partes civis podem alterar o rol de testemunhas, inclusivamente requerendo a inquirição para além do limite legal, nos casos previstos nos n.os 7 e 8 do artigo 283.º, contanto que o adicionamento ou a alteração requeridos possam ser comunicados aos outros até três dias antes da data fixada para a audiência.
+                2 - Depois de apresentado o rol não podem oferecer-se novas testemunhas de fora da comarca, salvo se quem as oferecer se prontificar a apresentá-las na audiência.
+                3 - O disposto nos números anteriores é correspondentemente aplicável à indicação de peritos e consultores técnicos.
+
+Artigo 317.º - Notificação e Compensação de Testemunhas, Peritos e Consultores Técnicos
+                1 - As testemunhas, os peritos e os consultores técnicos indicados por quem se não tiver comprometido a apresentá-los na audiência são notificados para comparência, excepto os peritos dos estabelecimentos, laboratórios ou serviços oficiais apropriados, os quais são ouvidos por teleconferência a partir do seu local de trabalho, sempre que tal seja tecnicamente possível, sendo tão-só necessária a notificação do dia e da hora a que se procederá à sua audição.
+                2 - Quando as pessoas referidas no número anterior tiverem a qualidade de órgão de polícia criminal ou de trabalhador da administração pública e forem convocadas em razão do exercício das suas funções, o juiz arbitra, sem dependência de requerimento, uma quantia correspondente à dos montantes das ajudas de custo e dos subsídios de viagem e de marcha que no caso forem devidos, que reverte, como receita própria, para o serviço onde aquelas prestam serviço.
+                3 - Para os efeitos do disposto no número anterior, os serviços em causa devem remeter ao tribunal as informações necessárias, até cinco dias após a realização da audiência.
+                4 - Quando não houver lugar à aplicação do disposto no n.º 2, o juiz pode, a requerimento dos convocados que se apresentarem à audiência, arbitrar-lhes uma quantia, calculada em função de tabelas aprovadas pelo ministério da justiça, a título de compensação das despesas realizadas.
+                5 - Da decisão sobre o arbitramento das quantias referidas nos números anteriores e sobre o seu montante não há recurso.
+                6 - As quantias arbitradas valem como custas do processo.
+                7 - A secretaria, oficiosamente ou sob a direcção do presidente, procede a todas as diligências necessárias à localização e notificação das pessoas referidas no n.º 1, podendo, sempre que for indispensável, solicitar a colaboração de outras entidades.
+
+Artigo 318.º - Residentes Fora do Município
+                1 - Excepcionalmente, a tomada de declarações ao assistente, às partes civis, às testemunhas, a peritos ou a consultores técnicos pode, oficiosamente ou a requerimento, não ser prestada presencialmente, podendo ser solicitada ao juiz de outro tribunal ou juízo, por meio adequado de comunicação, nos termos do artigo 111.º, se:
+                    a) Aquelas pessoas residirem fora do município onde se situa o tribunal ou juízo da causa;
+                    b) Não houver razões para crer que a sua presença na audiência é essencial à descoberta da verdade; e
+                    c) Forem previsíveis graves dificuldades ou inconvenientes, funcionais ou pessoais, na sua deslocação.
+                2 - A solicitação é de imediato comunicada ao ministério público, bem como aos representantes do arguido, do assistente e das partes civis.
+                3 - Quem tiver requerido a tomada de declarações informa, no mesmo acto, quais os factos ou as circunstâncias sobre que aquelas devem versar.
+                4 - A tomada de declarações processa-se com observância das formalidades estabelecidas para a audiência.
+                5 - A tomada de declarações realiza-se em simultâneo com a audiência de julgamento, com recurso a equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real.
+                6 - Nos casos previstos no número anterior, observam-se as disposições aplicáveis à tomada de declarações em audiência de julgamento. No dia da inquirição, a pessoa identifica-se perante o funcionário judicial do tribunal ou juízo onde o depoimento é prestado, mas a partir desse momento a inquirição é efetuada perante o juiz da causa e os mandatários das partes, através de equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real, sem necessidade de intervenção do juiz do local onde o depoimento é prestado.
+                7 - Fora dos casos previstos no n.º 5, o conteúdo das declarações é reduzido a auto, sendo aquelas reproduzidas integralmente ou por súmula, conforme o juiz determinar, tendo em atenção os meios disponíveis de registo e transcrição, nos termos do artigo 101.º
+                8 - Sem prejuízo do disposto em instrumentos internacionais ou europeus, o assistente, partes civis ou testemunhas residentes no estrangeiro são inquiridos através de equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real, sempre que no local da sua residência existam os meios tecnológicos necessários.
+
+Artigo 319.º - Tomada de Declarações no Domicílio
+                1 - Se, por fundadas razões o assistente, uma parte civil, uma testemunha, um perito ou um consultor técnico se encontrarem impossibilitados de comparecer na audiência, pode o presidente ordenar, oficiosamente ou a requerimento, que lhes sejam tomadas declarações no lugar em que se encontrarem, em dia e hora que lhes comunicará.
+                2 - É correspondentemente aplicável o disposto nos n.os 2, 3 e 7 do artigo anterior.
+                3 - A tomada de declarações processa-se com observância das formalidades estabelecidas para a audiência, salvo no que respeita à publicidade.
+
+Artigo 320.º - Realização de Actos Urgentes
+                1 - O presidente, oficiosamente ou a requerimento, procede à realização dos actos urgentes ou cuja demora possa acarretar perigo para a aquisição ou a conservação da prova, ou para a descoberta da verdade, nomeadamente à tomada de declarações nos casos e às pessoas referidas nos artigos 271.º e 294.º
+                2 - É correspondentemente aplicável o disposto no artigo 318.º, n.os 2, 3, 4 e 7.
+
+Esta secção do ficheiro corresponde à parte 2, livro 7 (Do julgamento), titulo 2 (Da audiência) do código processual penal de portugal.
+
+Capítulo I - Disposições Gerais
+
+Artigo 321.º - Publicidade da Audiência
+                1 - A audiência de julgamento é pública, sob pena de nulidade insanável, salvo nos casos em que o presidente decidir a exclusão ou a restrição da publicidade.
+                2 - É correspondentemente aplicável o disposto no artigo 87.º
+                3 - A decisão de exclusão ou de restrição da publicidade é, sempre que possível, precedida de audição contraditória dos sujeitos processuais interessados.
+
+Artigo 322.º - Disciplina da Audiência e Direção dos Trabalhos
+                1 - A disciplina da audiência e a direção dos trabalhos competem ao presidente. É correspondentemente aplicável o disposto no artigo 85.º
+                2 - As decisões relativas à disciplina da audiência e à direção dos trabalhos são tomadas sem formalidades, podem ser ditadas para a ata e precedidas de audição contraditória, se o presidente entender que isso não põe em causa a tempestividade e a eficácia das medidas a tomar.
+
+Artigo 323.º - Poderes de Disciplina e de Direção
+Para disciplina e direção dos trabalhos cabe ao presidente, sem prejuízo de outros poderes e deveres que por lei lhe forem atribuídos:
+                    a) Proceder a interrogatórios, inquirições, exames e quaisquer outros atos de produção da prova, mesmo que com prejuízo da ordem legalmente fixada para eles, sempre que o entender necessário à descoberta da verdade;
+                    b) Ordenar, pelos meios adequados, a comparência de quaisquer pessoas e a produção de quaisquer declarações legalmente admissíveis, sempre que o entender necessário à descoberta da verdade;
+                    c) Ordenar a leitura de documentos, ou de autos de inquérito ou de instrução, nos casos em que aquela leitura seja legalmente admissível;
+                    d) Receber os juramentos e os compromissos;
+                    e) Tomar todas as medidas preventivas, disciplinares e coativas, legalmente admissíveis, que se mostrarem necessárias ou adequadas a fazer cessar os atos de perturbação da audiência e a garantir a segurança de todos os participantes processuais;
+                    f) Garantir o contraditório e impedir a formulação de perguntas legalmente inadmissíveis;
+                    g) Dirigir e moderar a discussão, proibindo, em especial, todos os expedientes manifestamente impertinentes ou dilatórios.
+
+Artigo 324.º - Deveres de Conduta das Pessoas que Assistem à Audiência
+                1 - As pessoas que assistem à audiência devem comportar-se de modo a não prejudicar a ordem e a regularidade dos trabalhos, a independência de critério e a liberdade de ação dos participantes processuais e a respeitar a dignidade do lugar.
+                2 - Cabe, em especial, às pessoas referidas no número anterior:
+                    a) Acatar as determinações relativas à disciplina da audiência;
+                    b) Comportar-se com compostura, mantendo-se em silêncio, de cabeça descoberta e sentadas;
+                    c) Não transportar objetos perturbadores ou perigosos, nomeadamente armas, salvo, quanto a estas, tratando-se de entidades encarregadas da segurança do tribunal;
+                    d) Não manifestar sentimentos ou opiniões, nomeadamente de aprovação ou de reprovação, a propósito do decurso da audiência.
+
+Artigo 325.º - Situação e Deveres de Conduta do Arguido
+                1 - O arguido, ainda que se encontre detido ou preso, assiste à audiência livre na sua pessoa, salvo se forem necessárias cautelas para prevenir o perigo de fuga ou atos de violência.
+                2 - O arguido detido ou preso é, sempre que possível, o último a entrar na sala de audiência e o primeiro a ser dela retirado.
+                3 - O arguido está obrigado aos mesmos deveres de conduta que, nos termos do artigo anterior, impendem sobre as pessoas que assistem à audiência.
+                4 - Se, no decurso da audiência, o arguido faltar ao respeito devido ao tribunal, é advertido e, se persistir no comportamento, é mandado recolher a qualquer dependência do tribunal, sem prejuízo da faculdade de comparecer ao último interrogatório e à leitura da sentença e do dever de regressar à sala sempre que o tribunal reputar a sua presença necessária.
+                5 - O arguido afastado da sala de audiência, nos termos do número anterior, considera-se presente e é representado pelo defensor.
+                6 - O afastamento do arguido vale só para a sessão durante a qual ele tiver sido ordenado.
+                7 - É correspondentemente aplicável o disposto no artigo 85.º, n.º 3.
+
+Artigo 326.º - Conduta dos Advogados e Defensores
+Se os advogados ou defensores, nas suas alegações ou requerimentos:
+                    a) Se afastarem do respeito devido ao tribunal;
+                    b) Procurarem, manifesta e abusivamente, protelar ou embaraçar o decurso normal dos trabalhos;
+                    c) Usarem de expressões injuriosas ou difamatórias ou desnecessariamente violentas ou agressivas; ou
+                    d) Fizerem, ou incitarem a que sejam feitos, comentários ou explanações sobre assuntos alheios ao processo e que de modo algum sirvam para esclarecê-lo;
+são advertidos com urbanidade pelo presidente do tribunal; e se, depois de advertidos, continuarem, pode aquele retirar-lhes a palavra e, no caso do defensor, confiar a defesa a outro advogado ou pessoa idónea, sem prejuízo do procedimento criminal e disciplinar a que haja lugar.
+São advertidos com urbanidade pelo presidente do tribunal; e se, depois de advertidos, continuarem, pode aquele retirar-lhes a palavra, sendo aplicável neste caso o disposto na lei do processo civil.
+
+Artigo 327.º - Contraditoriedade
+                1 - As questões incidentais sobrevindas no decurso da audiência são decididas pelo tribunal, ouvidos os sujeitos processuais que nelas forem interessados.
+                2 - Os meios de prova apresentados no decurso da audiência são submetidos ao princípio do contraditório, mesmo que tenham sido oficiosamente produzidos pelo tribunal.
+
+Artigo 328.º - Continuidade da Audiência
+                1 - A audiência é contínua, decorrendo sem qualquer interrupção ou adiamento até ao seu encerramento.
+                2 - São admissíveis, na mesma audiência, as interrupções estritamente necessárias, em especial para alimentação e repouso dos participantes. Se a audiência não puder ser concluída no dia em que se tiver iniciado, é interrompida, para continuar no dia útil imediatamente posterior.
+                3 - O adiamento da audiência só é admissível, sem prejuízo dos demais casos previstos neste código, quando, não sendo a simples interrupção bastante para remover o obstáculo:
+                    a) Faltar ou ficar impossibilitada de participar pessoa que não possa ser de imediato substituída e cuja presença seja indispensável por força da lei ou de despacho do tribunal, exceto se estiverem presentes outras pessoas, caso em que se procederá à sua inquirição ou audição, mesmo que tal implique a alteração da ordem de produção de prova referida no artigo 341.º;
+                    b) For absolutamente necessário proceder à produção de qualquer meio de prova superveniente e indisponível no momento em que a audiência estiver a decorrer; ou
+                    c) Surgir qualquer questão prejudicial, prévia ou incidental, cuja resolução seja essencial para a boa decisão da causa e que torne altamente inconveniente a continuação da audiência; ou
+                    d) For necessário proceder à elaboração de relatório social ou de informação dos serviços de reinserção social, nos termos do artigo 370.º, n.º 1.
+                4 - Em caso de interrupção da audiência ou do seu adiamento, a audiência retoma-se a partir do último ato processual praticado na audiência interrompida ou adiada.
+                5 - A interrupção e o adiamento dependem sempre de despacho fundamentado do presidente, que é notificado a todos os sujeitos processuais.
+                6 - O adiamento não pode exceder 30 dias. Se não for possível retomar a audiência neste prazo, por impedimento do tribunal ou por impedimento dos defensores constituídos em consequência de outro serviço judicial já marcado de natureza urgente e com prioridade sobre a audiência em curso, deve o respetivo motivo ficar consignado em ata, identificando-se expressamente a diligência e o processo a que respeita.
+                7 - Para efeitos da contagem do prazo referido no número anterior, não é considerado o período das férias judiciais, nem o período em que, por motivo estranho ao tribunal, os autos aguardem a realização de diligências de prova, a prolação de sentença ou que, em via de recurso, o julgamento seja anulado parcialmente, nomeadamente para repetição da prova ou produção de prova suplementar.
+                8 - O anúncio público em audiência do dia e da hora para continuação ou recomeço daquela vale como notificação das pessoas que devam considerar-se presentes.
+
+Artigo 328.º-A - Princípio da Plenitude da Assistência dos Juízes
+                1 - Só podem intervir na sentença os juízes que tenham assistido a todos os atos de instrução e discussão praticados na audiência de julgamento, salvo o disposto nos números seguintes.
+                2 - Se durante a discussão e julgamento por tribunal coletivo falecer ou ficar impossibilitado permanentemente um dos juízes adjuntos, não se repetem os atos já praticados, a menos que as circunstâncias aconselhem a repetição de algum ou alguns dos atos já praticados, o que é decidido, em despacho fundamentado, pelo juiz que deva presidir à continuação da audiência, ouvido o juiz substituto.
+                3 - Sendo temporária a impossibilidade, interrompe-se a audiência pelo tempo indispensável, a não ser que as circunstâncias aconselhem a substituição do juiz impossibilitado, o que é decidido, em despacho fundamentado, pelo juiz que deva presidir à continuação da audiência.
+                4 - O juiz substituto continua a intervir, não obstante o regresso ao serviço do juiz efetivo.
+                5 - O juiz que for transferido, promovido ou aposentado conclui o julgamento, exceto se a aposentação tiver por fundamento a incapacidade física, moral ou profissional para o exercício do cargo, ou se em qualquer dos casos as circunstâncias aconselharem a substituição do juiz transferido, promovido ou aposentado, o que é decidido, em despacho fundamentado, pelo juiz que deva presidir à continuação da audiência.
+                6 - O disposto no n.º 2 é correspondentemente aplicável às situações previstas nos n.os 3 e 5.
+                7 - Para o efeito de ser proferida a decisão prevista no n.º 2 devem ser ponderados, nomeadamente, o número de sessões já realizadas, o número de testemunhas já inquiridas, a possibilidade de repetição da prova já produzida, a data da prática dos factos e a natureza dos crimes em causa.
+
+Capítulo II - Dos Atos Introdutórios
+
+Artigo 329.º - Chamada e Abertura da Audiência
+                1 - Na hora a que deva realizar-se a audiência, o funcionário de justiça, de viva voz e publicamente, começa por identificar o processo e chama, em seguida, as pessoas que nele devam intervir.
+                2 - Se faltar alguma das pessoas que devam intervir na audiência, o funcionário de justiça faz nova chamada, após o que comunica verbalmente ao presidente o rol dos presentes e dos faltosos.
+                3 - Seguidamente, o tribunal entra na sala e o presidente declara aberta a audiência.
+
+Artigo 330.º - Falta do Ministério Público, do Defensor e do Representante do Assistente ou das Partes Civis
+                1 - Se, no início da audiência, não estiver presente o Ministério Público ou o defensor, o presidente procede, sob pena de nulidade insanável, à substituição do Ministério Público pelo substituto legal, e do defensor por outro advogado ou advogado estagiário, aos quais pode conceder, se assim o requererem, algum tempo para examinarem o processo e prepararem a intervenção.
+                2 - Em caso de falta do representante do assistente ou das partes civis a audiência prossegue, sendo o faltoso admitido a intervir logo que comparecer. Tratando-se da falta de representante do assistente em procedimento dependente de acusação particular, a audiência é adiada por uma só vez; a falta não justificada ou a segunda falta valem como desistência da acusação, salvo se houver oposição do arguido.
+
+Artigo 331.º - Falta do Assistente, de Testemunhas, Peritos, Consultores Técnicos ou das Partes Civis
+                1 - Sem prejuízo do disposto no artigo 116.º, a falta do assistente, de testemunhas, peritos ou consultores técnicos ou das partes civis não dá lugar ao adiamento da audiência. O assistente e as partes civis são, nesse caso, representados para todos os efeitos legais pelos respetivos advogados constituídos.
+                2 - Se o presidente, oficiosamente ou a requerimento, decidir, por despacho, que a presença de alguma das pessoas mencionadas no número anterior é indispensável à boa decisão da causa e não for previsível a obtenção do seu comparecimento com a simples interrupção da audiência, são inquiridas as testemunhas e ouvidos o assistente, os peritos ou consultores técnicos ou as partes civis presentes, mesmo que tal implique a alteração da ordem de produção de prova referida no artigo 341.º
+                3 - Por falta das pessoas mencionadas no n.º 1 não pode haver mais que um adiamento.
+
+Artigo 332.º - Presença do Arguido
+                1 - É obrigatória a presença do arguido na audiência, sem prejuízo do disposto nos artigos 333.º, n.os 1 e 2, e 334.º, n.os 1 e 2.
+                2 - O arguido que deva responder perante determinado tribunal, segundo as normas gerais da competência, e estiver preso em comarca diferente pela prática de outro crime, é requisitado à entidade que o tiver à sua ordem.
+                3 - A requerimento fundamentado do arguido, cabe ao tribunal proporcionar àquele as condições para a sua deslocação.
+                4 - O arguido que tiver comparecido à audiência não pode afastar-se dela até ao seu termo. O presidente toma as medidas necessárias e adequadas para evitar o afastamento, incluída a detenção durante as interrupções da audiência, se isso parecer indispensável.
+                5 - Se, não obstante o disposto no número anterior, o arguido se afastar da sala de audiência, pode esta prosseguir até final se o arguido já tiver sido interrogado e o tribunal não considerar indispensável a sua presença, sendo para todos os efeitos representado pelo defensor.
+                6 - O disposto no número anterior vale correspondentemente para o caso em que o arguido, por dolo ou negligência, se tiver colocado numa situação de incapacidade para continuar a participar na audiência.
+                7 - Nos casos previstos nos n.os 5 e 6 deste artigo, bem como no do artigo 325.º n.º 4, voltando o arguido à sala de audiência é, sob pena de nulidade, resumidamente instruído pelo presidente do que se tiver passado na sua ausência.
+                8 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º
+
+Artigo 333.º - Falta e Julgamento na Ausência do Arguido Notificado para a Audiência
+                1 - Se o arguido regularmente notificado não estiver presente na hora designada para o início da audiência, o presidente toma as medidas necessárias e legalmente admissíveis para obter a sua comparência, e a audiência só é adiada se o tribunal considerar que é absolutamente indispensável para a descoberta da verdade material a sua presença desde o início da audiência.
+                2 - Se o tribunal considerar que a audiência pode começar sem a presença do arguido, ou se a falta de arguido tiver como causa os impedimentos enunciados nos n.os 2 a 4 do artigo 117.º, a audiência não é adiada, sendo inquiridas ou ouvidas as pessoas presentes pela ordem referida nas alíneas b) e c) do artigo 341.º, sem prejuízo da alteração que seja necessária efetuar no rol apresentado, e as suas declarações documentadas, aplicando-se sempre que necessário o disposto no n.º 6 do artigo 117.º
+                3 - No caso referido no número anterior, o arguido mantém o direito de prestar declarações até ao encerramento da audiência, e se ocorrer na primeira data marcada, o advogado constituído ou o defensor nomeado ao arguido pode requerer que este seja ouvido na segunda data designada pelo juiz ao abrigo do artigo 312.º, n.º 2.
+                4 - O disposto nos números anteriores não prejudica que a audiência tenha lugar na ausência do arguido com o seu consentimento, nos termos do artigo 334.º, n.º 2.
+                5 - No caso previsto nos n.os 2 e 3, havendo lugar a audiência na ausência do arguido, a sentença é notificada ao arguido logo que seja detido ou se apresente voluntariamente. O prazo para a interposição de recurso pelo arguido conta-se a partir da notificação da sentença.
+                6 - Na notificação prevista no número anterior o arguido é expressamente informado do direito a recorrer da sentença e do respetivo prazo.
+                7 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º e nos n.os 4 e 5 do artigo seguinte.
+
+Artigo 334.º - Audiência na Ausência do Arguido em Casos Especiais e de Notificação Edital
+                1 - Se ao caso couber processo sumaríssimo mas o procedimento tiver sido reenviado para a forma comum e se o arguido não puder ser notificado do despacho que designa dia para a audiência ou faltar a esta injustificadamente, o tribunal pode determinar que a audiência tenha lugar na ausência do arguido.
+                2 - Sempre que o arguido se encontrar praticamente impossibilitado de comparecer à audiência, nomeadamente por idade, doença grave ou residência no estrangeiro, pode requerer ou consentir que a audiência tenha lugar na sua ausência.
+                3 - Nos casos previstos nos n.os 1 e 2, se o tribunal vier a considerar absolutamente indispensável a presença do arguido, ordena-a, interrompendo ou adiando a audiência, se isso for necessário.
+                4 - Sempre que a audiência tiver lugar na ausência do arguido, este é representado, para todos os efeitos possíveis, pelo defensor.
+                5 - Em caso de conexão de processos, os arguidos presentes e ausentes são julgados conjuntamente, salvo se o tribunal tiver como mais conveniente a separação de processos.
+                6 - Fora dos casos previstos nos n.os 1 e 2, a sentença é notificada ao arguido que foi julgado como ausente logo que seja detido ou se apresente voluntariamente. O prazo para a interposição do recurso pelo arguido conta-se a partir da notificação da sentença.
+                7 - Na notificação prevista no número anterior o arguido é expressamente informado do direito a recorrer da sentença e do respetivo prazo.
+                8 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º
+
+Artigo 335.º - Declaração de Contumácia
+                1 - Fora dos casos previstos nos n.os 1 e 2 do artigo anterior, se, depois de realizadas as diligências necessárias à notificação a que se refere o n.º 1 e primeira parte do n.º 4 do artigo 311.º-A, ou à notificação a que se refere o n.º 1 do artigo 313.º, não for possível notificar o arguido do despacho para apresentação de contestação ou do despacho que designa a data da audiência, ou executar a detenção ou a prisão preventiva referidas no n.º 2 do artigo 116.º e no artigo 254.º, ou consequentes a uma evasão, o arguido é notificado por editais para apresentar contestação ou apresentar-se em juízo, num prazo até 30 dias, sob pena de ser declarado contumaz.
+                2 - Os editais contêm as indicações tendentes à identificação do arguido, do crime que lhe é imputado e das disposições legais que o punem e a comunicação de que, não se apresentando no prazo assinado, será declarado contumaz.
+                3 - A declaração de contumácia é da competência do presidente e implica a suspensão dos termos ulteriores do processo até à apresentação ou à detenção do arguido, sem prejuízo do disposto no n.º 4 e da realização de atos urgentes nos termos do artigo 320.º
+                4 - Em caso de conexão de processos, a declaração de contumácia implica a separação daqueles em que tiver sido proferida.
+                5 - A declaração de contumácia não impede o prosseguimento do processo para efeitos da declaração da perda de instrumentos, produtos e vantagens a favor do Estado.
+                6 - Os números anteriores são correspondentemente aplicáveis à pessoa coletiva ou entidade equiparada arguida, sendo a notificação edital feita nos termos do n.º 17 do artigo 113.º
+
+Artigo 336.º - Caducidade da Declaração de Contumácia
+                1 - A declaração de contumácia caduca logo que o arguido se apresentar ou for detido, sem prejuízo do disposto no n.º 4 do artigo anterior.
+                2 - Logo que se apresente ou for detido, o arguido é sujeito a termo de identidade e residência, sem prejuízo de outras medidas de coação, observando-se o disposto nos n.os 2 e 4 a 6 do artigo 58.º
+                3 - Se o processo tiver prosseguido nos termos do artigo 283.º, n.º 5, parte final, o arguido é notificado da acusação, podendo requerer a abertura de instrução no prazo a que se refere o artigo 287.º, seguindo-se os demais termos previstos para o processo comum.
+
+Artigo 337.º - Efeitos e Notificação da Contumácia
+                1 - A declaração de contumácia implica para o arguido a passagem imediata de mandado de detenção para efeitos do disposto no n.º 2 do artigo anterior ou para aplicação da medida de prisão preventiva, se for caso disso, e a anulabilidade dos negócios jurídicos de natureza patrimonial celebrados após a declaração.
+                2 - A anulabilidade é deduzida perante o tribunal competente pelo Ministério Público até à cessação da contumácia.
+                3 - Quanto a medida se mostrar necessária para desmotivar a situação de contumácia, o tribunal pode decretar a proibição de obter determinados documentos, certidões ou registos junto de autoridades públicas, bem como o arresto, na totalidade ou em parte, dos bens do arguido.
+                4 - Ao arresto é correspondentemente aplicável o disposto no artigo 228.º, n.os 2, 3, 4 e 5.
+                5 - O despacho que declarar a contumácia é anunciado nos termos da parte final do n.º 13 do artigo 113.º e notificado, com indicação dos efeitos previstos no n.º 1, ao defensor e a parente ou a pessoa da confiança do arguido.
+                6 - O despacho que declarar a contumácia, com especificação dos respetivos efeitos, e aquele que declarar a sua cessação são registados no registo de contumácia.
+
+Artigo 338.º - Questões Prévias ou Incidentes
+                1 - O tribunal conhece e decide das nulidades e de quaisquer outras questões prévias ou incidentais suscetíveis de obstar à apreciação do mérito da causa acerca das quais não tenha ainda havido decisão e que possa desde logo apreciar.
+                2 - A discussão das questões referidas no número anterior deve conter-se nos limites de tempo estritamente necessários, não ultrapassando, em regra, uma hora. A decisão pode ser proferida oralmente, com transcrição na ata.
+
+Artigo 339.º - Exposições Introdutórias
+                1 - Realizados os atos introdutórios referidos nos artigos anteriores, o presidente ordena a retirada da sala das pessoas que devam testemunhar, podendo proceder de igual modo relativamente a outras pessoas que devam ser ouvidas, e faz uma exposição sucinta sobre o objeto do processo.
+                2 - Em seguida o presidente dá a palavra, pela ordem indicada, ao Ministério Público, aos advogados do assistente, do lesado e do responsável civil e ao defensor, para que cada um deles indique, se assim o desejar, sumariamente e no prazo de dez minutos, os factos que se propõe provar.
+                3 - O presidente regula ativamente as exposições referidas no número anterior, com vista a evitar divagações, repetições ou interrupções, bem como a que elas se transformem em alegações preliminares.
+                4 - Sem prejuízo do regime aplicável à alteração dos factos, a discussão da causa tem por objeto os factos alegados pela acusação e pela defesa e os que resultarem da prova produzida em audiência, bem como todas as soluções jurídicas pertinentes, independentemente da qualificação jurídica dos factos resultante da acusação ou da pronúncia, tendo em vista as finalidades a que se referem os artigos 368.º e 369.º
+
+Capítulo III - Da Produção da Prova
+
+Artigo 340.º - Princípios Gerais
+                1 - O tribunal ordena, oficiosamente ou a requerimento, a produção de todos os meios de prova cujo conhecimento se lhe afigure necessário à descoberta da verdade e à boa decisão da causa.
+                2 - Se o tribunal considerar necessária a produção de meios de prova não constantes da acusação, da pronúncia ou da contestação, dá disso conhecimento, com a antecedência possível, aos sujeitos processuais e fá-lo constar da ata.
+                3 - Sem prejuízo do disposto no artigo 328.º n.º 3, os requerimentos de prova são indeferidos por despacho quando a prova ou o respetivo meio forem legalmente inadmissíveis.
+                4 - Os requerimentos de prova são ainda indeferidos se for notório que:
+                    a) (Revogada.);
+                    b) As provas requeridas são irrelevantes ou supérfluas;
+                    c) O meio de prova é inadequado, de obtenção impossível ou muito duvidosa; ou
+                    d) O requerimento tem finalidade meramente dilatória.
+
+Artigo 341.º - Ordem de Produção da Prova
+A produção da prova deve respeitar a ordem seguinte:
+                    a) Declarações do arguido;
+                    b) Apresentação dos meios de prova indicados pelo Ministério Público, pelo assistente e pelo lesado;
+                    c) Apresentação dos meios de prova indicados pelo arguido e pelo responsável civil.
+
+Artigo 342.º - Identificação do Arguido
+                1 - O presidente começa por perguntar ao arguido pelo seu nome, filiação, freguesia e concelho de naturalidade, data de nascimento, estado civil, profissão, local de trabalho e residência e, se necessário, pede-lhe a exibição de documento oficial bastante de identificação.
+                2 - O presidente adverte o arguido de que a falta de resposta às perguntas feitas ou a falsidade da mesma o pode fazer incorrer em responsabilidade penal.
+                3 - No caso de pessoa coletiva ou entidade equiparada arguida, o presidente pergunta ao seu representante pela sua identificação social e sede ou local de funcionamento normal da administração, bem como, no tocante ao representante, pelo seu nome, filiação, freguesia e concelho de naturalidade, data de nascimento, estado civil, profissão, local de trabalho e residência e, se necessário, pede-lhe a exibição de documento oficial bastante de identificação.
+                4 - No caso da pessoa coletiva ou entidade equiparada arguida, o presidente adverte o seu representante de que a falta de resposta às perguntas feitas ou a falsidade da mesma o pode fazer incorrer em responsabilidade penal, em relação aos elementos de identificação a si referentes, e pode fazer incorrer a sua representada em responsabilidade penal, em relação aos elementos de identificação a ela referentes.
+
+Artigo 343.º - Declarações do Arguido
+                1 - O presidente informa o arguido de que tem direito a prestar declarações em qualquer momento da audiência, desde que elas se refiram ao objeto do processo, sem que no entanto a tal seja obrigado e sem que o seu silêncio possa desfavorecê-lo.
+                2 - Se o arguido se dispuser a prestar declarações, o tribunal ouve-o em tudo quanto disser, nos limites assinalados no número anterior, sem manifestar qualquer opinião ou tecer quaisquer comentários donde possa inferir-se um juízo sobre a culpabilidade.
+                3 - Se, no decurso das declarações, o arguido se afastar do objeto do processo, reportando-se a matéria irrelevante para a boa decisão da causa, o presidente adverte-o e, se aquele persistir, retira-lhe a palavra.
+                4 - Respondendo vários co-arguidos, o presidente determina se devem ser ouvidos na presença uns dos outros; em caso de audição separada, o presidente, uma vez todos os arguidos ouvidos e regressados à audiência, dá-lhes resumidamente conhecimento, sob pena de nulidade, do que se tiver passado na sua ausência.
+                5 - Ao Ministério Público, ao defensor, aos representantes do assistente e das partes civis não são permitidas interferências nas declarações do arguido, nomeadamente sugestões quanto ao modo de declarar. Ressalva-se, todavia, relativamente ao defensor, o disposto no artigo 345.º, n.º 1, segunda parte.
+
+Artigo 344.º - Confissão
+                1 - O arguido pode declarar, em qualquer momento da audiência, que pretende confessar os factos que lhe são imputados, devendo o presidente, sob pena de nulidade, perguntar-lhe se o faz de livre vontade e fora de qualquer coação, bem como se se propõe fazer uma confissão integral e sem reservas.
+                2 - A confissão integral e sem reservas implica:
+                    a) Renúncia à produção da prova relativa aos factos imputados e consequente consideração destes como provados;
+                    b) Passagem de imediato às alegações orais e, se o arguido não dever ser absolvido por outros motivos, à determinação da sanção aplicável; e
+                    c) Redução do imposto de justiça em metade.
+                3 - Exceptuam-se do disposto no número anterior os casos em que:
+                    a) Houver co-arguidos e não se verificar a confissão integral, sem reservas e coerente de todos eles;
+                    b) O tribunal, em sua convicção, suspeitar do caráter livre da confissão, nomeadamente por dúvidas sobre a imputabilidade plena do arguido ou da veracidade dos factos confessados; ou
+                    c) O crime for punível com pena de prisão superior a cinco anos.
+                4 - Verificando-se a confissão integral e sem reservas nos casos do número anterior ou a confissão parcial ou com reservas, o tribunal decide, em sua livre convicção, se deve ter lugar e em que medida, quanto aos factos confessados, a produção da prova.
+                5 - O disposto nos números anteriores é correspondentemente aplicável no processo contra pessoa coletiva ou entidade equiparada, podendo o seu representante fazer uma confissão dos factos que são imputados à representada, contanto que a confissão caiba nos seus poderes de representação.
+
+Artigo 345.º - Perguntas sobre os Factos
+                1 - Se o arguido se dispuser a prestar declarações, cada um dos juízes e dos jurados pode fazer-lhe perguntas sobre os factos que lhe sejam imputados e solicitar-lhe esclarecimentos sobre as declarações prestadas. O arguido pode, espontaneamente ou a recomendação do defensor, recusar a resposta a algumas ou a todas as perguntas, sem que isso o possa desfavorecer.
+                2 - O Ministério Público, o advogado do assistente e o defensor podem solicitar ao presidente que formule ao arguido perguntas, nos termos do número anterior.
+                3 - Podem ser mostrados ao arguido quaisquer pessoas, documentos ou objetos relacionados com o tema da prova, bem como peças anteriores do processo, sem prejuízo do disposto nos artigos 356.º e 357.º
+                4 - Não podem valer como meio de prova as declarações de um co-arguido em prejuízo de outro co-arguido quando o declarante se recusar a responder às perguntas formuladas nos termos dos n.os 1 e 2.
+
+Artigo 346.º - Declarações do Assistente
+                1 - Podem ser tomadas declarações ao assistente, mediante perguntas formuladas por qualquer dos juízes e dos jurados ou pelo presidente, a solicitação do Ministério Público, do defensor ou dos advogados das partes civis ou do assistente.
+                2 - É correspondentemente aplicável o disposto no artigo 145.º, n.os 2 e 4, e no n.º 3 do artigo anterior.
+
+Artigo 347.º - Declarações das Partes Civis
+                1 - Ao responsável civil e ao lesado podem ser tomadas declarações, mediante perguntas formuladas por qualquer dos juízes ou dos jurados ou pelo presidente, a solicitação do Ministério Público, do defensor ou dos advogados do assistente ou das partes civis.
+                2 - É correspondentemente aplicável o disposto no artigo 145.º, n.os 2 e 4, e no artigo 345.º, n.º 3.
+
+Artigo 347.º-A - Declarações do Terceiro Titular dos Instrumentos, Produtos ou Vantagens Suscetíveis de Serem Declarados Perdidos a Favor do Estado
+                1 - Ao terceiro ao qual pertençam instrumentos, produtos ou vantagens suscetíveis de serem declarados perdidos a favor do Estado, é garantido o exercício do direito de contraditório e a prestação de declarações, mediante perguntas formuladas por qualquer dos juízes ou dos jurados ou pelo presidente, a solicitação do próprio terceiro, do Ministério Público, do defensor ou dos advogados do assistente ou das partes civis.
+                2 - É correspondentemente aplicável o disposto nos n.os 2 e 4 do artigo 145.º e no n.º 3 do artigo 345.º
+
+Artigo 348.º - Inquirição das Testemunhas
+                1 - À produção da prova testemunhal na audiência são correspondentemente aplicáveis as disposições gerais sobre aquele meio de prova, em tudo o que não for contrariado pelo disposto neste capítulo.
+                2 - As testemunhas são inquiridas, uma após outra, pela ordem por que foram indicadas, salvo se o presidente, por fundado motivo, dispuser de outra maneira.
+                3 - O presidente pergunta à testemunha pela sua identificação, pelas suas relações pessoais, familiares e profissionais com os participantes e pelo seu interesse na causa, de tudo se fazendo menção na ata.
+                4 - Seguidamente a testemunha é inquirida por quem a indicou, sendo depois sujeita a contra-interrogatório. Quando neste forem suscitadas questões não levantadas no interrogatório direto, quem tiver indicado a testemunha pode reinquiri-la sobre aquelas questões, podendo seguir-se novo contra-interrogatório com o mesmo âmbito.
+                5 - Os juízes e os jurados podem, a qualquer momento, formular à testemunha as perguntas que entenderem necessárias para esclarecimento do depoimento prestado e para boa decisão da causa.
+                6 - Mediante autorização do presidente, podem as testemunhas indicadas por um co-arguido ser inquiridas pelo defensor de outro co-arguido.
+                7 - É correspondentemente aplicável o disposto no artigo 345.º, n.º 3.
+
+Artigo 349.º - Testemunhas Menores de 16 Anos
+A inquirição de testemunhas menores de 16 anos é levada a cabo apenas pelo presidente. Finda ela, os outros juízes, os jurados, o Ministério Público, o defensor e os advogados do assistente e das partes civis podem pedir ao presidente que formule à testemunha perguntas adicionais.
+
+Artigo 350.º - Declarações de Peritos e Consultores Técnicos
+                1 - As declarações de peritos e consultores técnicos são tomadas pelo presidente, a quem os outros juízes, os jurados, o Ministério Público, o defensor e os advogados do assistente e das partes civis podem sugerir quaisquer pedidos de esclarecimento ou perguntas úteis para a boa decisão da causa.
+                2 - Durante a prestação de declarações, os peritos e consultores podem, com autorização do presidente, consultar notas, documentos ou elementos bibliográficos, bem como servir-se dos instrumentos técnicos de que careçam, sendo-lhes ainda correspondentemente aplicável o disposto no artigo 345.º, n.º 3.
+                3 - Os peritos dos estabelecimentos, laboratórios ou serviços oficiais são ouvidos por teleconferência a partir do seu local de trabalho, sempre que tal seja tecnicamente possível, sendo tão-só necessária a notificação do dia e da hora a que se procederá à sua audição.
+
+Artigo 351.º - Perícia sobre o Estado Psíquico do Arguido
+                1 - Quando na audiência se suscitar fundadamente a questão da inimputabilidade do arguido, o presidente, oficiosamente ou a requerimento, ordena a comparência de um perito para se pronunciar sobre o estado psíquico daquele.
+                2 - O tribunal pode também ordenar a comparência do perito quando na audiência se suscitar fundadamente a questão da imputabilidade diminuída do arguido.
+                3 - Em casos justificados, pode o tribunal requisitar a perícia a estabelecimento especializado.
+                4 - Se o perito não tiver ainda examinado o arguido ou a perícia for requisitada a estabelecimento especializado, o tribunal, para o efeito, interrompe a audiência ou, se for absolutamente indispensável, adia-a.
+
+Artigo 352.º - Afastamento do Arguido Durante a Prestação de Declarações
+                1 - O tribunal ordena o afastamento do arguido da sala de audiência, durante a prestação de declarações, se:
+                    a) Houver razões para crer que a presença do arguido inibiria o declarante de dizer a verdade;
+                    b) O declarante for menor de 16 anos e houver razões para crer que a sua audição na presença do arguido poderia prejudicá-lo gravemente; ou
+                    c) Dever ser ouvido um perito e houver razão para crer que a sua audição na presença do arguido poderia prejudicar gravemente a integridade física ou psíquica deste.
+                2 - Salvo na hipótese da alínea c) do número anterior, é correspondentemente aplicável o disposto no artigo 332.º, n.º 7.
+
+Artigo 353.º - Dispensa de Testemunhas e Outros Declarantes
+                1 - As testemunhas, os peritos, o assistente e as partes civis só podem abandonar o local da audiência por ordem ou com autorização do presidente.
+                2 - A autorização é denegada sempre que houver razões para crer que a presença pode ser útil à descoberta da verdade.
+                3 - O Ministério Público, o defensor e os advogados do assistente e das partes civis são ouvidos sobre a ordem ou a autorização.
+
+Artigo 354.º - Exame no Local
+O tribunal pode, quando o considerar necessário à boa decisão da causa, deslocar-se ao local onde tiver ocorrido qualquer facto cuja prova se mostre essencial e convocar para o efeito os participantes processuais cuja presença entender conveniente.
+
+Artigo 355.º - Proibição de Valoração de Provas
+                1 - Não valem em julgamento, nomeadamente para o efeito de formação da convicção do tribunal, quaisquer provas que não tiverem sido produzidas ou examinadas em audiência.
+                2 - Ressalvam-se do disposto no número anterior as provas contidas em atos processuais cuja leitura, visualização ou audição em audiência sejam permitidas, nos termos dos artigos seguintes.
+
+Artigo 356.º - Reprodução ou Leitura Permitidas de Autos e Declarações
+                1 - Só é permitida a leitura em audiência de autos:
+                    a) Relativos a atos processuais levados a cabo nos termos dos artigos 318.º, 319.º e 320.º; ou
+                    b) De instrução ou de inquérito que não contenham declarações do arguido, do assistente, das partes civis ou de testemunhas.
+                2 - A leitura de declarações do assistente, das partes civis e de testemunhas só é permitida, tendo sido prestadas perante o juiz, nos casos seguintes:
+                    a) Se as declarações tiverem sido tomadas nos termos dos artigos 271.º e 294.º;
+                    b) Se o Ministério Público, o arguido e o assistente estiverem de acordo no sua leitura;
+                    c) Tratando-se de declarações obtidas mediante rogatórias ou precatórias legalmente permitidas.
+                3 - É também permitida a reprodução ou leitura de declarações anteriormente prestadas perante autoridade judiciária:
+                    a) Na parte necessária ao avivamento da memória de quem declarar na audiência que já não recorda certos factos; ou
+                    b) Quando houver, entre elas e as feitas em audiência, contradições ou discrepâncias.
+                4 - É permitida a reprodução ou leitura de declarações prestadas perante a autoridade judiciária se os declarantes não tiverem podido comparecer por falecimento, anomalia psíquica superveniente ou impossibilidade duradoura, designadamente se, esgotadas as diligências para apurar o seu paradeiro, não tiver sido possível a sua notificação para comparecimento.
+                5 - Verificando-se o pressuposto do n.º 2, alínea b), a leitura pode ter lugar mesmo que se trate de declarações prestadas perante o Ministério Público ou perante órgãos de polícia criminal.
+                6 - É proibida, em qualquer caso, a leitura de depoimento prestado em inquérito ou instrução por testemunha que, em audiência, se tenha validamente recusado a depor.
+                7 - Os órgãos de polícia criminal que tiverem recebido declarações cuja leitura não for permitida, bem como quaisquer pessoas que, a qualquer título, tiverem participado da sua recolha, não podem ser inquiridas como testemunhas sobre o conteúdo daquelas.
+                8 - A visualização ou a audição de gravações de atos processuais só é permitida quando o for a leitura do respetivo auto nos termos dos números anteriores.
+                9 - A permissão de uma leitura, visualização ou audição e a sua justificação legal ficam a constar da ata, sob pena de nulidade.
+
+Artigo 357.º - Reprodução ou Leitura Permitidas de Declarações do Arguido
+                1 - A reprodução ou leitura de declarações anteriormente feitas pelo arguido no processo só é permitida:
+                    a) A sua própria solicitação e, neste caso, seja qual for a entidade perante a qual tiverem sido prestadas; ou
+                    b) Quando tenham sido feitas perante autoridade judiciária com assistência de defensor e o arguido tenha sido informado nos termos e para os efeitos do disposto na alínea b) do n.º 4 do artigo 141.º
+                2 - As declarações anteriormente prestadas pelo arguido reproduzidas ou lidas em audiência não valem como confissão nos termos e para os efeitos do artigo 344.º
+                3 - É correspondentemente aplicável o disposto nos n.os 7 a 9 do artigo anterior.
+
+Artigo 358.º - Alteração Não Substancial dos Factos Descritos na Acusação ou na Pronúncia
+                1 - Se no decurso da audiência se verificar uma alteração não substancial dos factos descritos na acusação ou na pronúncia, se a houver, com relevo para a decisão da causa, o presidente, oficiosamente ou a requerimento, comunica a alteração ao arguido e concede-lhe, se ele o requerer, o tempo estritamente necessário para a preparação da defesa.
+                2 - Ressalva-se do disposto no número anterior o caso de a alteração ter derivado de factos alegados pela defesa.
+                3 - O disposto no n.º 1 é correspondentemente aplicável quando o tribunal alterar a qualificação jurídica dos factos descritos na acusação ou na pronúncia.
+
+Artigo 359.º - Alteração Substancial dos Factos Descritos na Acusação ou na Pronúncia
+                1 - Uma alteração substancial dos factos descritos na acusação ou na pronúncia não pode ser tomada em conta pelo tribunal para o efeito de condenação no processo em curso, nem implica a extinção da instância.
+                2 - A comunicação da alteração substancial dos factos ao Ministério Público vale como denúncia para que ele proceda pelos novos factos, se estes forem autonomizáveis em relação ao objeto do processo.
+                3 - Ressalvam-se do disposto nos números anteriores os casos em que o Ministério Público, o arguido e o assistente estiverem de acordo com a continuação do julgamento pelos novos factos, se estes não determinarem a incompetência do tribunal.
+                4 - Nos casos referidos no número anterior, o presidente concede ao arguido, a requerimento deste, prazo para preparação da defesa não superior a dez dias, com o consequente adiamento da audiência, se necessário.
+
+Artigo 360.º - Alegações Orais
+                1 - Finda a produção da prova, o presidente concede a palavra, sucessivamente, ao Ministério Público, aos advogados do assistente e das partes civis e ao defensor, para alegações orais nas quais exponham as conclusões, de facto e de direito, que hajam extraído da prova produzida.
+                2 - É admissível réplica, a exercer uma só vez, sendo, porém, sempre o defensor, se pedir a palavra, o último a falar, sob pena de nulidade. A réplica deve conter-se dentro dos limites estritamente necessários para a refutação dos argumentos contrários que não tenham sido anteriormente discutidos.
+                3 - As alegações orais não podem exceder, para cada um dos intervenientes, uma hora e as réplicas vinte minutos; o presidente pode, porém, permitir que continue no uso da palavra aquele que, esgotado o máximo do tempo legalmente consentido, assim fundadamente o requerer com base na complexidade da causa.
+                4 - Em casos excecionais, o tribunal pode ordenar ou autorizar, por despacho, a suspensão das delegações para produção de meios de prova supervenientes, quando tal se revelar indispensável para a boa decisão da causa; o despacho fixa o tempo concedido para aquele efeito.
+
+Artigo 361.º - Últimas Declarações do Arguido e Encerramento da Discussão
+                1 - Findas as alegações, o presidente pergunta ao arguido se tem mais alguma coisa a alegar em sua defesa, ouvindo-o em tudo o que declarar a bem dela.
+                2 - Em seguida o presidente declara encerrada a discussão, sem prejuízo do disposto no artigo 371.º, e o tribunal retira-se para deliberar.
+
+Capítulo IV - Da Documentação da Audiência
+
+Artigo 362.º - Ata
+A ata da audiência contém:
+                    a) O lugar, a data e a hora de abertura e de encerramento da audiência e das sessões que a compuseram;
+                    b) O nome dos juízes, dos jurados e do representante do Ministério Público;
+                    c) A identificação do arguido, do defensor, do assistente, das partes civis e dos respetivos advogados;
+                    d) A identificação das testemunhas, dos peritos, dos consultores técnicos e dos intérpretes e a indicação de todas as provas produzidas ou examinadas em audiência;
+                    e) A decisão de exclusão ou restrição da publicidade, nos termos do artigo 321.º;
+                    f) Os requerimentos, decisões e quaisquer outras indicações que, por força da lei, dela devam constar;
+                    g) [Anterior alínea f).]
+                2 - O presidente pode ordenar que a transcrição dos requerimentos e protestos verbais seja feita somente depois da sentença, se os considerar dilatórios.
+
+Artigo 363.º - Documentação de Declarações Orais
+As declarações prestadas oralmente na audiência são sempre documentadas na ata, sob pena de nulidade.
+
+Artigo 364.º - Forma da Documentação
+                1 - A audiência de julgamento é sempre gravada através de registo áudio ou audiovisual, sob pena de nulidade, devendo ser consignados na ata o início e o termo de cada um dos atos enunciados no número seguinte.
+                2 - Além das declarações prestadas oralmente em audiência, são objeto do registo áudio ou audiovisual as informações, os esclarecimentos, os requerimentos e as promoções, bem como as respetivas respostas, os despachos e as alegações orais.
+                3 - (Revogado.)
+                4 - A secretaria procede à transcrição de requerimentos e respetivas respostas, despachos e decisões que o juiz, oficiosamente ou a requerimento, determine, por despacho irrecorrível.
+                5 - A transcrição é feita no prazo de cinco dias, a contar do respetivo ato; o prazo para arguir qualquer desconformidade da transcrição é de cinco dias, a contar da notificação da sua incorporação nos autos.
+                6 - É correspondentemente aplicável o disposto no artigo 101.º

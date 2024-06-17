@@ -1,0 +1,125 @@
+Este ficheiro corresponde à parte 2, livro 7 (Do julgamento), titulo 3 (Da sentença) do código processual penal de portugal.
+
+Artigo 365.º - Deliberação e Votação
+                1 - Salvo em caso de absoluta impossibilidade, declarada em despacho, a deliberação segue-se ao encerramento da discussão.
+                2 - Na deliberação participam todos os juízes e jurados que constituem o tribunal, sob a direção do presidente.
+                3 - Cada juiz e cada jurado enunciam as razões da sua opinião, indicando, sempre que possível, os meios de prova que serviram para formar a sua convicção, e votam sobre cada uma das questões, independentemente do sentido do voto que tenham expresso sobre outras. Não é admissível a abstenção.
+                4 - O presidente recolhe os votos, começando pelo juiz com menor antiguidade de serviço, e vota em último lugar. No tribunal do júri votam primeiro os jurados, por ordem crescente de idade.
+                5 - As deliberações são tomadas por maioria simples de votos.
+
+Artigo 366.º - Secretário
+                1 - À deliberação e votação pode assistir o secretário ou o funcionário de justiça que o presidente designar.
+                2 - O secretário presta ao tribunal todo o auxílio e colaboração de que este necessitar durante o processo de deliberação e votação, nomeadamente tomando nota, sempre que o presidente o entender, das razões e dos meios de prova indicados por cada membro do tribunal e do resultado da votação de cada uma das questões a considerar.
+                3 - As notas tomadas pelo secretário são destruídas logo que a sentença for elaborada.
+
+Artigo 367.º - Segredo da Deliberação e Votação
+                1 - Os participantes no ato de deliberação e votação referido nos artigos anteriores não podem revelar nada do que durante ela se tiver passado e se relacionar com a causa, nem exprimir a sua opinião sobre a deliberação tomada, salvo o disposto no n.º 2 do artigo 372.º
+                2 - A violação do disposto no número anterior é punível com a sanção prevista no artigo 371.º do Código Penal, sem prejuízo da responsabilidade disciplinar a que possa dar lugar.
+
+Artigo 368.º - Questão da Culpabilidade
+                1 - O tribunal começa por decidir separadamente as questões prévias ou incidentais sobre as quais ainda não tiver recaído decisão.
+                2 - Em seguida, se a apreciação do mérito não tiver ficado prejudicada, o presidente enumera discriminada e especificadamente e submete a deliberação e votação os factos alegados pela acusação e pela defesa, e bem assim os que resultarem da discussão da causa, relevantes para as questões de saber:
+                    a) Se se verificaram os elementos constitutivos do tipo de crime;
+                    b) Se o arguido praticou o crime ou nele participou;
+                    c) Se o arguido atuou com a culpa;
+                    d) Se se verificou alguma causa que exclua a ilicitude ou a culpa;
+                    e) Se se verificaram quaisquer outros pressupostos de que a lei faça depender a punibilidade do agente ou a aplicação a este de uma medida de segurança;
+                    f) Se se verificaram os pressupostos de que depende o arbitramento da indemnização civil.
+                3 - Em seguida, o presidente enumera discriminadamente e submete a deliberação e votação todas as questões de direito suscitadas pelos factos referidos no número anterior.
+
+Artigo 369.º - Questão da Determinação da Sanção
+                1 - Se, das deliberações e votações realizadas nos termos do artigo anterior, resultar que ao arguido deve ser aplicada uma pena ou uma medida de segurança, o presidente lê ou manda ler toda a documentação existente nos autos relativa aos antecedentes criminais do arguido, à perícia sobre a sua personalidade e ao relatório social.
+                2 - Em seguida, o presidente pergunta se o tribunal considera necessária produção de prova suplementar para determinação da espécie e da medida da sanção a aplicar. Se a resposta for negativa, ou após a produção da prova nos termos do artigo 371.º, o tribunal delibera e vota sobre a espécie e a medida da sanção a aplicar.
+                3 - Se, na deliberação e votação a que se refere a parte final do número anterior, se manifestarem mais de duas opiniões, os votos favoráveis à sanção de maior gravidade somam-se aos favoráveis à sanção de gravidade imediatamente inferior, até se obter maioria.
+
+Artigo 370.º - Relatório Social
+                1 - O tribunal pode, em qualquer altura do julgamento, logo que, em função da prova para o efeito produzida em audiência, o considerar necessário à correta determinação da sanção que eventualmente possa vir a ser aplicada, solicitar a elaboração de relatório social ou de informação dos serviços de reinserção social, ou a respetiva atualização quando aqueles já constarem do processo.
+                2 - No caso de arguido menor, se o relatório social ou a informação dos serviços de reinserção social não se mostrar ainda junta ao processo, deve a respetiva junção ocorrer no prazo de 30 dias, salvo se, fundamentadamente, se justificar a respetiva dispensa face às circunstâncias do caso e desde que seja compatível com o superior interesse do menor.
+                3 - Independentemente de solicitação, os serviços de reinserção social podem enviar ao tribunal, quando o acompanhamento do arguido o aconselhar, o relatório social ou a respetiva atualização.
+                4 - A leitura em audiência do relatório social ou da informação dos serviços de reinserção social só é permitida a requerimento, nos termos e para os efeitos previstos no artigo seguinte.
+                5 - É correspondentemente aplicável o disposto no artigo 355.º
+
+Artigo 371.º - Reabertura da Audiência para a Determinação da Sanção
+                1 - Tornando-se necessária produção de prova suplementar, nos termos do artigo 369.º, n.º 2, o tribunal volta à sala de audiência e declara esta reaberta.
+                2 - Em seguida procede-se à produção da prova necessária, ouvindo sempre que possível o perito criminológico, o técnico de reinserção social e quaisquer pessoas que possam depor com relevo sobre a personalidade e as condições de vida do arguido.
+                3 - Os interrogatórios são feitos sempre pelo presidente, podendo, findos eles, os outros juízes, os jurados, o Ministério Público, o defensor e o advogado do assistente sugerir quaisquer pedidos de esclarecimento ou perguntas úteis à decisão.
+                4 - Finda a produção da prova suplementar, o Ministério Público, o advogado do assistente e o defensor podem alegar conclusivamente até um máximo de vinte minutos cada um.
+                5 - A produção de prova suplementar decorre com exclusão da publicidade, salvo se o presidente, por despacho, entender que da publicidade não pode resultar ofensa à dignidade do arguido.
+
+Artigo 371.º-A - Abertura da Audiência para Aplicação Retroativa de Lei Penal Mais Favorável
+Se, após o trânsito em julgado da condenação mas antes de ter cessado a execução da pena, entrar em vigor lei penal mais favorável, o condenado pode requerer a reabertura da audiência para que lhe seja aplicado o novo regime.
+
+Artigo 372.º - Elaboração e Assinatura da Sentença
+                1 - Concluída a deliberação e votação, o presidente ou, se este ficar vencido, o juiz mais antigo dos que fizerem vencimento, elaboram a sentença de acordo com as posições que tiverem feito vencimento.
+                2 - Em seguida, a sentença é assinada por todos os juízes e pelos jurados e, se algum dos juízes assinar vencido, declara com precisão os motivos do seu voto.
+                3 - Regressado o tribunal à sala de audiência, a sentença é lida publicamente pelo presidente ou por outro dos juízes. A leitura do relatório pode ser omitida. A leitura da fundamentação ou, se esta for muito extensa, de uma sua súmula, bem como do dispositivo, é obrigatória, sob pena de nulidade.
+                4 - A leitura da sentença equivale à sua notificação aos sujeitos processuais que deverem considerar-se presentes na audiência.
+                5 - Logo após a leitura da sentença, o presidente procede ao seu depósito na secretaria. O secretário apõe a data, subscreve a declaração de depósito e entrega cópia aos sujeitos processuais que o solicitem.
+
+Artigo 373.º - Leitura da Sentença
+                1 - Quando, atenta a especial complexidade da causa, não for possível proceder imediatamente à elaboração da sentença, o presidente fixa publicamente a data dentro dos 10 dias seguintes para a leitura da sentença.
+                2 - Na data fixada procede-se publicamente à leitura da sentença e ao seu depósito na secretaria, nos termos do artigo anterior.
+                3 - O arguido que não estiver presente considera-se notificado da sentença depois de esta ter sido lida perante o defensor nomeado ou constituído.
+
+Artigo 374.º - Requisitos da Sentença
+                1 - A sentença começa por um relatório, que contém:
+                    a) As indicações tendentes à identificação do arguido;
+                    b) As indicações tendentes à identificação do assistente e das partes civis;
+                    c) A indicação do destino a dar a animais, coisas ou objetos relacionados com o crime, com expressa menção das disposições legais aplicadas;
+                    d) A indicação sumária das conclusões contidas na contestação, se tiver sido apresentada.
+                2 - Ao relatório segue-se a fundamentação, que consta da enumeração dos factos provados e não provados, bem como de uma exposição tanto quanto possível completa, ainda que concisa, dos motivos, de facto e de direito, que fundamentam a decisão, com indicação e exame crítico das provas que serviram para formar a convicção do tribunal.
+                3 - A sentença termina pelo dispositivo que contém:
+                    a) As disposições legais aplicáveis;
+                    b) A decisão condenatória ou absolutória;
+                    c) A indicação do destino a dar a coisas ou objetos relacionados com o crime, com expressa menção das disposições legais aplicadas;
+                    d) A ordem de remessa de boletins ao registo criminal;
+                    e) A data e as assinaturas dos membros do tribunal.
+                4 - A sentença observa o disposto neste código e no regulamento das custas processuais em matéria de custas.
+
+Artigo 375.º - Sentença Condenatória
+                1 - A sentença condenatória especifica os fundamentos que presidiram à escolha e à medida da sanção aplicada, indicando, nomeadamente, se for caso disso, o início e o regime do seu cumprimento, outros deveres que ao condenado sejam impostos e a sua duração, bem como o plano individual de readaptação social.
+                2 - Após a leitura da sentença condenatória, o presidente, quando o julgar conveniente, dirige ao arguido breve alocução, exortando-o a corrigir-se.
+                3 - Para efeito do disposto neste código, considera-se também sentença condenatória a que tiver decretado dispensa da pena.
+                4 - Sempre que necessário, o tribunal procede ao reexame da situação do arguido, sujeitando-o às medidas de coação admissíveis e adequadas às exigências cautelares que o caso requerer.
+
+Artigo 376.º - Sentença Absolutória
+                1 - A sentença absolutória declara a extinção de qualquer medida de coação e ordena a imediata libertação do arguido preso preventivamente, salvo se ele dever continuar preso por outro motivo ou sofrer medida de segurança de internamento.
+                2 - A sentença absolutória condena o assistente em custas, nos termos previstos neste código e no regulamento das custas processuais.
+                3 - Se o crime tiver sido cometido por inimputável, a sentença é absolutória; mas se nela for aplicada medida de segurança, vale como sentença condenatória para efeitos do disposto no n.º 1 do artigo anterior e de recurso do arguido.
+
+Artigo 377.º - Decisão sobre o Pedido de Indemnização Civil
+                1 - A sentença, ainda que absolutória, condena o arguido em indemnização civil sempre que o pedido respectivo vier a revelar-se fundado, sem prejuízo do disposto no artigo 82.º, n.º 3.
+                2 - Se o responsável civil tiver intervindo no processo penal, a condenação em indemnização civil é proferida contra ele ou contra ele e o arguido solidariamente, sempre que a sua responsabilidade vier a ser reconhecida.
+                3 - Havendo condenação no que respeita ao pedido de indemnização civil, é o demandado condenado a pagar as custas suportadas pelo demandante nesta qualidade e, caso cumule, na qualidade de assistente.
+                4 - Havendo absolvição no que respeita ao pedido de indemnização civil, é o demandante condenado em custas nos termos previstos no regulamento das custas processuais.
+
+Artigo 378.º - Publicação de Sentença Absolutória
+                1 - Quando o considerar justificado, o tribunal ordena no dispositivo a publicação integral ou por extrato da sentença absolutória em jornal indicado pelo arguido, desde que este o requeira até ao encerramento da audiência e haja assistente constituído no processo.
+                2 - As despesas correm a cargo do assistente e valem como custas.
+
+Artigo 379.º - Nulidade da Sentença
+                1 - É nula a sentença:
+                    a) Que não contiver as menções referidas no n.º 2 e na alínea b) do n.º 3 do artigo 374.º ou, em processo sumário ou abreviado, não contiver a decisão condenatória ou absolutória ou as menções referidas nas alíneas a) a d) do n.º 1 do artigo 389.º-A e 391.º-F;
+                    b) Que condenar por factos diversos dos descritos na acusação ou na pronúncia, se a houver, fora dos casos e das condições previstos nos artigos 358.º e 359.º;
+                    c) Quando o tribunal deixe de pronunciar-se sobre questões que devesse apreciar ou conheça de questões de que não podia tomar conhecimento.
+                2 - As nulidades da sentença devem ser arguidas ou conhecidas em recurso, devendo o tribunal supri-las, aplicando-se, com as necessárias adaptações, o disposto no n.º 4 do artigo 414.º
+                3 - Se, em consequência de nulidade de sentença conhecida em recurso, tiver de ser proferida nova decisão no tribunal recorrido, o recurso que desta venha a ser interposto é sempre distribuído ao mesmo relator, exceto em caso de impossibilidade.
+
+Artigo 380.º - Correção da Sentença
+                1 - O tribunal procede, oficiosamente ou a requerimento, à correção da sentença quando:
+                    a) Fora dos casos previstos no artigo anterior, não tiver sido observado ou não tiver sido integralmente observado o disposto no artigo 374.º;
+                    b) A sentença contiver erro, lapso, obscuridade ou ambiguidade cuja eliminação não importe modificação essencial.
+                2 - Se já tiver subido recurso da sentença, a correção é feita, quando possível, pelo tribunal competente para conhecer do recurso.
+                3 - O disposto nos números anteriores é correspondentemente aplicável aos restantes atos decisórios previstos no artigo 97.º
+
+Artigo 380.º-A - Recurso e Novo Julgamento em Caso de Julgamento na Ausência
+                1 - Sempre que a audiência se tiver realizado na ausência do arguido, nos termos do artigo 334.º, n.º 3, pode este, no prazo de 15 dias, no caso de ter sido condenado:
+                    a) Interpor recurso da sentença, ou requerer novo julgamento no caso de apresentar novos meios de prova, se ao crime corresponder pena de multa ou pena de prisão não superior a cinco anos;
+                    b) Interpor recurso da sentença, ou requerer novo julgamento, se ao crime corresponder pena de prisão superior a cinco anos.
+                2 - No requerimento o arguido apresenta, desde logo, as provas a produzir.
+                3 - Sendo requerido novo julgamento:
+                    a) As declarações prestadas na anterior audiência têm o valor das declarações para memória futura, com as finalidades referidas no artigo 271.º;
+                    b) Se o arguido não estiver presente na hora designada para o início da audiência e não for possível a sua comparência imediata, a audiência é adiada e o arguido notificado do novo dia designado;
+                    c) Se o arguido não for encontrado e não puder ser notificado da data de audiência ou não comparecer nem for possível obter a sua comparência no novo dia e hora designados, entende-se que desiste do requerimento, não sendo possível, em caso algum, ser renovado o requerimento;
+                    d) No caso previsto na alínea anterior, a sentença proferida na ausência do arguido considera-se transitada em julgado na data em que lhe tiver sido notificada;
+                    e) É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º

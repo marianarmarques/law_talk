@@ -1,0 +1,310 @@
+Esta secção do ficheiro corresponde à parte 2, livro 10 (Das execuções), titulo 1 (Disposições gerais) do código processual penal de portugal.
+
+Artigo 467.º - Decisões com Força Executiva
+1 - As decisões penais condenatórias transitadas em julgado têm força executiva em todo o território português e ainda em território estrangeiro, conforme os tratados, convenções e regras de direito internacional.
+2 - As decisões penais absolutórias são exequíveis logo que proferidas, sem prejuízo do disposto no n.º 3 do artigo 214.º
+
+Artigo 468.º - Decisões Inexequíveis
+Não é exequível decisão penal que:
+    a) Não determinar a pena ou a medida de segurança aplicadas ou que aplicar pena ou medida inexistentes na lei portuguesa;
+    b) Não estiver reduzida a escrito; ou
+    c) Tratando-se de sentença penal estrangeira, não tiver sido revista e confirmada nos casos em que isso for legalmente exigido.
+
+Artigo 469.º - Promoção da Execução
+Compete ao Ministério Público promover a execução das penas e das medidas de segurança e, bem assim, a execução por indemnização e mais quantias devidas ao Estado ou a pessoas que lhe incumba representar judicialmente.
+
+Artigo 470.º - Tribunal Competente para a Execução
+1 - A execução corre nos próprios autos perante o presidente do tribunal de 1.ª instância em que o processo tiver corrido, sem prejuízo do disposto no artigo 138.º do Código da Execução das Penas e Medidas Privativas da Liberdade.
+2 - Se a causa tiver sido julgada em 1.ª instância pela relação ou pelo Supremo Tribunal de Justiça, ou se a decisão tiver sido revista e confirmada, a execução corre na comarca de domicílio do condenado, salvo se este for magistrado judicial ou do Ministério Público aí em exercício, caso em que a execução corre no tribunal mais próximo.
+
+Artigo 471.º - Conhecimento Superveniente do Concurso
+1 - Para o efeito do disposto no artigo 78.º, n.os 1 e 2, do Código Penal é competente, conforme os casos, o tribunal colectivo ou o tribunal singular. É correspondentemente aplicável o artigo 14.º, n.º 2, alínea b).
+2 - Sem prejuízo do disposto no número anterior, é territorialmente competente o tribunal da última condenação.
+
+Artigo 472.º - Tramitação
+1 - Para o efeito do disposto no artigo 78.º, n.º 2, do Código Penal, o tribunal designa dia para a realização da audiência, ordenando, oficiosamente ou a requerimento, as diligências que se lhe afigurem necessárias para a decisão.
+2 - É obrigatória a presença do defensor e do Ministério Público, a quem são concedidos quinze minutos para alegações finais. O tribunal determina os casos em que o arguido deve estar presente.
+
+Artigo 473.º - Suspensão da Execução
+1 - Logo que seja proferido despacho de pronúncia ou que designe o dia para julgamento de magistrado, jurado, testemunha, perito ou funcionário de justiça por factos que possam ter determinado a condenação do arguido, o procurador-geral da república pode requerer ao Supremo Tribunal de Justiça que suspenda a execução da sentença até ser decidido o processo, juntando os documentos comprovativos.
+2 - O Supremo Tribunal de Justiça decide, em pleno das secções criminais, se a execução da sentença deve ser suspensa, e, em caso afirmativo, se deve ser aplicada medida de coação ou de garantia patrimonial legalmente admissível no caso.
+3 - É correspondentemente aplicável ao julgamento o disposto no artigo 455.º
+
+Artigo 474.º - Competência para Questões Incidentes
+1 - Cabe ao tribunal competente para a execução decidir as questões relativas à execução das penas e das medidas de segurança e à extinção da responsabilidade, bem como à prorrogação, pagamento em prestações ou substituição por trabalho da pena de multa e ao cumprimento da prisão subsidiária.
+2 - A aplicação da amnistia e de outras medidas de clemência previstas na lei compete ao tribunal referido no número anterior ou ao tribunal de recurso ou de execução das penas onde o processo se encontrar.
+
+Artigo 475.º - Extinção da Execução
+O tribunal competente para a execução declara extinta a pena ou a medida de segurança, notificando o beneficiário com entrega de cópia e, sendo caso disso, remetendo cópias para os serviços prisionais, serviços de reinserção social e outras instituições que determinar.
+
+Artigo 476.º - Contumácia
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Esta secção do ficheiro corresponde à parte 2, livro 10 (Das execuções), titulo 2 (Da execução da pena de prisão) do código processual penal de portugal.
+
+Capítulo I - Da Prisão
+
+Artigo 477.º - Comunicação da Sentença a Diversas Entidades
+1 - O Ministério Público envia ao tribunal de execução das penas e aos serviços prisionais e de reinserção social, no prazo de cinco dias após o trânsito em julgado, cópia da sentença que aplicar pena privativa da liberdade.
+2 - O Ministério Público indica as datas calculadas para o termo da pena e, nos casos de admissibilidade de liberdade condicional, para os efeitos previstos nos artigos 61.º e 62.º e no n.º 1 do artigo 90.º do Código Penal.
+3 - Tratando-se de pena relativamente indeterminada, o Ministério Público indica ainda a data calculada para o efeito previsto no artigo 90.º, n.º 3, do Código Penal.
+4 - O cômputo previsto nos n.os 2 e 3 é homologado pelo juiz e comunicado ao condenado e ao seu advogado.
+5 - Em caso de recurso da decisão que aplicar pena privativa da liberdade e de o arguido se encontrar privado da liberdade, o Ministério Público envia aos serviços prisionais cópia da decisão, com a indicação de que dela foi interposto recurso.
+
+Artigo 478.º - Entrada no Estabelecimento Prisional
+Os condenados em pena de prisão dão entrada no estabelecimento prisional por mandado do juiz competente.
+
+Artigo 479.º - Contagem do Tempo de Prisão
+1 - Na contagem do tempo de prisão, os anos, meses e dias são computados segundo os critérios seguintes:
+    a) A prisão fixada em anos termina no dia correspondente, dentro do último ano, ao do início da contagem e, se não existir dia correspondente, no último dia do mês;
+    b) A prisão fixada em meses é contada considerando-se cada mês um período que termina no dia correspondente do mês seguinte ou, não o havendo, no último dia do mês;
+    c) A prisão fixada em dias é contada considerando-se cada dia um período de vinte e quatro horas, sem prejuízo do que no artigo 481.º se dispõe quanto ao momento da libertação.
+2 - Quando a prisão não for cumprida continuamente, ao dia encontrado segundo os critérios do número anterior acresce o tempo correspondente às interrupções.
+
+Artigo 480.º - Mandado de Libertação
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 481.º - Momento da Libertação
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 482.º - Comunicações
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 483.º - Anomalia Psíquica Posterior
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Capítulo II - Da Liberdade Condicional
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 484.º - Início do Processo da Liberdade Condicional
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 485.º - Decisão
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 486.º - Renovação da Instância
+Revogado pelo/a artigo 8.º do/a Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Capítulo III - Da Execução da Prisão por Dias Livres e em Regime de Semidetenção
+Revogado pelo/a artigo 13.º do/a Lei n.º 94/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23, em vigor a partir de 2017-11-21
+
+Artigo 487.º - Conteúdo da Decisão e Início do Cumprimento
+Revogado pelo/a artigo 13.º do/a Lei n.º 94/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23, em vigor a partir de 2017-11-21
+
+Artigo 488.º - Execução, Faltas e Termo do Cumprimento
+Revogado pelo/a artigo 13.º do/a Lei n.º 94/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23, em vigor a partir de 2017-11-21
+
+Esta secção do ficheiro corresponde à parte 2, livro 10 (Das execuções), titulo 3 (Da execução das penas não privativas de liberdade) do código processual penal de portugal.
+
+Capítulo I - Da Execução da Pena de Multa
+
+Artigo 489.º - Prazo de Pagamento
+1 - A multa é paga após o trânsito em julgado da decisão que a impôs e pelo quantitativo nesta fixado, não podendo ser acrescida de quaisquer adicionais.
+2 - O prazo de pagamento é de 15 dias a contar da notificação para o efeito.
+3 - O disposto no número anterior não se aplica no caso de o pagamento da multa ter sido diferido ou autorizado pelo sistema de prestações.
+
+Artigo 490.º - Substituição da Multa por Dias de Trabalho
+1 - O requerimento para substituição da multa por dias de trabalho é apresentado no prazo previsto nos n.os 2 e 3 do artigo anterior, devendo o condenado indicar as habilitações profissionais e literárias, a situação profissional e familiar e o tempo disponível, bem como, se possível, mencionar alguma instituição em que pretenda prestar trabalho.
+2 - O tribunal pode solicitar informações complementares aos serviços de reinserção social, nomeadamente sobre o local e horário de trabalho e a remuneração.
+3 - A decisão de substituição indica o número de horas de trabalho e é comunicada ao condenado, aos serviços de reinserção social e à entidade a quem o trabalho deva ser prestado.
+4 - Em caso de não substituição da multa por dias de trabalho, o prazo de pagamento é de 15 dias a contar da notificação da decisão.
+
+Artigo 491.º - Não Pagamento da Multa
+1 - Findo o prazo de pagamento da multa ou de alguma das suas prestações sem que o pagamento esteja efetuado, procede-se à execução patrimonial.
+2 - Tendo o condenado bens penhoráveis suficientes de que o tribunal tenha conhecimento ou que ele indique no prazo de pagamento, o Ministério Público promove logo a execução, que segue as disposições previstas no Código de Processo Civil para a execução por indemnizações.
+3 - A decisão sobre a suspensão da execução da prisão subsidiária é precedida de parecer do Ministério Público, quando este não tenha sido o requerente.
+
+Artigo 491.º-A - Pagamento da Multa a Outras Entidades
+1 - Sempre que, no momento da detenção para cumprimento da prisão subsidiária, o condenado pretenda pagar a multa, mas não possa, sem grave inconveniente, efetuar o pagamento no tribunal, pode realizá-lo à entidade policial, contra entrega de recibo, aposto no triplicado do mandado.
+2 - Fora do caso previsto no número anterior ou quando o tribunal se encontre encerrado, o pagamento da multa pode ainda ser efetuado, contra recibo, junto do estabelecimento prisional onde se encontre o condenado.
+3 - Para o efeito previsto nos números anteriores, os mandados devem conter a indicação do montante da multa, bem como da importância a descontar por cada dia ou fração em que o arguido esteve detido.
+4 - Nos 10 dias imediatos, a entidade policial ou o estabelecimento prisional remetem ou entregam a quantia recebida ao tribunal da condenação.
+
+Artigo 491.º-B - Responsabilidade de Terceiros
+Nos casos de responsabilidade civil de terceiros pelo pagamento das multas e indemnizações em que a pessoa coletiva ou entidade equiparada for condenada, na falta de bens penhoráveis suficientes, o Ministério Público promove imediatamente a execução contra os responsáveis solidários ou subsidiários, de acordo com as disposições do Código de Processo Civil para a execução por indemnizações.
+
+Capítulo II - Da Execução da Pena Suspensa
+
+Artigo 492.º - Modificação dos Deveres, Regras de Conduta e Outras Obrigações Impostas
+1 - A modificação dos deveres, regras de conduta e outras obrigações impostas ao condenado na sentença que tiver decretado a suspensão da execução da prisão é decidida por despacho, depois de recolhida prova das circunstâncias relevantes supervenientes ou de que o tribunal só posteriormente tiver tido conhecimento.
+2 - O despacho é precedido de parecer do Ministério Público e de audição do condenado, e ainda dos serviços de reinserção social no caso de a suspensão ter sido acompanhada de regime de prova.
+
+Artigo 493.º - Apresentação Periódica e Sujeição a Tratamento Médico ou a Cura
+1 - Sendo determinada apresentação periódica perante o tribunal, as apresentações são anotadas no processo.
+2 - Se for determinada apresentação perante outra entidade, o tribunal faz a esta a necessária comunicação, devendo a entidade em causa informar o tribunal sobre a regularidade das apresentações e, sendo caso disso, do não cumprimento por parte do condenado, com indicação dos motivos que forem do seu conhecimento.
+3 - A sujeição do condenado a tratamento médico ou a cura em instituição adequada durante o período da suspensão é executada mediante mandado emitido, para o efeito, pelo tribunal.
+4 - Os responsáveis pela instituição informam o tribunal da evolução e termo do tratamento ou cura, podendo sugerir medidas que considerem adequadas ao êxito do mesmo.
+
+Artigo 494.º - Plano de Reinserção Social
+1 - A decisão que suspender a execução da prisão com regime de prova deve conter o plano de reinserção social que o tribunal solicita aos serviços de reinserção social.
+2 - A decisão, uma vez transitada em julgado, é comunicada aos serviços de reinserção social.
+3 - Quando a decisão não contiver o plano de reinserção social ou este deva ser completado, os serviços de reinserção social procedem à sua elaboração ou reelaboração, ouvido o condenado, no prazo de 30 dias, e submetem-no à homologação do tribunal.
+
+Artigo 495.º - Falta de Cumprimento das Condições de Suspensão
+1 - Quaisquer autoridades e serviços aos quais seja pedido apoio ao condenado no cumprimento dos deveres, regras de conduta ou outras obrigações impostos comunicam ao tribunal a falta de cumprimento, por aquele, desses deveres, regras de conduta ou obrigações, para efeitos do disposto nos artigos 51.º, n.º 3, 52.º, n.º 3, 55.º e 56.º do Código Penal.
+2 - O tribunal decide por despacho, depois de recolhida a prova, obtido parecer do Ministério Público e ouvido o condenado na presença do técnico que apoia e fiscaliza o cumprimento das condições da suspensão, bem como, sempre que necessário, ouvida a vítima, mesmo que não se tenha constituído assistente.
+3 - A condenação pela prática de qualquer crime cometido durante o período de suspensão é imediatamente comunicada ao tribunal competente para a execução, sendo-lhe remetida cópia da decisão condenatória.
+4 - Para os devidos efeitos do disposto no n.º 1, a decisão que decretar a imposição de deveres, regras de conduta ou outras obrigações é comunicada às autoridades e serviços aí referidos.
+
+Capítulo III - Da Execução da Prestação de Trabalho a Favor da Comunidade e da Admoestação
+
+Artigo 496.º - Prestação de Trabalho a Favor da Comunidade
+1 - Se o tribunal decidir aplicar a prestação de trabalho a favor da comunidade solicita aos serviços de reinserção social a elaboração de um plano de execução.
+2 - Os serviços de reinserção social elaboram o plano de execução no prazo de 30 dias.
+3 - Transitada em julgado, a condenação é comunicada aos serviços de reinserção social e à entidade a quem o trabalho deva ser prestado, devendo aqueles proceder à colocação do condenado no posto de trabalho no prazo máximo de três meses.
+
+Artigo 497.º - Admoestação
+1 - A admoestação é proferida após trânsito em julgado da decisão que a aplicar.
+2 - A admoestação é proferida de imediato se o Ministério Público, o arguido e o assistente declararem para a ata que renunciam à interposição de recurso.
+3 - O tribunal executa a admoestação de forma que esta se não confunda com a alocução referida no artigo 375.º, n.º 2.
+
+Artigo 498.º - Suspensão Provisória, Revogação, Extinção, Substituição e Modificação da Execução
+1 - O tribunal pode solicitar informação aos serviços de reinserção social para o efeito do disposto no artigo 59.º, n.º 1, do Código Penal.
+2 - Finda a prestação de trabalho, ou sempre que no seu decurso se verificarem anomalias graves, os serviços de reinserção social enviam ao tribunal o relatório respetivo.
+3 - À suspensão provisória, revogação, extinção e substituição é correspondentemente aplicável o disposto no artigo 495.º, n.os 2 e 3.
+4 - Sempre que se verifiquem circunstâncias ou anomalias que possam justificar alterações à modalidade concreta da prestação de trabalho, os serviços de reinserção social comunicam esses factos ao tribunal, fornecendo-lhe, desde logo, sempre que possível, os indicadores necessários à modificação da prestação de trabalho.
+5 - No caso previsto no número anterior, o tribunal pode dispensar a recolha de prova e a audição do condenado que tiver manifestado adesão à modificação indicada pelos serviços de reinserção social, decidindo imediatamente por despacho, depois de ouvido o Ministério Público.
+
+Capítulo IV - Da Execução das Penas Acessórias
+
+Artigo 499.º - Decisão e Trâmites
+1 - A decisão que decretar a proibição ou a suspensão de exercício de função pública é comunicada ao dirigente do serviço ou organismo de que depende o condenado.
+2 - A decisão que decretar a proibição ou a suspensão de exercício de profissão ou atividade que dependa de título público ou de autorização ou homologação de autoridade pública é comunicada, conforme os casos, ao organismo profissional em que o condenado esteja inscrito ou à entidade competente para a autorização ou homologação.
+3 - A decisão que decretar a proibição do exercício das funções de gerente ou administrador de sociedade é comunicada ao registo comercial.
+4 - O tribunal pode decretar a apreensão, pelo tempo que durar a proibição, dos documentos que titulem a profissão ou atividade.
+5 - A incapacidade eleitoral é comunicada à comissão de recenseamento eleitoral em que o condenado se encontrar inscrito ou dever fazer a inscrição, sendo a pena acessória decretada ao abrigo do artigo 27.º-A da Lei n.º 34/87, de 16 de julho, que determina os crimes de responsabilidade dos titulares de cargos políticos, comunicada ao Tribunal Constitucional e à Comissão Nacional de Eleições ou ao órgão ou entidade que nomeie o condenado.
+6 - A incapacidade para exercer o poder paternal, a tutela, a curatela, a administração de bens ou para ser jurado é comunicada à conservatória do registo civil onde estiver lavrado o registo de nascimento do condenado.
+7 - Para além do disposto nos números anteriores, o tribunal ordena as providências necessárias para a execução da pena acessória.
+
+Artigo 500.º - Proibição de Condução
+1 - A decisão que decretar a proibição de conduzir veículos motorizados é comunicada à Direção-Geral de Viação.
+2 - No prazo de 10 dias a contar do trânsito em julgado da sentença, o condenado entrega na secretaria do tribunal, ou em qualquer posto policial, que a remete àquela, a licença de condução, se a mesma não se encontrar já apreendida no processo.
+3 - Se o condenado na proibição de conduzir veículos motorizados não proceder de acordo com o disposto no número anterior, o tribunal ordena a apreensão da licença de condução.
+4 - A licença de condução fica retida na secretaria do tribunal pelo período de tempo que durar a proibição. Decorrido esse período, a licença é devolvida ao titular.
+5 - O disposto nos n.os 2 e 3 é aplicável à licença de condução emitida em país estrangeiro.
+6 - No caso previsto no número anterior, a secretaria do tribunal envia a licença à Direção-Geral de Viação, a fim de nela ser anotada a proibição. Se não for viável a apreensão, a secretaria, por intermédio da Direção-Geral de Viação, comunica a decisão ao organismo competente do país que tiver emitido a licença.
+
+Esta secção do ficheiro corresponde à parte 2, livro 10 (Das execuções), titulo 4 (Da execução das medidas de segurança) do código processual penal de portugal.
+
+Capítulo I - Da Execução das Medidas de Segurança Privativas da Liberdade
+
+Artigo 501.º - Decisões sobre o Internamento
+1 - A decisão que decretar o internamento especifica o tipo de instituição em que este deve ser cumprido e determina, se for caso disso, a duração máxima e mínima do internamento.
+2 - O início e a cessação do internamento efetuam-se por mandado do tribunal.
+
+Artigo 502.º - Comunicação da Sentença a Diversas Entidades
+1 - O Ministério Público envia ao tribunal de execução das penas, aos serviços prisionais e de reinserção social e à instituição onde o internamento se efetuar, no prazo de cinco dias após o trânsito em julgado, cópia de sentença que aplicar medida de segurança privativa da liberdade.
+2 - O Ministério Público indica expressamente a data calculada para o efeito previsto no artigo 93.º, n.os 2 e 3, do Código Penal e comunicará futuramente eventuais alterações que se verificarem na execução da medida de segurança.
+3 - Em caso de recurso da decisão que aplicar medida de segurança de internamento e de o arguido se encontrar privado da liberdade, o Ministério Público envia aos serviços prisionais cópia da decisão, com a indicação de que dela foi interposto recurso.
+
+Artigo 503.º - Processo Individual
+Revogado pelo artigo 8.º da Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 504.º - Reexame do Internamento
+1 - Havendo lugar ao reexame previsto no artigo 96.º do Código Penal, o tribunal ordena:
+    a) A realização de perícia psiquiátrica ou sobre a personalidade, devendo o respetivo relatório ser-lhe apresentado dentro de 30 dias;
+    b) Oficiosamente ou a requerimento do Ministério Público, do internado ou do defensor, as diligências que se afigurem com interesse para a decisão.
+2 - Se, na sequência da apreciação da perícia psiquiátrica, se concluir que há condições favoráveis, o magistrado pode solicitar relatório social contendo análise do enquadramento familiar, social e profissional do recluso.
+3 - O reexame tem lugar com audição do Ministério Público, do defensor e do condenado, só podendo a presença deste ser dispensada se o seu estado de saúde tornar a audição inútil ou inviável.
+
+Artigo 505.º - Revogação da Liberdade para Prova
+Revogado pelo artigo 8.º da Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 506.º - Disposições Aplicáveis
+É correspondentemente aplicável à medida de internamento o disposto no artigo 479.º
+
+Capítulo II - Da Execução de Pena e da Medida de Segurança Privativa de Liberdade
+Revogado pelo artigo 8.º da Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 507.º - Execução da Pena e da Medida de Segurança Privativas da Liberdade
+Revogado pelo artigo 8.º da Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Capítulo III - Da Execução das Medidas de Segurança Não Privativas de Liberdade
+
+Artigo 508.º - Medidas de Segurança Não Privativas da Liberdade
+1 - À interdição de atividade é correspondentemente aplicável o disposto nos n.os 2 a 4 do artigo 499.º
+2 - A decisão que decretar a cassação da licença de condução e a interdição de concessão de licença é comunicada à Direção-Geral de Viação, que a comunicará a quaisquer outras entidades legalmente habilitadas a emitir essa licença.
+3 - À decisão prevista no número anterior é correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 500.º
+4 - É correspondentemente aplicável à licença de condução emitida em país estrangeiro o disposto nos n.os 2, 3, 5 e 6 do artigo 500.º
+5 - A prorrogação do período de interdição e o reexame da situação que fundamentou a aplicação da medida são decididos pelo tribunal precedendo audição do Ministério Público, do defensor e das pessoas a elas sujeitas, salvo se, quanto a estas, o seu estado tornar a audição inútil ou inviável.
+6 - À aplicação de regras de conduta é correspondentemente aplicável o disposto no número anterior e no artigo 492.º
+
+Esta secção do ficheiro corresponde à parte 2, livro 10 (Das Execuções), título 5 (Da Execução da Pena Relativamente Indeterminada) do Código Processual Penal de Portugal.
+
+Revogado pelo artigo 8.º da Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Artigo 509.º - Execução da Pena Relativamente Indeterminada
+Revogado pelo artigo 8.º da Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12, em vigor a partir de 2010-04-10
+
+Esta secção do ficheiro corresponde à parte 2, livro 10 (Das Execuções), título 6 (Da Execução de Bens e Destino das Multas) do Código Processual Penal de Portugal.
+
+Artigo 510.º - Lei Aplicável
+Em tudo o que não esteja especialmente previsto neste código, a execução de bens rege-se pelo disposto no Código de Processo Civil e no Regulamento das Custas Processuais.
+
+Artigo 511.º - Ordem dos Pagamentos
+Com o produto dos bens executados efetuam-se os pagamentos pela ordem seguinte:
+1.º - As multas penais e as coimas;
+2.º - A taxa de justiça;
+3.º - Os encargos liquidados a favor do Estado e do Instituto de Gestão Financeira e das Infraestruturas da Justiça, I.P.;
+4.º - Os restantes encargos, proporcionalmente;
+5.º - As indemnizações.
+
+Artigo 512.º - Destino das Multas
+Salvo disposição em contrário, as importâncias de multas e coimas cobradas em juízo têm o destino fixado no Regulamento das Custas Processuais.
+
+Esta secção do ficheiro corresponde à parte 2, livro 11 (Da responsabilidade por custas) do código processual penal de portugal.
+
+Capítulo I - Da Execução das Medidas de Segurança Privativas da Liberdade
+
+Artigo 513.º - Responsabilidade do Arguido por Custas
+1 - Só há lugar ao pagamento da taxa de justiça quando ocorra condenação em 1.ª instância e decaimento total em qualquer recurso.
+2 - O arguido é condenado em um só imposto de justiça, ainda que responda por vários crimes, desde que sejam julgados em um só processo.
+3 - A condenação em taxa de justiça é sempre individual e o respetivo quantitativo é fixado pelo juiz, a final, nos termos previstos no regulamento das custas processuais.
+4 - A dispensa da pena não liberta o arguido da obrigação de pagar custas.
+
+Artigo 514.º - Responsabilidade do Arguido por Encargos
+1 - Salvo quando haja apoio judiciário, o arguido condenado é responsável pelo pagamento, a final, dos encargos a que a sua atividade houver dado lugar.
+2 - Se forem vários os arguidos condenados em taxa de justiça e não for possível individualizar a responsabilidade de cada um deles pelos encargos, esta é solidária quando os encargos resultarem de uma atividade comum e conjunta nos demais casos, salvo se outro critério for fixado na decisão.
+3 - Se o assistente for também condenado no pagamento de taxa de justiça, a responsabilidade pelos encargos que não puderem ser imputados à simples atividade de um ou de outro é repartida por ambos de igual modo.
+
+Artigo 515.º - Responsabilidade do Assistente por Custas
+1 - É devida taxa de justiça pelo assistente nos seguintes casos:
+    a) Se o arguido for absolvido ou não for pronunciado por todos ou por alguns crimes constantes da acusação que haja deduzido ou com que se haja conformado;
+    b) Se decair, total ou parcialmente, em recurso que houver interposto, a que houver dado adesão ou em que tenha feito oposição;
+    c) (Revogada.)
+    d) Se fizer terminar o processo por desistência ou abstenção injustificada de acusar;
+    e) (Revogada.)
+    f) Se for rejeitada acusação que houver deduzido.
+2 - Havendo vários assistentes, cada um paga o respetivo imposto de justiça.
+3 - (Revogado.)
+
+Artigo 516.º - Arquivamento ou Suspensão do Processo
+Não é devido imposto de justiça quando o processo tiver sido arquivado ou suspenso, nos termos dos artigos 280.º e 281.º
+
+Artigo 517.º - Casos de Isenção do Assistente
+O assistente é isento do pagamento de taxa de justiça quando, por razões supervenientes à acusação que houver deduzido ou com que se tiver conformado e que lhe não sejam imputáveis, o arguido não for pronunciado ou for absolvido.
+
+Artigo 518.º - Responsabilidade do Assistente por Encargos
+Quando o procedimento depender de acusação particular, o assistente condenado em taxa paga também os encargos a que a sua atividade houver dado lugar.
+
+Artigo 519.º - Imposto Devido pela Constituição de Assistente
+1 - A constituição de assistente dá lugar ao pagamento de taxa de justiça, nos termos fixados no regulamento das custas processuais.
+2 - (Revogado.)
+3 - No caso de morte ou incapacidade do assistente o pagamento do imposto já efetuado aproveita àqueles que se apresentarem em seu lugar, a fim de continuarem a assistência.
+
+Artigo 520.º - Responsabilidade do Denunciante
+Paga também custas o denunciante, quando se mostrar que denunciou de má fé ou com negligência grave.
+
+Artigo 521.º - Regras Especiais
+1 - À prática de quaisquer atos em processo penal é aplicável o disposto no Código de Processo Civil quanto à condenação no pagamento de taxa sancionatória excecional.
+2 - Quando se trate de atos praticados por pessoa que não for sujeito processual penal e estejam em causa condutas que entorpeçam o andamento do processo ou impliquem a disposição substancial de tempo e meios, pode o juiz condenar o visado ao pagamento de uma taxa fixada entre 1 UC e 3 UC.
+
+Artigo 522.º - Isenções
+1 - O Ministério Público está isento de custas e multas.
+2 - (Revogado.)
+
+Artigo 523.º - Custas no Pedido Cível
+À responsabilidade por custas relativas ao pedido de indemnização civil são aplicáveis as normas do processo civil.
+
+Artigo 524.º - Disposições Subsidiárias
+É subsidiariamente aplicável o disposto no Regulamento das Custas Processuais.

@@ -1,0 +1,297 @@
+Esta secção do ficheiro corresponde ao livro 4 (Das medidas de coacção e de garantia patrimonial), titulo 1 (Disposições gerais) do código processual penal de portugal.
+
+Artigo 191.º - Princípio da Legalidade
+1 - A liberdade das pessoas só pode ser limitada, total ou parcialmente, em função de exigências processuais de natureza cautelar, pelas medidas de coacção e de garantia patrimonial previstas na lei.
+2 - Para efeitos do disposto no presente livro, não se considera medida de coacção a obrigação de identificação perante a autoridade competente, nos termos e com os efeitos previstos no artigo 250.º
+
+Artigo 192.º - Condições Gerais de Aplicação
+1 - A aplicação de qualquer medida de coação depende da prévia constituição como arguido, nos termos do artigo 58.º, da pessoa que dela for objeto.
+2 - A aplicação de medidas de garantia patrimonial depende da prévia constituição como arguido, nos termos do artigo 58.º, da pessoa que delas for objeto, ressalvado o disposto nos n.os 3 a 5 do presente artigo.
+3 - No caso do arresto, sempre que a prévia constituição como arguido puser em sério risco o seu fim ou a sua eficácia, pode a constituição como arguido ocorrer em momento imediatamente posterior ao da aplicação da medida, mediante despacho devidamente fundamentado do juiz, sem exceder, em caso algum, o prazo máximo de 72 horas a contar da data daquela aplicação.
+4 - A não constituição como arguido no prazo máximo previsto no número anterior determina a nulidade da medida de arresto, sem prejuízo do disposto no número seguinte.
+5 - Caso a constituição como arguido para efeitos de arresto nos termos dos n.os 2 e 3 se tenha revelado comprovadamente impossível por o visado estar ausente em parte incerta e se terem frustrado as tentativas de localizar o seu paradeiro, pode a mesma ser dispensada, mediante despacho devidamente fundamentado do juiz, quando existam, cumulativamente, indícios objetivos de dissipação do respetivo património e fundada suspeita da prática do crime.
+6 - Nenhuma medida de coacção ou de garantia patrimonial é aplicada quando houver fundados motivos para crer na existência de causas de isenção da responsabilidade ou de extinção do procedimento criminal.
+
+Artigo 193.º - Princípios da Necessidade, Adequação e Proporcionalidade
+1 - As medidas de coacção e de garantia patrimonial a aplicar em concreto devem ser necessárias e adequadas às exigências cautelares que o caso requerer e proporcionais à gravidade do crime e às sanções que previsivelmente venham a ser aplicadas.
+2 - A prisão preventiva e a obrigação de permanência na habitação só podem ser aplicadas quando se revelarem inadequadas ou insuficientes as outras medidas de coacção.
+3 - Quando couber ao caso medida de coacção privativa da liberdade nos termos do número anterior, deve ser dada preferência à obrigação de permanência na habitação sempre que ela se revele suficiente para satisfazer as exigências cautelares.
+4 - A execução das medidas de coacção e de garantia patrimonial não deve prejudicar o exercício de direitos fundamentais que não forem incompatíveis com as exigências cautelares que o caso requerer.
+
+Artigo 194.º - Audição do Arguido e Despacho de Aplicação
+1 - À exceção do termo de identidade e residência, as medidas de coação e de garantia patrimonial são aplicadas por despacho do juiz, durante o inquérito a requerimento do ministério público e depois do inquérito mesmo oficiosamente, ouvido o ministério público, sob pena de nulidade.
+2 - Durante o inquérito, o juiz pode aplicar medida de coação diversa, ainda que mais grave, quanto à sua natureza, medida ou modalidade de execução, da requerida pelo ministério público, com fundamento nas alíneas a) e c) do artigo 204.º
+3 - Durante o inquérito, o juiz não pode aplicar medida de coação mais grave, quanto à sua natureza, medida ou modalidade de execução, com fundamento na alínea b) do artigo 204.º nem medida de garantia patrimonial mais grave do que a requerida pelo ministério público, sob pena de nulidade.
+4 - A aplicação referida no n.º 1 é precedida da audição presencial do arguido, ressalvados os casos de impossibilidade devidamente fundamentada, e pode ter lugar no ato de primeiro interrogatório judicial, aplicando-se sempre à audição o disposto no n.º 4 do artigo 141.º
+5 - Durante o inquérito, e salvo impossibilidade devidamente fundamentada, o juiz decide a aplicação de medida de coacção ou de garantia patrimonial a arguido não detido, no prazo de cinco dias a contar do recebimento da promoção do ministério público.
+6 - A fundamentação do despacho que aplicar qualquer medida de coacção ou de garantia patrimonial, à excepção do termo de identidade e residência, contém, sob pena de nulidade:
+    a) A descrição dos factos concretamente imputados ao arguido, incluindo, sempre que forem conhecidas, as circunstâncias de tempo, lugar e modo;
+    b) A enunciação dos elementos do processo que indiciam os factos imputados, sempre que a sua comunicação não puser gravemente em causa a investigação, impossibilitar a descoberta da verdade ou criar perigo para a vida, a integridade física ou psíquica ou a liberdade dos participantes processuais ou das vítimas do crime;
+    c) A qualificação jurídica dos factos imputados;
+    d) A referência aos factos concretos que preenchem os pressupostos de aplicação da medida, incluindo os previstos nos artigos 193.º e 204.º
+7 - Sem prejuízo do disposto na alínea b) do número anterior, não podem ser considerados para fundamentar a aplicação ao arguido de medida de coação ou de garantia patrimonial, à exceção do termo de identidade e residência, quaisquer factos ou elementos do processo que lhe não tenham sido comunicados durante a audição a que se refere o n.º 4.
+8 - Sem prejuízo do disposto na alínea b) do n.º 6, o arguido e o seu defensor podem consultar os elementos do processo determinantes da aplicação da medida de coação ou de garantia patrimonial, à exceção do termo de identidade e residência, durante o interrogatório judicial e no prazo previsto para a interposição de recurso.
+9 - O despacho referido no n.º 1, com a advertência das consequências do incumprimento das obrigações impostas, é notificado ao arguido.
+10 - No caso de prisão preventiva, o despacho é comunicado de imediato ao defensor e, sempre que o arguido o pretenda, a parente ou a pessoa da sua confiança.
+11 - Sendo o arguido menor, o despacho referido no n.º 1 é comunicado, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.
+
+Artigo 195.º - Determinação da Pena
+Se a aplicação de uma medida de coacção depender da pena aplicável, atende-se, na sua determinação, ao máximo da pena correspondente ao crime que justifica a medida.
+
+Esta secção do ficheiro corresponde ao livro 4 (Das medidas de coacção e de garantia patrimonial), titulo 2 (Das medidas da coacção) do código processual penal de portugal.
+
+Capítulo I - Das Medidas Admissíveis
+
+Artigo 196.º - Termo de Identidade e Residência
+1 - A autoridade judiciária ou o órgão de polícia criminal sujeitam a termo de identidade e residência lavrado no processo todo aquele que for constituído arguido, ainda que já tenha sido identificado nos termos do artigo 250.º
+2 - Para o efeito de ser notificado mediante via postal simples, nos termos da alínea c) do n.º 1 do artigo 113.º, o arguido indica a sua residência, o local de trabalho ou outro domicílio à sua escolha.
+3 - Do termo deve constar que àquele foi dado conhecimento:
+    a) Da obrigação de comparecer perante a autoridade competente ou de se manter à disposição dela sempre que a lei o obrigar ou para tal for devidamente notificado;
+    b) Da obrigação de não mudar de residência nem dela se ausentar por mais de cinco dias sem comunicar a nova residência ou o lugar onde possa ser encontrado;
+    c) De que as posteriores notificações serão feitas por via postal simples para a morada indicada no n.º 2, excepto se o arguido comunicar uma outra, através de requerimento entregue ou remetido por via postal registada à secretaria onde os autos se encontrarem a correr nesse momento;
+    d) De que o incumprimento do disposto nas alíneas anteriores legitima a sua representação por defensor em todos os actos processuais nos quais tenha o direito ou o dever de estar presente e bem assim a realização da audiência na sua ausência, nos termos do artigo 333.º
+    e) De que, em caso de condenação, o termo de identidade e residência só se extinguirá com a extinção da pena.
+4 - No caso de pessoa coletiva ou entidade equiparada, o termo deve conter a sua identificação social, a sede ou local de funcionamento da administração e o seu representante designado nos termos dos n.os 4 a 8 do artigo 57.º
+5 - Do termo prestado pela pessoa coletiva ou entidade equiparada, deve ainda constar que foi dado conhecimento:
+    a) Da obrigação de comparecer, através do seu representante, perante a autoridade competente ou de se manter à disposição dela sempre que a lei a obrigar ou para tal for devidamente notificada;
+    b) Da obrigação de comunicar no prazo máximo de 5 dias as alterações da sua identificação social, nomeadamente nos casos de cisão, fusão ou extinção, ou quaisquer factos que impliquem a substituição do seu representante, sem prejuízo da eficácia dos atos praticados pelo anterior representante;
+    c) Da obrigação de indicar uma morada onde possa ser notificada mediante via postal simples e de que as posteriores notificações serão feitas nessa morada e por essa via, exceto se comunicar uma outra morada, através de requerimento entregue ou remetido por via postal registada à secretaria onde os autos se encontrem a correr nesse momento;
+    d) Da obrigação de não mudar de sede ou local onde normalmente funciona a administração sem comunicar a nova sede ou local de funcionamento da administração;
+    e) De que o incumprimento do disposto nas alíneas anteriores legitima a sua representação por defensor em todos os atos processuais nos quais tenha o direito ou o dever de estar presente e bem assim a realização da audiência na sua ausência, nos termos do artigo 333.º;
+    f) De que, em caso de condenação, o termo só se extingue com a extinção da pena.
+6 - O representante pode requerer a sua substituição quando se verificarem factos que impeçam ou dificultem gravemente o cumprimento dos deveres e o exercício dos direitos da sua representada, sendo que a substituição do representante não prejudica o termo já prestado pela representada.
+7 - No caso de cisão ou fusão da pessoa coletiva ou entidade equiparada, os representantes legais das novas pessoas ou entidades devem prestar novo termo.
+8 - A aplicação da medida referida neste artigo é sempre cumulável com qualquer outra das previstas no presente livro.
+
+Artigo 197.º - Caução
+1 - Se o crime imputado for punível com pena de prisão, o juiz pode impor ao arguido a obrigação de prestar caução.
+2 - Se o arguido estiver impossibilitado de prestar caução ou tiver graves dificuldades ou inconvenientes em prestá-la, pode o juiz, oficiosamente ou a requerimento, substituí-la por qualquer ou quaisquer outras medidas de coacção, à excepção da prisão preventiva ou de obrigação de permanência na habitação, legalmente cabidas ao caso, as quais acrescerão a outras que já tenham sido impostas.
+3 - Na fixação do montante da caução tomam-se em conta os fins de natureza cautelar a que se destina, a gravidade do crime imputado, o dano por este causado e a condição sócio-económica do arguido.
+4 - No caso de pessoa coletiva ou entidade equiparada arguida, o juiz pode impor a obrigação de prestar caução.
+
+Artigo 198.º - Obrigação de Apresentação Periódica
+1 - Se o crime imputado for punível com pena de pressão de máximo superior a seis meses, o juiz pode impor ao arguido a obrigação de se apresentar a uma entidade judiciária ou a um certo órgão de polícia criminal em dias e horas preestabelecidos, tomando em conta as exigências profissionais do arguido e o local em que habita.
+2 - A obrigação de apresentação periódica pode ser cumulada com qualquer outra medida de coacção, com a excepção da obrigação de permanência na habitação e da prisão preventiva.
+
+Artigo 199.º - Suspensão do Exercício de Profissão, de Função, de Atividade e de Direitos
+1 - Se o crime imputado for punível com pena de prisão de máximo superior a 2 anos, o juiz pode impor ao arguido, cumulativamente, se disso for caso, com qualquer outra medida de coacção, a suspensão do exercício:
+    a) De profissão, função ou atividade, públicas ou privadas;
+    b) Do poder paternal, da tutela, da curatela, da administração de bens ou da emissão de títulos de crédito, sempre que a interdição do respectivo exercício possa vir a ser decretada como efeito do crime imputado.
+2 - Quando se referir a função pública, a profissão ou atividade cujo exercício dependa de um título público ou de uma autorização ou homologação da autoridade pública, ou ao exercício dos direitos previstos na alínea b) do número anterior, a suspensão é comunicada à autoridade administrativa, civil ou judiciária normalmente competente para decretar a suspensão ou a interdição respectivas.
+3 - No caso de pessoa coletiva ou entidade equiparada arguida, o juiz pode impor a suspensão do exercício de atividades, da administração de bens ou emissão de títulos de crédito, do controlo de contas bancárias, do direito de candidatura a contratos públicos e do direito a subsídios, subvenções ou incentivos outorgados pelo estado, regiões autónomas, autarquias locais e demais pessoas coletivas públicas.
+
+Artigo 200.º - Proibição e Imposição de Condutas
+1 - Se houver fortes indícios de prática de crime doloso punível com pena de prisão de máximo superior a 3 anos, o juiz pode impor ao arguido, cumulativa ou separadamente, as obrigações de:
+    a) Não permanecer, ou não permanecer sem autorização, na área de uma determinada povoação, freguesia ou concelho ou na residência onde o crime tenha sido cometido ou onde habitem os ofendidos, seus familiares ou outras pessoas sobre as quais possam ser cometidos novos crimes;
+    b) Não se ausentar para o estrangeiro, ou não se ausentar sem autorização;
+    c) Não se ausentar da povoação, freguesia ou concelho do seu domicílio, ou não se ausentar sem autorização, salvo para lugares predeterminados, nomeadamente para o lugar do trabalho;
+    d) Não contactar, por qualquer meio, com determinadas pessoas ou não frequentar certos lugares ou certos meios;
+    e) Não adquirir, não usar ou, no prazo que lhe for fixado, entregar armas ou outros objectos e utensílios que detiver, capazes de facilitar a prática de outro crime;
+    f) Se sujeitar, mediante prévio consentimento, a tratamento de dependência de que padeça e haja favorecido a prática do crime, em instituição adequada.
+2 - As autorizações referidas no número anterior podem, em caso de urgência, ser requeridas e concedidas verbalmente, lavrando-se cota no processo.
+3 - A proibição de o arguido se ausentar para o estrangeiro implica a entrega à guarda do tribunal do passaporte que possuir e a comunicação às autoridades competentes, com vista à não concessão ou não renovação de passaporte e ao controle das fronteiras.
+4 - As obrigações previstas nas alíneas a), d), e) e f) do n.º 1 também podem ser impostas pelo juiz ao arguido, se houver fortes indícios de prática do crime de ameaça, de coação ou de perseguição, no prazo máximo de 48 horas.
+5 - Para efeitos do disposto no número anterior, quando esteja em causa a obrigação prevista na alínea d) e quando tal se demonstre imprescindível para a proteção da vítima, podem ser aplicados, fundamentadamente, meios técnicos de controlo à distância, podendo ser dispensada a audiência prévia do suspeito, caso em que, se necessário, a constituição como arguido será feita aquando da notificação da medida de coação.
+6 - A aplicação de obrigação ou obrigações que impliquem a restrição de contacto entre progenitores são imediatamente comunicadas ao representante do ministério público que exerce funções no tribunal competente, para efeitos de instauração, com caráter de urgência, do respetivo processo de regulação ou alteração da regulação do exercício das responsabilidades parentais.
+7 - No caso de pessoa coletiva ou entidade equiparada arguida, o juiz pode impor a proibição de contactos, a proibição de adquirir ou usar certos objetos e a obrigação de entrega de certos objetos.
+
+Artigo 201.º - Obrigação de Permanência na Habitação
+1 - Se considerar inadequadas ou insuficientes, no caso, as medidas referidas nos artigos anteriores, o juiz pode impor ao arguido a obrigação de não se ausentar, ou de não se ausentar sem autorização, da habitação própria ou de outra em que de momento resida ou, nomeadamente, quando tal se justifique, em instituição adequada a prestar-lhe apoio social e de saúde, se houver fortes indícios de prática de crime doloso punível com pena de prisão de máximo superior a 3 anos.
+2 - A obrigação de permanência na habitação é cumulável com a obrigação de não contactar, por qualquer meio, com determinadas pessoas.
+3 - Para fiscalização do cumprimento das obrigações referidas nos números anteriores podem ser utilizados meios técnicos de controlo à distância, nos termos previstos na lei.
+
+Artigo 202.º - Prisão Preventiva
+1 - Se considerar inadequadas ou insuficientes, no caso, as medidas referidas nos artigos anteriores, o juiz pode impor ao arguido a prisão preventiva quando:
+    a) Houver fortes indícios de prática de crime doloso punível com pena de prisão de máximo superior a 5 anos;
+    b) Houver fortes indícios de prática de crime doloso que corresponda a criminalidade violenta;
+    c) Houver fortes indícios de prática de crime doloso de terrorismo ou que corresponda a criminalidade altamente organizada punível com pena de prisão de máximo superior a 3 anos;
+    d) Houver fortes indícios de prática de crime doloso de ofensa à integridade física qualificada, furto qualificado, dano qualificado, burla informática e nas comunicações, abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento, recetação, falsificação ou contrafação de documento, atentado à segurança de transporte rodoviário, puníveis com pena de prisão de máximo superior a 3 anos;
+    e) Houver fortes indícios da prática de crime doloso de detenção de arma proibida, detenção de armas e outros dispositivos, produtos ou substâncias em locais proibidos ou crime cometido com arma, nos termos do regime jurídico das armas e suas munições, puníveis com pena de prisão de máximo superior a 3 anos;
+    f) Se tratar de pessoa que tiver penetrado ou permaneça irregularmente em território nacional, ou contra a qual estiver em curso processo de extradição ou de expulsão.
+2 - Mostrando-se que o arguido a sujeitar a prisão preventiva sofre de anomalia psíquica, o juiz pode impor, ouvido o defensor e, sempre que possível, um familiar, que, enquanto a anomalia persistir, em vez da prisão tenha lugar internamento preventivo em hospital psiquiátrico ou outro estabelecimento análogo adequado, adaptando as cautelas necessárias para prevenir os perigos de fuga e de cometimento de novos crimes.
+
+Artigo 203.º - Violação das Obrigações Impostas
+1 - Em caso de violação das obrigações impostas por aplicação de uma medida de coacção, o juiz, tendo em conta a gravidade do crime imputado e os motivos da violação, pode impor outra ou outras medidas de coacção previstas neste código e admissíveis no caso.
+2 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 193.º, o juiz pode impor a prisão preventiva, desde que ao crime caiba pena de prisão de máximo superior a 3 anos:
+    a) Nos casos previstos no número anterior; ou
+    b) Quando houver fortes indícios de que, após a aplicação de medida de coacção, o arguido cometeu crime doloso da mesma natureza, punível com pena de prisão de máximo superior a 3 anos.
+
+Capítulo II - Das Condições de Aplicação das Medidas
+
+Artigo 204.º - Requisitos Gerais
+
+1 - Nenhuma medida de coacção, à excepção da prevista no artigo 196.º, pode ser aplicada se em concreto se não verificar, no momento da aplicação da medida:
+    a) Fuga ou perigo de fuga;
+    b) Perigo de perturbação do decurso do inquérito ou da instrução do processo e, nomeadamente, perigo para a aquisição, conservação ou veracidade da prova; ou
+    c) Perigo, em razão da natureza e das circunstâncias do crime ou da personalidade do arguido, de que este continue a actividade criminosa ou perturbe gravemente a ordem e a tranquilidade públicas.
+2 - Nenhuma medida de coação, à exceção da prevista no artigo 196.º, pode ser aplicada a pessoa coletiva ou entidade equiparada arguida se em concreto se não verificar, no momento da aplicação da medida, perigo de perturbação do inquérito ou da instrução do processo ou perigo de continuação da atividade criminosa.
+3 - No caso previsto no número anterior, a adoção e implementação de programa de cumprimento normativo deve ser tida em conta na avaliação do perigo de continuação da atividade criminosa, podendo determinar a suspensão da medida de coação.
+
+Artigo 205.º - Cumulação com a Caução
+A aplicação de qualquer medida de coacção, à excepção da prisão preventiva ou da obrigação de permanência na habitação, pode sempre ser cumulada com a obrigação de prestar caução.
+
+Artigo 206.º - Prestação da Caução
+1 - A caução é prestada por meio de depósito, penhor, hipoteca, fiança bancária ou fiança, nos concretos termos em que o juiz o admitir.
+2 - Precedendo autorização do juiz, pode o arguido que tiver prestado caução por qualquer um dos meios referidos no número anterior substituí-lo por outro.
+3 - A prestação de caução é processada por apenso.
+4 - Ao arguido que não preste caução é correspondentemente aplicável o disposto no artigo 228.º
+
+Artigo 207.º - Reforço da Caução
+1 - Se, posteriormente a ter sido prestada caução, forem conhecidas circunstâncias que a tornem insuficiente ou impliquem a modificação da modalidade de prestação, pode o juiz impor o seu reforço ou modificação.
+2 - É correspondentemente aplicável o disposto no artigo 197.º, n.º 2, e no artigo 203.º
+
+Artigo 208.º - Quebra da Caução
+1 - A caução considera-se quebrada quando se verificar falta injustificada do arguido a acto processual a que deva comparecer ou incumprimento de obrigações derivadas de medida de coacção que lhe tiver sido imposta.
+2 - Quebrada a caução, o seu valor reverte para o estado.
+
+Artigo 209.º - Dificuldades de Aplicação ou de Execução de uma Medida de Coacção
+Para efeito de aplicação ou de execução de uma medida de coacção é correspondentemente aplicável o disposto no artigo 115.º
+
+Artigo 210.º - Inêxito das Diligências para Aplicação da Prisão Preventiva
+Se o juiz tiver elementos para supor que uma pessoa pretende subtrair-se à aplicação ou execução da prisão preventiva, pode aplicar-lhe imediatamente, até que a execução da medida se efective, as medidas previstas nos artigos 198.º a 201.º, inclusive, ou alguma ou algumas delas.
+
+Artigo 211.º - Suspensão da Execução da Prisão Preventiva
+1 - No despacho que aplicar a prisão preventiva ou durante a execução desta o juiz pode estabelecer a suspensão da execução da medida, se tal for exigido por razão de doença grave do arguido, de gravidez ou de puerpério. A suspensão cessa logo que deixarem de verificar-se as circunstâncias que a determinaram e de todo o modo, no caso de puerpério, quando se esgotar o terceiro mês posterior ao parto.
+2 - Durante o período de suspensão da execução da prisão preventiva o arguido fica sujeito à medida prevista no artigo 201.º e a quaisquer outras que se revelarem adequadas ao seu estado e compatíveis com ele, nomeadamente a de internamento hospitalar.
+
+Capítulo III - Da Revogação, Alteração e Extinção das Medidas
+
+Artigo 212.º - Revogação e Substituição das Medidas
+1 - As medidas de coacção são imediatamente revogadas, por despacho do juiz, sempre que se verificar:
+    a) Terem sido aplicadas fora das hipóteses ou das condições previstas na lei; ou
+    b) Terem deixado de subsistir as circunstâncias que justificaram a sua aplicação.
+2 - As medidas revogadas podem de novo ser aplicadas, sem prejuízo da unidade dos prazos que a lei estabelecer, se sobrevierem motivos que legalmente justifiquem a sua aplicação.
+3 - Quando se verificar uma atenuação das exigências cautelares que determinaram a aplicação de uma medida de coacção, o juiz substitui-a por outra menos grave ou determina uma forma menos gravosa da sua execução.
+4 - A revogação e a substituição previstas neste artigo têm lugar oficiosamente ou a requerimento do ministério público ou do arguido, devendo estes ser ouvidos, salvo nos casos de impossibilidade devidamente fundamentada, e devendo ser ainda ouvida a vítima, sempre que necessário, mesmo que não se tenha constituído assistente.
+
+Artigo 213.º - Reexame dos Pressupostos da Prisão Preventiva e da Obrigação de Permanência na Habitação
+1 - O juiz procede oficiosamente ao reexame dos pressupostos da prisão preventiva ou da obrigação de permanência na habitação, decidindo se elas são de manter ou devem ser substituídas ou revogadas:
+    a) No prazo máximo de três meses a contar da data da sua aplicação ou do último reexame; e
+    b) Quando no processo forem proferidos despacho de acusação ou de pronúncia ou decisão que conheça, a final, do objecto do processo e não determine a extinção da medida aplicada.
+2 - Na decisão a que se refere o número anterior, ou sempre que necessário, o juiz verifica os fundamentos da elevação dos prazos da prisão preventiva ou da obrigação de permanência na habitação, nos termos e para os efeitos do disposto nos n.os 2, 3 e 5 do artigo 215.º e no n.º 3 do artigo 218.º
+3 - Sempre que necessário, o juiz ouve o ministério público e o arguido.
+4 - A fim de fundamentar as decisões sobre a manutenção, substituição ou revogação da prisão preventiva ou da obrigação de permanência na habitação, o juiz, oficiosamente ou a requerimento do ministério público ou do arguido, pode solicitar a elaboração de perícia sobre a personalidade e de relatório social ou de informação dos serviços de reinserção social, desde que o arguido consinta na sua realização.
+5 - A decisão que mantenha a prisão preventiva ou a obrigação de permanência na habitação é susceptível de recurso nos termos gerais, mas não determina a inutilidade superveniente de recurso interposto de decisão prévia que haja aplicado ou mantido a medida em causa.
+
+Artigo 214.º - Extinção das Medidas
+1 - As medidas de coacção extinguem-se de imediato:
+    a) Com o arquivamento do inquérito;
+    b) Com a prolação do despacho de não pronúncia;
+    c) Com a prolação do despacho que rejeitar a acusação, nos termos da alínea a) do n.º 2 do artigo 311.º;
+    d) Com a sentença absolutória, mesmo que dela tenha sido interposto recurso; ou
+    e) Com o trânsito em julgado da sentença condenatória, à exceção do termo de identidade e residência que só se extinguirá com a extinção da pena.
+2 - As medidas de prisão preventiva e de obrigação de permanência na habitação extinguem-se igualmente de imediato quando for proferida sentença condenatória, ainda que dela tenha sido interposto recurso, se a pena aplicada não for superior à prisão ou à obrigação de permanência já sofridas.
+3 - Se, no caso da alínea d) do n.º 1, o arguido vier a ser posteriormente condenado no mesmo processo pode, enquanto a sentença condenatória não transitar em julgado, ser sujeito a medidas de coacção previstas neste código e admissíveis no caso.
+4 - Se a medida de coacção for a de caução e o arguido vier a ser condenado em prisão, aquela só se extingue com o início da execução da pena.
+
+Artigo 215.º - Prazos de Duração Máxima da Prisão Preventiva
+1 - A prisão preventiva extingue-se quando, desde o seu início, tiverem decorrido:
+    a) Quatro meses sem que tenha sido deduzida acusação;
+    b) Oito meses sem que, havendo lugar a instrução, tenha sido proferida decisão instrutória;
+    c) Um ano e dois meses sem que tenha havido condenação em 1.ª instância;
+    d) Um ano e seis meses sem que tenha havido condenação com trânsito em julgado.
+2 - Os prazos referidos no número anterior são elevados, respectivamente, para 6 meses, 10 meses, 1 ano e 6 meses e 2 anos, em casos de terrorismo, criminalidade violenta ou altamente organizada, ou quando se proceder por crime punível com pena de prisão de máximo superior a 8 anos, ou por crime:
+    a) Previsto no artigo 299.º, no n.º 1 do artigo 318.º, nos artigos 319.º, 326.º, 331.º ou no n.º 1 do artigo 333.º do código penal e nos artigos 30.º, 79.º e 80.º do código de justiça militar, aprovado pela lei n.º 100/2003, de 15 de novembro
+    b) De furto de veículos ou de falsificação de documentos a eles respeitantes ou de elementos identificadores de veículos;
+    c) De falsificação de moeda, títulos de crédito, valores selados, selos e equipamentos ou da respetiva passagem, e de contrafação de cartões ou outros dispositivos de pagamento e uso de cartões ou outros dispositivos de pagamento contrafeitos, previstos nos artigos 3.º-a e 3.º-b da lei n.º 109/2009, de 15 de setembro;
+    d) De burla, insolvência dolosa, administração danosa do sector público ou cooperativo, falsificação, corrupção, peculato ou de participação económica em negócio;
+    e) De branqueamento de vantagens de proveniência ilícita;
+    f) De fraude na obtenção ou desvio de subsídio, subvenção ou crédito;
+    g) Abrangido por convenção sobre segurança da navegação aérea ou marítima.
+3 - Os prazos referidos no n.º 1 são elevados, respectivamente, para um ano, um ano e quatro meses, dois anos e seis meses e três anos e 4 meses, quando o procedimento for por um dos crimes referidos no número anterior e se revelar de excepcional complexidade, devido, nomeadamente, ao número de arguidos ou de ofendidos ou ao carácter altamente organizado do crime.
+4 - A excepcional complexidade a que se refere o presente artigo apenas pode ser declarada durante a 1.ª instância, por despacho fundamentado, oficiosamente ou a requerimento do ministério público, ouvidos o arguido e o assistente.
+5 - Os prazos referidos nas alíneas c) e d) do n.º 1, bem como os correspondentemente referidos nos n.os 2 e 3, são acrescentados de seis meses se tiver havido recurso para o tribunal constitucional ou se o processo penal tiver sido suspenso para julgamento em outro tribunal de questão prejudicial.
+6 - No caso de o arguido ter sido condenado a pena de prisão em 1.ª instância e a sentença condenatória ter sido confirmada em sede de recurso ordinário, o prazo máximo da prisão preventiva eleva-se para metade da pena que tiver sido fixada.
+7 - A existência de vários processos contra o arguido por crimes praticados antes de lhe ter sido aplicada a prisão preventiva não permite exceder os prazos previstos nos números anteriores.
+8 - Na contagem dos prazos de duração máxima da prisão preventiva são incluídos os períodos em que o arguido tiver estado sujeito a obrigação de permanência na habitação.
+
+Artigo 216.º - Suspensão do Decurso dos Prazos de Duração Máxima da Prisão Preventiva
+O decurso dos prazos previstos no artigo anterior suspende-se em caso de doença do arguido que imponha internamento hospitalar, se a sua presença for indispensável à continuação das investigações.
+
+Artigo 217.º - Libertação do Arguido Sujeito a Prisão Preventiva
+1 - O arguido sujeito a prisão preventiva é posto em liberdade logo que a medida se extinguir, salvo se a prisão dever manter-se por outro processo.
+2 - Se a libertação tiver lugar por se terem esgotado os prazos de duração máxima da prisão preventiva, o juiz pode sujeitar o arguido a alguma ou algumas das medidas previstas nos artigos 197.º a 200.º, inclusive.
+3 - Quando considerar que a libertação do arguido pode criar perigo para o ofendido, o tribunal informa-o, oficiosamente ou a requerimento do ministério público, da data em que a libertação terá lugar.
+
+Artigo 218.º - Prazos de Duração Máxima de Outras Medidas de Coacção
+1 - As medidas de coacção previstas nos artigos 198.º e 199.º extinguem-se quando, desde o início da sua execução, tiverem decorrido os prazos referidos no artigo 215.º, n.º 1, elevados ao dobro.
+2 - À medida de coacção prevista no artigo 200.º é correspondentemente aplicável o disposto nos artigos 215.º e 216.º
+3 - À medida de coacção prevista no artigo 201.º é correspondentemente aplicável o disposto nos artigos 215.º, 216.º e 217.º
+
+Capítulo IV - Dos Modos de Impugnação
+
+Artigo 219.º - Recurso
+1 - Da decisão que aplicar, substituir ou mantiver medidas previstas no presente título, cabe recurso a interpor pelo arguido ou pelo ministério público, a julgar no prazo máximo de 30 dias a contar do momento em que os autos forem recebidos.
+2 - Não existe relação de litispendência ou de caso julgado entre o recurso previsto no número anterior e a providência de habeas corpus, independentemente dos respectivos fundamentos.
+
+Artigo 220.º - Habeas Corpus em Virtude de Detenção Ilegal
+1 - Os detidos à ordem de qualquer autoridade podem requerer ao juiz de instrução da área onde se encontrarem que ordene a sua imediata apresentação judicial, com algum dos seguintes fundamentos:
+    a) Estar excedido o prazo para entrega ao poder judicial;
+    b) Manter-se a detenção fora doa locais legalmente permitidos;
+    c) Ter sido a detenção efectuada ou ordenada por entidade incompetente;
+    d) Ser a detenção motivada por facto pelo qual a lei a não permite.
+2 - O requerimento pode ser subscrito pelo detido ou por qualquer cidadão no gozo dos seus direitos políticos.
+3 - É punível com a pena prevista no artigo 382.º do código penal qualquer autoridade que levantar obstáculo ilegítimo à apresentação do requerimento referido nos números anteriores ou à sua remessa ao juiz competente.
+
+Artigo 221.º - Procedimento
+1 - Recebido o requerimento, o juiz, se o não considerar manifestamente infundado, ordena, por via telefónica, se necessário, a apresentação imediata do detido, sob pena de desobediência qualificada.
+2 - Conjuntamente com a ordem referida no número anterior, o juiz manda notificar a entidade que tiver o detido à sua guarda, ou quem puder representá-la, para se apresentar no mesmo acto munida das informações e esclarecimentos necessários à decisão sobre o requerimento.
+3 - O juiz decide, ouvidos o ministério público e o defensor constituído ou nomeado para o efeito.
+4 - Se o juiz recusar o requerimento por manifestamente infundado, condena o requerente ao pagamento de uma soma entre seis e vinte ucs.
+
+Artigo 222.º - Habeas Corpus em Virtude de Prisão Ilegal
+1 - A qualquer pessoa que se encontrar ilegalmente presa o supremo tribunal de justiça concede, sob petição, a providência de habeas corpus.
+2 - A petição é formulada pelo preso ou por qualquer cidadão no gozo dos seus direitos políticos, é dirigida, em duplicado, ao presidente do supremo tribunal de justiça, apresentada a à autoridade à ordem da qual se mantenha preso e deve fundar-se em ilegalidade da prisão proveniente de:
+    a) Ter sido efectuada ou ordenada por entidade incompetente;
+    b) Ser motivada por facto pelo qual a lei a não permite; ou
+    c) Manter-se para além dos prazos fixados pela lei ou por decisão judicial.
+
+Artigo 223.º - Procedimento
+1 - A petição é enviada imediatamente ao presidente do supremo tribunal de justiça, com informação sobre as condições em que foi efectuada ou se mantém a prisão.
+2 - Se da informação constar que a prisão se mantém, o presidente do supremo tribunal de justiça convoca a secção criminal, que delibera nos oito dias subsequentes, notificando o ministério público e o defensor e nomeando este, se não estiver já constituído. São correspondentemente aplicáveis os artigos 424.º e 435.º
+3 - O relator faz uma exposição da petição e da resposta, após o que é concedida a palavra, por quinze minutos, ao ministério público e ao defensor; seguidamente, a secção reúne para deliberação, a qual é imediatamente tornada pública.
+4 - A deliberação pode ser tomada no sentido de:
+    a) Indeferir o pedido por falta de fundamento bastante;
+    b) Mandar colocar imediatamente o preso à ordem do supremo tribunal de justiça e no local por este indicado, nomeando um juiz para proceder a averiguações, dentro do prazo que lhe for fixado, sobre as condições de legalidade da prisão;
+    c) Mandar apresentar o preso no tribunal competente e no prazo de 24 horas, sob pena de desobediência qualificada; ou
+    d) Declarar ilegal a prisão e, se for caso disso, ordenar a libertação imediata.
+5 - Tendo sido ordenadas averiguações, nos termos da alínea b) do número anterior, é o relatório apresentado à secção criminal, a fim de ser tomada a decisão que ao caso couber dentro do prazo de oito dias.
+6 - Se o supremo tribunal de justiça julgar a petição de habeas corpus manifestamente infundada, condena o peticionante ao pagamento de uma soma entre 6 uc e 30 uc.
+
+Artigo 224.º - Incumprimento da Decisão
+É punível com as penas previstas nos n.os 4 e 5 do artigo 369.º do código penal, conforme o caso, o incumprimento da decisão do supremo tribunal de justiça sobre a petição de habeas corpus, relativa ao destino a dar à pessoa presa.
+
+Capítulo V - Da Indemnização por Privação da Liberdade Ilegal ou Injustificada
+
+Artigo 225.º - Modalidades
+1 - Quem tiver sofrido detenção, prisão preventiva ou obrigação de permanência na habitação pode requerer, perante o tribunal competente, indemnização dos danos sofridos quando:
+    a) A privação da liberdade for ilegal, nos termos do n.º 1 do artigo 220.º, ou do n.º 2 do artigo 222.º;
+    b) A privação da liberdade se tiver devido a erro grosseiro na apreciação dos pressupostos de facto de que dependia; ou
+    c) Se comprovar que o arguido não foi agente do crime ou actuou justificadamente; ou
+    d) A privação da liberdade tiver violado os n.os 1 a 4 do artigo 5.º da convenção europeia dos direitos humanos.
+2 - Nos casos das alíneas b) e c) do número anterior o dever de indemnizar cessa se o arguido tiver concorrido, por dolo ou negligência, para a privação da sua liberdade.
+
+Artigo 226.º - Prazo e Legitimidade
+1 - O pedido de indemnização não pode, em caso algum, ser proposto depois de decorrido um ano sobre o momento em que o detido ou preso foi libertado ou foi definitivamente decidido o processo penal respectivo.
+2 - Em caso de morte do injustificadamente privado da liberdade e desde que não tenha havido renúncia da sua parte, pode a indemnização ser requerida pelo cônjuge não separado de pessoas e bens, pelos descendentes e pelos ascendentes. A indemnização arbitrada às pessoas que a houverem requerido não pode, porém, no seu conjunto, ultrapassar a que seria arbitrada ao detido ou preso.
+
+Esta secção do ficheiro corresponde ao livro 4 (Das medidas de coacção e de garantia patrimonial), titulo 3 (Das medidas de garantia patrimonial) do código processual penal de portugal.
+
+Artigo 227.º - Caução Económica
+1 - O ministério público requer prestação de caução económica quando haja fundado receio de que faltem ou diminuam substancialmente as garantias:
+    a) Do pagamento da pena pecuniária, das custas do processo ou de qualquer outra dívida para com o estado relacionada com o crime;
+    b) Da perda dos instrumentos, produtos e vantagens de facto ilícito típico ou do pagamento do valor a estes correspondente.
+2 - O requerimento indica os termos e as modalidades em que deve ser prestada a caução económica.
+3 - Havendo fundado receio de que faltem ou diminuam substancialmente as garantias de pagamento da indemnização ou de outras obrigações civis derivadas do crime, o lesado pode requerer que o arguido ou o civilmente responsável prestem caução económica, nos termos do número anterior.
+4 - A caução económica prestada a requerimento do ministério público aproveita também ao lesado.
+5 - A caução económica mantém-se distinta e autónoma relativamente à caução referida no artigo 197.º e subsiste até à decisão final absolutória ou até à extinção das obrigações. Em caso de condenação, são pagas pelo seu valor, sucessivamente, a multa, a taxa de justiça, as custas do processo, a indemnização e outras obrigações civis e, ainda, o valor correspondente aos instrumentos, produtos e vantagens do crime.
+6 - A caução económica é aplicável à pessoa coletiva ou entidade equiparada.
+
+Artigo 228.º - Arresto Preventivo
+1 - Para garantia das quantias referidas no artigo anterior, a requerimento do ministério público ou do lesado, pode o juiz decretar o arresto, nos termos da lei do processo civil; se tiver sido previamente fixada e não prestada caução económica, fica o requerente dispensado da prova do fundado receio de perda da garantia patrimonial.
+2 - O arresto preventivo referido no número anterior pode ser decretado mesmo em relação a comerciante.
+3 - A oposição ao despacho que tiver decretado arresto não possui efeito suspensivo.
+4 - Em caso de controvérsia sobre a propriedade dos bens arrestados, pode o juiz remeter a decisão para o tribunal civil, mantendo-se entretanto o arresto decretado.
+5 - O arresto é revogado a todo o tempo em que e arguido ou o civilmente responsável prestem a caução económica imposta.
+6 - Decretado o arresto, é promovido o respetivo registo nos casos e nos termos previstos na legislação registal aplicável, promovendo-se o subsequente cancelamento do mesmo quando sobrevier a extinção da medida.
+7 - O arresto preventivo é aplicável à pessoa coletiva ou entidade equiparada.

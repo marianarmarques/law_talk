@@ -1,0 +1,48 @@
+Este ficheiro corresponde à parte 1 do livro 1 (Dos sujeitos do processo), titulo 2 (Do Ministério Público e dos Órgãos de Polícia Criminal) do código processual penal de portugal.
+
+Artigo 48.º - Legitimidade
+O Ministério Público tem legitimidade para promover o processo penal, com as restrições constantes dos artigos 49.º a 52.º.
+
+Artigo 49.º - Legitimidade em procedimento dependente de queixa
+1 - Quando o procedimento criminal depender de queixa, do ofendido ou de outras pessoas, é necessário que essas pessoas dêem conhecimento do facto ao Ministério Público, para que este promova o processo.
+2 - Para o efeito do número anterior, considera-se feita ao Ministério Público a queixa dirigida a qualquer outra entidade que tenha a obrigação legal de a transmitir àquele.
+3 - A queixa pode ser apresentada pelo titular do direito respectivo, por mandatário judicial ou por mandatário munido de poderes especiais.
+4 - O disposto nos números anteriores é correspondentemente aplicável aos casos em que o procedimento criminal depender da participação de qualquer autoridade.
+
+Artigo 50.º - Legitimidade em procedimento dependente de acusação particular
+1 - Quando o procedimento criminal depender de acusação particular, do ofendido ou de outras pessoas, é necessário que essas pessoas se queixem, se constituem assistentes e deduzam acusação particular.
+2 - O Ministério Público procede oficiosamente a quaisquer diligências que julgar indispensáveis à descoberta da verdade e couberem na sua competência, participa em todos os actos processuais em que intervier a acusação particular, acusa conjuntamente com esta e recorre autonomamente das decisões judiciais.
+3 - É correspondentemente aplicável o disposto no n.º 3 do artigo anterior.
+
+Artigo 51.º - Homologação da desistência da queixa ou da acusação particular
+1 - Nos casos previstos nos artigos 49.º e 50.º, a intervenção do Ministério Público no processo cessa com a homologação da desistência da queixa ou da acusação particular.
+2 - Se o conhecimento da desistência tiver lugar durante o inquérito, a homologação cabe ao Ministério Público; se tiver lugar durante a instrução ou o julgamento, ela cabe, respectivamente, ao juiz de instrução ou ao presidente do tribunal.
+3 - Logo que tomar conhecimento da desistência, a autoridade judiciária competente para a homologação notifica o arguido para, em cinco dias, declarar, sem necessidade de fundamentação, se a ela se opõe. A falta de declaração equivale a não oposição.
+4 - Se o arguido não tiver defensor nomeado e for desconhecido o seu paradeiro, a notificação a que se refere o número anterior efectua-se editalmente.
+
+Artigo 52.º - Legitimidade no caso de concurso de crimes
+1 - No caso de concurso de crimes, o Ministério Público promove imediatamente o processo por aqueles para que tiver legitimidade, se o procedimento criminal pelo crime mais grave não depender de queixa ou de acusação particular, ou se os crimes forem de igual gravidade.
+2 - Se o crime pelo qual o Ministério Público pode promover o processo for de menor gravidade, as pessoas a quem a lei confere o direito de queixa ou de acusação particular são notificadas para declararem, em cinco dias, se querem ou não usar desse direito. Se declararem:
+    a) Que não pretendem apresentar queixa, ou nada declararem, o Ministério Público promove o processo pelos crimes que puder promover;
+    b) Que pretendem apresentar queixa, considera-se esta apresentada.
+
+Artigo 53.º - Posição e atribuições do Ministério Público no processo
+1 - Compete ao Ministério Público, no processo penal, colaborar com o tribunal na descoberta da verdade e na realização do direito, obedecendo em todas as intervenções processuais a critérios de estrita objectividade.
+2 - Compete em especial ao Ministério Público:
+    a) Receber as denúncias, as queixas e as participações e apreciar o seguimento a dar-lhes;
+    b) Dirigir o inquérito;
+    c) Deduzir acusação e sustentá-la efectivamente na instrução e no julgamento;
+    d) Interpor recursos, ainda que no exclusivo interesse da defesa;
+    e) Promover a execução das penas e das medidas de segurança.
+
+Artigo 54.º - Impedimentos, recusas e escusas
+1 - As disposições do capítulo VI do título I são correspondentemente aplicáveis, com as adaptações necessárias, nomeadamente as constantes dos números seguintes, aos magistrados do Ministério Público.
+2 - A declaração de impedimento e o seu requerimento, bem como o requerimento de recusa e o pedido de escusa, são dirigidos ao superior hierárquico do magistrado em causa e por aquele apreciados e definitivamente decididos, sem obediência a formalismo especial; sendo visado o procurador-geral da república, a competência cabe à secção criminal do supremo tribunal de justiça.
+3 - A entidade competente para a decisão, nos termos do número anterior, designa o substituto do impedido, recusado ou escusado.
+
+Artigo 55.º - Competência dos órgãos de polícia criminal
+1 - Compete aos órgãos de polícia criminal coadjuvar as autoridades judiciárias com vista à realização das finalidades doprocesso.
+2 - Compete em especial aos órgãos de polícia criminal, mesmo por iniciativa própria, colher notícia dos crimes e impedirquanto possível as suas consequências, descobrir os seus agentes e levar a cabo os actos necessários e urgentes destinados aassegurar os meios de prova.
+
+Artigo 56.º - Orientação e dependência funcional dos órgãos de polícia criminal
+Nos limites do disposto no n.º 1 do artigo anterior, os órgãos de polícia criminal actuam, no processo, sob a direcção dasautoridades judiciárias e na sua dependência funcional.

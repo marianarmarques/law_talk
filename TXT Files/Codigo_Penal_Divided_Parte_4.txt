@@ -1,0 +1,158 @@
+Este ficheiro corresponde ao livro 1, título 2 (do facto) do código penal de Portugal.
+
+Capítulo I - Pressupostos da punição
+
+Artigo 10.º - Comissão por acção e por omissão
+1 - Quando um tipo legal de crime compreender um certo resultado, o facto abrange não só a acção adequada a produzi-lo como a omissão da acção adequada a evitá-lo, salvo se outra for a intenção da lei.
+2 - A comissão de um resultado por omissão só é punível quando sobre o omitente recair um dever jurídico que pessoalmente o obrigue a evitar esse resultado.
+3 - No caso previsto no número anterior, a pena pode ser especialmente atenuada.
+
+Artigo 11.º - Responsabilidade das pessoas singulares e colectivas
+1 - Salvo o disposto no número seguinte e nos casos especialmente previstos na lei, só as pessoas singulares são susceptíveis de responsabilidade criminal.
+2 - As pessoas coletivas e entidades equiparadas, com exceção do estado, de pessoas coletivas no exercício de prerrogativas de poder público e de organizações de direito internacional público, são responsáveis pelos crimes previstos nos artigos 144.º-b, 150.º, 152.º-a, 152.º-b, 156.º, 159.º e 160.º, nos artigos 163.º a 166.º sendo a vítima menor, e nos artigos 168.º, 169.º, 171.º a 177.º, 203.º a 206.º, 209.º a 223.º, 225.º, 226.º, 231.º, 232.º, 240.º, 256.º, 258.º, 262.º a 283.º, 285.º, 299.º, 335.º, 348.º, 353.º, 359.º, 363.º, 367.º, 368.º-a e 372.º a 377.º, quando cometidos:
+    a) Em seu nome ou por sua conta e no seu interesse direto ou indireto por pessoas que nelas ocupem uma posição de liderança; ou
+    b) Por quem aja em seu nome ou por sua conta e no seu interesse direto ou indireto, sob a autoridade das pessoas referidas na alínea anterior, em virtude de uma violação dos deveres de vigilância ou controlo que lhes incumbem.
+3 - (Revogado).
+4 - Entende-se que ocupam uma posição de liderança os órgãos e representantes da pessoa coletiva e quem nela tiver autoridade para exercer o controlo da sua atividade, incluindo os membros não executivos do órgão de administração e os membros do órgão de fiscalização.
+5 - Para efeitos de responsabilidade criminal consideram-se entidades equiparadas a pessoas colectivas as sociedades civis e as associações de facto.
+6 - A responsabilidade das pessoas colectivas e entidades equiparadas é excluída quando o agente tiver actuado contra ordens ou instruções expressas de quem de direito.
+7 - A responsabilidade das pessoas colectivas e entidades equiparadas não exclui a responsabilidade individual dos respectivos agentes nem depende da responsabilização destes.
+8 - A cisão e a fusão não determinam a extinção da responsabilidade criminal da pessoa colectiva ou entidade equiparada, respondendo pela prática do crime:
+    a) A pessoa colectiva ou entidade equiparada em que a fusão se tiver efectivado; e
+    b) As pessoas colectivas ou entidades equiparadas que resultaram da cisão.
+9 - Sem prejuízo do direito de regresso, as pessoas que ocupem uma posição de liderança são subsidiariamente responsáveis pelo pagamento das multas e indemnizações em que a pessoa colectiva ou entidade equiparada for condenada, relativamente aos crimes:
+    a) Praticados no período de exercício do seu cargo, sem a sua oposição expressa;
+    b) Praticados anteriormente, quando tiver sido por culpa sua que o património da pessoa colectiva ou entidade equiparada se tornou insuficiente para o respectivo pagamento; ou
+    c) Praticados anteriormente, quando a decisão definitiva de as aplicar tiver sido notificada durante o período de exercício do seu cargo e lhes seja imputável a falta de pagamento.
+10 - Sendo várias as pessoas responsáveis nos termos do número anterior, é solidária a sua responsabilidade.
+11 - Se as multas ou indemnizações forem aplicadas a uma entidade sem personalidade jurídica, responde por elas o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos associados.
+
+Artigo 12.º - Actuação em nome de outrem
+1 - É punível quem age voluntariamente como titular de um órgão de uma pessoa colectiva, sociedade ou mera associação de facto, ou em representação legal ou voluntária de outrem, mesmo quando o respectivo tipo de crime exigir:
+    a) Determinados elementos pessoais e estes só se verificarem na pessoa do representado; ou
+    b) Que o agente pratique o facto no seu próprio interesse e o representante actue no interesse do representado.
+2 - A ineficácia do acto que serve de fundamento à representação não impede a aplicação do disposto no número anterior.
+
+Artigo 13.º - Dolo e negligência
+Só é punível o facto praticado com dolo ou, nos casos especialmente previstos na lei, com negligência.
+
+Artigo 14.º - Dolo
+1 - Age com dolo quem, representando um facto que preenche um tipo de crime, actuar com intenção de o realizar.
+2 - Age ainda com dolo quem representar a realização de um facto que preenche um tipo de crime como consequência necessária da sua conduta.
+3 - Quando a realização de um facto que preenche um tipo de crime for representada como consequência possível da conduta, há dolo se o agente actuar conformando-se com aquela realização.
+
+Artigo 15.º - Negligência
+Age com negligência quem, por não proceder com o cuidado a que, segundo as circunstâncias, está obrigado e de que é capaz:
+    a) Representar como possível a realização de um facto que preenche um tipo de crime mas actuar sem se conformar com essa realização; ou
+    b) Não chegar sequer a representar a possibilidade de realização do facto.
+
+Artigo 16.º - Erro sobre as circunstâncias do facto
+1 - O erro sobre elementos de facto ou de direito de um tipo de crime, ou sobre proibições cujo conhecimento for razoavelmente indispensável para que o agente possa tomar consciência da ilicitude do facto, exclui o dolo.
+2 - O preceituado no número anterior abrange o erro sobre um estado de coisas que, a existir, excluiria a ilicitude do facto ou a culpa do agente.
+3 - Fica ressalvada a punibilidade da negligência nos termos gerais.
+
+Artigo 17.º - Erro sobre a ilicitude
+1 - Age sem culpa quem actuar sem consciência da ilicitude do facto, se o erro lhe não for censurável.
+2 - Se o erro lhe for censurável, o agente é punido com a pena aplicável ao crime doloso respectivo, a qual pode ser especialmente atenuada.
+
+Artigo 18.º - Agravação da pena pelo resultado
+Quando a pena aplicável a um facto for agravada em função da produção de um resultado, a agravação é sempre condicionada pela possibilidade de imputação desse resultado ao agente pelo menos a título de negligência.
+
+Artigo 19.º - Inimputabilidade em razão da idade
+Os menores de 16 anos são inimputáveis.
+
+Artigo 20.º - Inimputabilidade em razão de anomalia psíquica
+1 - É inimputável quem, por força de uma anomalia psíquica, for incapaz, no momento da prática do facto, de avaliar a ilicitude deste ou de se determinar de acordo com essa avaliação.
+2 - Pode ser declarado inimputável quem, por força de uma anomalia psíquica grave, não acidental e cujos efeitos não domina, sem que por isso possa ser censurado, tiver, no momento da prática do facto, a capacidade para avaliar a ilicitude deste ou para se determinar de acordo com essa avaliação sensivelmente diminuída.
+3 - A comprovada incapacidade do agente para ser influenciado pelas penas pode constituir índice da situação prevista no número anterior.
+4 - A imputabilidade não é excluída quando a anomalia psíquica tiver sido provocada pelo agente com intenção de praticar o facto.
+
+Capítulo II - Formas do crime
+
+Artigo 21.º - Actos preparatórios
+Os actos preparatórios não são puníveis, salvo disposição em contrário.
+
+Artigo 22.º - Tentativa
+1 - Há tentativa quando o agente praticar actos de execução de um crime que decidiu cometer, sem que este chegue a consumar-se.
+2 - São actos de execução:
+    a) Os que preencherem um elemento constitutivo de um tipo de crime;
+    b) Os que forem idóneos a produzir o resultado típico; ou
+    c) Os que, segundo a experiência comum e salvo circunstâncias imprevisíveis, forem de natureza a fazer esperar que se lhes sigam actos das espécies indicadas nas alíneas anteriores.
+
+Artigo 23.º - Punibilidade da tentativa
+1 - Salvo disposição em contrário, a tentativa só é punível se ao crime consumado respectivo corresponder pena superior a 3 anos de prisão.
+2 - A tentativa é punível com a pena aplicável ao crime consumado, especialmente atenuada.
+3 - A tentativa não é punível quando for manifesta a inaptidão do meio empregado pelo agente ou a inexistência do objecto essencial à consumação do crime.
+
+Artigo 24.º - Desistência
+1 - A tentativa deixa de ser punível quando o agente voluntariamente desistir de prosseguir na execução do crime, ou impedir a consumação, ou, não obstante a consumação, impedir a verificação do resultado não compreendido no tipo de crime.
+2 - Quando a consumação ou a verificação do resultado forem impedidas por facto independente da conduta do desistente, a tentativa não é punível se este se esforçar seriamente por evitar uma ou outra.
+
+Artigo 25.º - Desistência em caso de comparticipação
+Se vários agentes comparticiparem no facto, não é punível a tentativa daquele que voluntariamente impedir a consumação ou a verificação do resultado, nem a daquele que se esforçar seriamente por impedir uma ou outra, ainda que os outros comparticipantes prossigam na execução do crime ou o consumem.
+
+Artigo 26.º - Autoria
+É punível como autor quem executar o facto, por si mesmo ou por intermédio de outrem, ou tomar parte directa na sua execução, por acordo ou juntamente com outro ou outros, e ainda quem, dolosamente, determinar outra pessoa à prática do facto, desde que haja execução ou começo de execução.
+
+Artigo 27.º - Cumplicidade
+1 - É punível como cúmplice quem, dolosamente e por qualquer forma, prestar auxílio material ou moral à prática por outrem de um facto doloso.
+2 - É aplicável ao cúmplice a pena fixada para o autor, especialmente atenuada.
+
+Artigo 28.º - Ilicitude na comparticipação
+1 - Se a ilicitude ou o grau de ilicitude do facto dependerem de certas qualidades ou relações especiais do agente, basta, para tornar aplicável a todos os comparticipantes a pena respectiva, que essas qualidades ou relações se verifiquem em qualquer deles, excepto se outra for a intenção da norma incriminadora.
+2 - Sempre que, por efeito da regra prevista no número anterior, resultar para algum dos comparticipantes a aplicação de pena mais grave, pode esta, consideradas as circunstâncias do caso, ser substituída por aquela que teria lugar se tal regra não interviesse.
+
+Artigo 29.º - Culpa na comparticipação
+Cada comparticipante é punido segundo a sua culpa, independentemente da punição ou do grau de culpa dos outros comparticipantes.
+
+Artigo 30.º - Concurso de crimes e crime continuado
+1 - O número de crimes determina-se pelo número de tipos de crime efectivamente cometidos, ou pelo número de vezes que o mesmo tipo de crime for preenchido pela conduta do agente.
+2 - Constitui um só crime continuado a realização plúrima do mesmo tipo de crime ou de vários tipos de crime que fundamentalmente protejam o mesmo bem jurídico, executada por forma essencialmente homogénea e no quadro da solicitação de uma mesma situação exterior que diminua consideravelmente a culpa do agente.
+3 - O disposto no número anterior não abrange os crimes praticados contra bens eminentemente pessoais.
+
+Capítulo III - Causas que excluem a ilicitude e a culpa
+
+Artigo 31.º - Exclusão da ilicitude
+1 - O facto não é punível quando a sua ilicitude for excluída pela ordem jurídica considerada na sua totalidade.
+2 - Nomeadamente, não é ilícito o facto praticado:
+    a) Em legítima defesa;
+    b) No exercício de um direito;
+    c) No cumprimento de um dever imposto por lei ou por ordem legítima da autoridade; ou
+    d) Com o consentimento do titular do interesse jurídico lesado.
+
+Artigo 32.º - Legítima defesa
+Constitui legítima defesa o facto praticado como meio necessário para repelir a agressão actual e ilícita de interesses juridicamente protegidos do agente ou de terceiro.
+
+Artigo 33.º - Excesso de legítima defesa
+1 - Se houver excesso dos meios empregados em legítima defesa, o facto é ilícito mas a pena pode ser especialmente atenuada.
+2 - O agente não é punido se o excesso resultar de perturbação, medo ou susto, não censuráveis.
+
+Artigo 34.º - Direito de necessidade
+Não é ilícito o facto praticado como meio adequado para afastar um perigo actual que ameace interesses juridicamente protegidos do agente ou de terceiro, quando se verificarem os seguintes requisitos:
+    a) Não ter sido voluntariamente criada pelo agente a situação de perigo, salvo tratando-se de proteger o interesse de terceiro;
+    b) Haver sensível superioridade do interesse a salvaguardar relativamente ao interesse sacrificado; e
+    c) Ser razoável impor ao lesado o sacrifício do seu interesse em atenção à natureza ou ao valor do interesse ameaçado.
+
+Artigo 35.º - Estado de necessidade desculpante
+1 - Age sem culpa quem praticar um facto ilícito adequado a afastar um perigo actual, e não removível de outro modo, que ameace a vida, a integridade física, a honra ou a liberdade do agente ou de terceiro, quando não for razoável exigir-lhe, segundo as circunstâncias do caso, comportamento diferente.
+2 - Se o perigo ameaçar interesses jurídicos diferentes dos referidos no número anterior, e se verificarem os restantes pressupostos ali mencionados, pode a pena ser especialmente atenuada ou, excepcionalmente, o agente ser dispensado de pena.
+
+Artigo 36.º - Conflito de deveres
+1 - Não é ilícito o facto de quem, em caso de conflito no cumprimento de deveres jurídicos ou de ordens legítimas da autoridade, satisfizer dever ou ordem de valor igual ou superior ao do dever ou ordem que sacrificar.
+2 - O dever de obediência hierárquica cessa quando conduzir à prática de um crime.
+
+Artigo 37.º - Obediência indevida desculpante
+Age sem culpa o funcionário que cumpre uma ordem sem conhecer que ela conduz à prática de um crime, não sendo isso evidente no quadro das circunstâncias por ele representadas.
+
+Artigo 38.º - consentimento
+1 - Além dos casos especialmente previstos na lei, o consentimento exclui a ilicitude do facto quando se referir a interesses
+jurídicos livremente disponíveis e o facto não ofender os bons costumes.
+2 - O consentimento pode ser expresso por qualquer meio que traduza uma vontade séria, livre e esclarecida do titular do
+interesse juridicamente protegido, e pode ser livremente revogado até à execução do facto.
+3 - O consentimento só é eficaz se for prestado por quem tiver mais de 16 anos e possuir o discernimento necessário para
+avaliar o seu sentido e alcance no momento em que o presta.
+4 - Se o consentimento não for conhecido do agente, este é punível com a pena aplicável à tentativa.
+
+Artigo 39.º - consentimento presumido
+1 - Ao consentimento efectivo é equiparado o consentimento presumido.
+2 - Há consentimento presumido quando a situação em que o agente actua permitir razoavelmente supor que o titular do interesse juridicamente protegido teria eficazmente consentido no facto, se conhecesse as circunstâncias em que este é praticado.

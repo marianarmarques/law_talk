@@ -1,0 +1,52 @@
+Este ficheiro apresenta casos práticos da aplicação do código penal e do código processual penal.
+
+Caso 1:
+
+A) Sobre A recaem fortes suspeitas de ter cometido um crime de burla informática qualificada (artigo 221º, nº 5, a) do CP) em concurso com um crime de falsificação de documento (do artigo 256º, nº1, b) do CP). A vem a ser detido para efeito de lhe ser aplicada uma medida de coação. Com efeito, de acordo com a opinião da entidade competente, existem fortes indícios de que A cometeu aqueles dois crimes e há o risco de A se ausentar para Cabo Verde (uma vez que tem dupla nacionalidade) bem como de perturbar...
+aa) A é levado à presença da entidade que tem competência para aplicar a medida de coação requerida. Diga que procedimentos devem ser observados e se é legítima/legal a aplicação da medida requerida (2 vals). Entidade competente que entende ser de aplicar MC - MP  
+Entidade competente para a aplicação - JIC
+Requisitos de aplicação - perigo de fuga e perigo de perturbação da investigação
+OPH - fortes indícios + crime doloso + crime com pena superior a 3 anos + outras medidas serem insuficientes ou inadequadas - pode ser aplicada/legitimidade e legalidade pressupostas (221.º n.º 5 CP)  
+Procedimentos - audição do arguido devidamente informado dos factos/elementos processuais pertinentes à aplicação e com direito de consulta dos autos; despacho fundamentado de aplicação
+Artigos 194.º (maxime n.º 1, n.º 4, n.º 6, n.º 7, n.º 8), 201.º e 204.º n.º 1 a) e b) CPP
+
+bb) Entendeu, porém, a última entidade que, estando em causa um crime de burla referente a meios de pagamento que não em dinheiro (no caso um cartão bancário), dada a frequência do crime (bem como o seu alarme social) e a necessidade de combater tal fenómeno, a medida a aplicar deveria ser a de prisão preventiva, pelo que vem a decretá-la.
+Refira a legitimidade/legalidade de tal decisão e seu fundamento (1,5 vals).
+PP - fortes indícios + crime doloso + outras medidas serem insuficientes ou inadequadas + previsão expressa no artigo 202.º n.º 1 d) - verifica-se
+JIC pode aplicar, em determinadas circunstâncias, medida mais grave do que a solicitada/legitimidade e legalidade pressupostas
+194.º n.º 2 CPP
+
+B) Foi declarada aberta audiência de julgamento, vindo A a ser acusado daqueles dois crimes.
+
+a) Qual o tribunal competente para proceder ao julgamento e o que regime deve ser observado caso A não esteja presente neste momento (2,5 val).
+- aplica-se o critério quantitativo 
+- Cálculo da pena máxima aplicável aos 2 crimes  
+- Tribunal coletivo seria competente - art.º 14/2, b)  
+- Porém o MP poderia entender que a pena não deveria ser superior a 5 anos (16/3)  
+- Nesse caso o tribunal singular seria competente, mas não poderia punir com pena superior a 5 anos (16/4)
+
+- A foi constituído Arguido, logo tem TIR e terá sido notificado da data da audiência de julgamento - arts. 58.º, 113.º nº1 c) e 196.º/ 1, 2 e 3, c) e d) CPP 
+- Assim, se não comparecer estão reunidos os pressupostos para ser aplicado o regime do julgamento na ausência - art. 333.º nº1 CPP 
+- Exceção à regra da presença obrigatória do Arguido em audiência do julgamento - art. 332.º CPP; art. 32.º nº6 CRP 
+
+b) Durante esta audiência, foi solicitada, a requerimento do Ministério Público, a audição de declarações prestadas por A no âmbito do procedimento de aplicação da medida de coação, acima referido. Analise a legitimidade deste requerimento.  (1,5 val).
+Parece ser requerimento legítimo: Artigo 357.º, nº 1 b) - artigo 141.º, nº 4 - juiz de instrução (autoridade judiciária); presença de defensor/advertência dos direitos- 
+
+c) A pedido da defesa (ou seja, de A) foi ordenada uma análise pericial a um documento, que constava da acusação, para saber se o mesmo tinha sido objeto de alteração. (Com efeito, na acusação afirmava-se que A teria alterado o conteúdo do documento para depois enganar a vítima (e aceder ao seu cartão bancário e código), pessoa com dificuldades psicomotoras e já de idade; facto (isto é, a alteração do documento) que A sempre negou - estava em causa facto que seria muito importante para a afirmação do cri...
+
+Está em causa uma perícia - meio de prova; face ao circunstancialismo descrito, podem seguir-se as regras da perícia (nova perícia); todavia, não sendo possível esclarecer, o tribunal deve seguir o princípio in dubio pro reo; estando em causa uma dúvida razoável sobre facto (por isso, matéria de facto e de prova) relevante para a responsabilidade ou punibilidade do arguido, o tribunal deve valorar em favor do arguido, no caso considerar como provado a circunstância relevante para defesa; sentido do princ...
+
+d) Após a análise da prova, produzida em audiência, o Tribunal ficou convicto que, de facto e em última instância, A se terá apropriado ilegitimamente do cartão bancário (e do código do mesmo), depois de o ter subtraído à vítima (e não, como se encontrava descrito na acusação e como acima se referiu, obtido por via de engano sobre a vítima); assim, A teria cometido ainda um crime de furto qualificado (artigo 204.º, nº1, d, por vulnerabilidade da vítima) do CP, incriminação que se poderá aplicar pelo fact...
+Face a esta convicção do tribunal, como deve o mesmo proceder? Justifique a solução (3 vals).
+
+Não pode condenar; sob pena de nulidade da decisão (artigo 359.º, nº 1 e artigo 379.º, b)). Novo facto - crime diferente - alteração substancial de factos; justificação: princípio da acusação e limites estabelecidos. Facto autonomizável ou não autonomizável. 
+
+Caso 2:
+
+A está a ser ouvido, já como arguido num processo, indiciado pela prática de um crime de perseguição (art. 154.º -A do CP) e três crimes de fotografias ilícitas (artigo 199.º, nº2 do CP); com efeito, através de mensagens enviadas bem como colocando-se com frequência junto ao seu local de trabalho, A tem - assim entende a entidade competente - reiteradamente assediado B, provocando-lhe inquietação ou medo. Com a autorização da entidade competente, foram recolhidas as diversas mensagens enviadas, as fotogr...
+Dois meses depois de lhe terem sido dado a conhecer os factos e os crimes referidos, a entidade competente entende que os elementos que constam já do processo, ou seja, essencialmente aquela prova documental (no fundo, o único meio de prova relevante, que constava do telemóvel de B), são concludentes e não colocam quaisquer questões para efeito de prova do crime e de quem foi o seu agente (ou seja, de A), acrescentando que não se justificam mais diligências.
+
+Refira-se às condições que tiveram de ser observadas, para o processo ter chegado a este momento. Justifique legal e doutrinalmente, (3 vals) - Princípio da oficialidade (princípio de promoção processual) - 219.º, n.º 1 CRP + 48.º CPP    
+- Limitação ao princípio da oficialidade  
+- Ambos os crimes são semipúblicos - procedimento criminal depende de queixa  
+- tendo sido apresentada queixa, MP tem legitimidade para

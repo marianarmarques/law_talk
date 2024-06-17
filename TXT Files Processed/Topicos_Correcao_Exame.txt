@@ -1,0 +1,102 @@
+Este ficheiro corresponde a casos práticos da aplicação do código penal e do código processual penal.
+
+Tendo sido devidamente notificado para o efeito, F vem a prestar declarações perante o competente órgão de polícia criminal, sendo-lhe então comunicado que contra ele estava a correr inquérito, em virtude de existirem indícios de ter cometido dois crimes de abuso de confiança (artigo 205º, nº1, do CP), sendo vítimas A (um amigo seu de longa data) e B (seu pai, mas com o qual não tinha uma boa relação), que lhe terão confiado valores, de que se terá apropriado.
+Estavam preenchidas as condições necessárias para que o procedimento pudesse ter sido promovido.
+Durante o interrogatório, F alega que não se tinha apropriado de nada. Com efeito, acrescenta, os valores em causa eram seus e até tinha intenção de, em breve, propor uma ação de reivindicação para os recuperar.
+
+1. Que condição processual terá F assumido. Justifique legalmente 
+
+Constituição como Arguido
+art. 58.º/1, a) em ligação com art. 272.º/1 do CPP
+Formalidades: comunicação ao indivíduo de que se deve considerar arguido a partir desse momento, indicação e explicação dos direitos e obrigações associados (art. 61º) e entrega de documento com identificação do processo, dos direitos e deveres e do defensor, se este já existir - 58.º n.º 2 e 5
+Como a constituição foi feita por OPC, impõe-se a sua comunicação para validação ao MP em 10 dias - 58.º n.º 4 e 7.
+
+2 Posteriormente, F foi submetido a julgamento, tendo esse julgamento por objeto aqueles dois crimes.
+
+Diga, tendo em conta os pertinentes princípios do processo, quem determinou ou decidiu que F fosse submetido a julgamento pelos dois crimes em causa. Discuta, ainda, sobre se teria havido hipótese de este processo ter sido resolvido processualmente de outra maneira.
+
+Princípio da oficialidade (princípio de promoção processual) - explicação
+219.º, n.º 1 CRP + 48.º CPP
+Relativamente a A - art. 205.º, n.º 3 CP: procedimento criminal depende de queixa (crime semipúblico)
+:: tendo sido apresentada queixa, MP tem legitimidade para promover o processo (49.º CPP)
+:: limitação princípio ao oficialidade
+
+Relativamente a B - art. 207.º, n.º 1, a) CP - o procedimento depende de acusação particular pois o agente é descendente da vítima
+:: 50.º CPP: necessidade de apresentação de queixa (113.º CP), constituição como assistente (68.º, n.º 1, a)) e dedução de acusação particular (285.º, n.º 1)
+:: exceção ao princípio da oficialidade
+
+Princípio da legalidade: explicação
+
+Decisões possíveis
+
+recolhidos indícios suficientes (283.º, n.º 1 e 2):
+:: MP deve deduzir acusação (crime semipúblico) - A também pode deduzir acusação (art. 284.º)
+:: B deduziu acusação (285.º, n.º 1 - crime particular) - MP também pode acusar "pelos mesmos factos, por parte deles ou por outros que não importem uma alteração substancial daqueles" (arts. 50.º, n.º 2 e 285.º, n.º 4)
+
+alternativa:
+:: suspensão provisória do processo (281.º): MP poderá determinar a suspensão do processo, mediante a imposição de injunções e regras de conduta, visto que se trata de 2 crimes com pena de prisão não superior a 5 anos e se se verificarem os restantes pressupostos
+(arquivamento em caso de dispensa de pena (280.º): não poderá ser aplicado visto que não preenche o requisito de pena de prisão não superior a 6 meses, previsto no artigo 74.º do CP)
+
+3 A e B pretendem ver-se ressarcidos dos valores, de que foram desapropriados. Como devem proceder? 
+
+Princípio da adesão (art. 71.º do CPP). Em regra, deverão deduzir um pedido de indemnização civil (PIC) perante o tribunal penal, pois têm legitimidade (art. 74.º do CPP). Uma vez que o procedimento criminal depende de queixa de A e de acusação particular de B, havia, em alternativa, a possibilidade de dedução do PIC perante o tribunal civil (art. 72.º, n.º 1, al. c) e 2 do CPP).
+
+4 - Na data designada para a audiência de julgamento, F não comparece. Como se deve proceder 
+
+F foi constituído Arguido, logo tem TIR e terá sido notificado da data da audiência de julgamento por via postal simples - arts. 58º, 113º nº1 c) e 196º/ 1, 2 e 3, c) e d) CPP
+Pressupostos para ser aplicado o regime do julgamento na ausência - art. 333º nº1 CPP
+Exceção à regra da presença obrigatória do Arguido em audiência do julgamento - art. 332º CPP; art. 32º nº6 CRP
+
+5 - O juiz, que realizou a audiência de julgamento, apesar da defesa apresentada por F (a qual alegava que era ele o proprietário dos valores patrimoniais e reiterava a disposição de propor a ação adequada lhe para ser reconhecido aquele direito), vem, afinal, a condená-lo pelos dois crimes em causa, pois entendeu não haver qualquer dúvida quanto aos bens serem alheios (e não pertencerem a F).
+
+Justifique a atribuição da competência para julgamento a este Tribunal e refira a sua legitimidade para proferir esta decisão penal condenatória.
+
+Em princípio, o tribunal coletivo seria competente (critério quantitativo, art, 14.º, n.º 2, al. b), uma vez que estamos perante um concurso de crimes que abstratamente poderá ser punido com uma pena de prisão até 6 anos. Porém, o tribunal singular poderia ser competente para julgar este processo. Terá sido entendimento do MP de que não deve ser aplicada pena de prisão superior a 5 anos neste caso (art. 16.º, n.º 3). Assim, o juiz singular não pode aplicar pena de prisão superior a 5 anos (art. 16.º, n.º 4). Doutrinalmente é discutida a constitucionalidade desta possibilidade, tendo o TC já se pronunciado pela sua conformidade com a CRP.
+
+Questão prévia, não penal:
+Princípio da suficiência:
+Matéria jurídica para a qual o tribunal é, à partida, competente, pois pode decidir todas as questões pertinentes à tomada de decisão penal.
+No entanto, o Tribunal pode suspender o processo, permitindo a resolução da questão prejudicial no tribunal normalmente competente.
+Suspensão tem um prazo findo o qual a questão é resolvida no tribunal onde corre o processo penal.
+Art. 7. N.º 1, 2/3, 4
+
+A foi detido no momento exato em que, saindo da habitação de outra pessoa, trazia consigo objetos (alheios), tendo-se entendido que se preenchia, assim, o artigo 204.º, n.º 2, al. e) do CP.
+
+1 A vem a ser apresentado à entidade competente, vindo-lhe posteriormente a ser aplicada a medida de coação prisão preventiva. Enuncie os atos que foram praticados e as decisões que foram proferidas e por que autoridade judiciária.
+
+A foi presente ao juiz de instrução para primeiro interrogatório - artigo 141.º do CPP; Foi-lhe aplicada a medida de coação, por decisão do juiz de instrução a requerimento do Ministério Público - tendo sido ouvido; artigo 194.º, n.º4 que remete para o n.º 4 daquele artigo.
+
+2 A interpôs recurso da decisão que lhe aplicou aquela medida de coação; recurso que, no entanto, foi rejeitado. Tempos depois, foi decidida a substituição da medida aplicada pela de obrigação de permanência da habitação. Que normativos legais podem ter servido de fundamento para a última decisão proferida. Justifique legalmente a solução
+
+Princípio da precariedade (artigo 212.º e 213.º do CPP); justificação: atualidade e proporcionalidade na execução ou na manutenção das medidas de coação.
+Podem ter servido para fundamentar a decisão:
+o artigo 212.º, n.º 3 do CPP - norma que vale para qualquer medida de coação (norma geral); ou
+o artigo 213.º, n.º 1 reexame trimestral obrigatório e substituição de medidas (garantia acrescida para medidas privativas de liberdade).
+Acórdão de Fixação de Jurisprudência n.º 3/96: A prisão preventiva deve ser revogada ou substituída por outra medida de coação logo que se verifiquem circunstâncias que tal justifiquem, nos termos do artigo 212.º do Código de Processo Penal, independentemente do reexame trimestral dos seus pressupostos, imposto pelo artigo 213.º do mesmo Código.
+
+3 No consequente julgamento, realizado sob forma comum, veio a suscitar-se, durante a audiência, a questão de saber se A tinha de facto entrado em habitação alheia através de arrombamento ou se tinha apenas aproveitado o facto de a porta da habitação estar aberta para nela ilegitimamente entrar (caso a resposta fosse no último sentido, A teria cometido, não a circunstância prevista na al. e) do n.º 2 do artigo 204.º, mas apenas a circunstância que consta da al. f) do n.º 1 do artigo 204.º; tal entendimento teria por consequência fazer aplicar a A uma pena necessariamente menos grave). Tendo examinado a prova produzida na audiência, o coletivo, que compôs o tribunal, não conseguiu decidir com segurança se se verificava uma ou outra circunstância. Como deve o tribunal proceder? Justifique legal e doutrinalmente a resposta (3,5 vals).
+
+Princípio da presunção de inocência que redunda num in dubio pro reo em termos probatórios - 32.º n.º 2 CRP
+
+Princípio da presunção de inocência como princípio pensado para os elementos constitutivos do tipo legal de crime e enquanto regra de juízo
+
+Princípio in dubio pro reo: a dúvida sobre qualquer circunstância que exima ou diminua a responsabilidade do arguido deve ser valorada em favor deste.
+
+Princípio in dubio pro reo sobre a questão da pena (não apenas sobre a questão da culpabilidade) - princípio vale para toda a matéria de facto (relativa ao crime e à sanção)
+
+impõe que não se possa fazer qualquer distinção, no âmbito da decisão absolutória, entre decisões positivas ou dubitativas
+
+Conclusão: o tribunal deverá condenar pelo crime menos grave (f) do n.º 1 do artigo 204.º)
+
+4 Podia este processo ter sido tramitado sob outra forma processual? Justifique, indicando as eventuais hipóteses e respetivas condições (1,5 vals).
+
+Aquando da detenção foi dado como preenchido o artigo 204.º n.º 2 e) que à partida afasta os processos especiais (pena até 8 anos).
+No entanto:
+
+381.º n.º 2 CPP: o MP, perante a detenção e no momento da apresentação do Arguido, pode entender que não deve ser aplicada pena de prisão superior a 5 anos e faz tramitar o processo sob a forma de processo sumário
+382.º CPP
+391.º A n.º 2 CPP - O MP pode, ao tramitar o processo, concluir que se justifica a sua submissão a processo abreviado, por entender que não deve ser aplicada pena de prisão superior a 5 anos
+Isto pressupõe que:
+As provas sejam simples e evidentes - 391.º A n.º 3
+A acusação seja decidida até 90 dias após a detenção - 391.ºB n.º 2 a)
+o processo sumaríssimo está liminarmente afastado, pois o limite de 5 anos como pena máxima não prevê qualquer exceção ou alternativa
