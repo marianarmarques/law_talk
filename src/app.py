@@ -47,7 +47,7 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
     return db
 
 # Modelo do OpenAI com custom Embeddings para comparacoes
-openai.api_key = 'sk-proj-JMrLIkbxcJlIgYlwHPG3T3BlbkFJorXQLAgdbTNsLvixYcp9'
+openai.api_key = ''
 def generate_gpt_chat(prompt):
     response = openai.Completion.create(
       model="gpt-3.5-turbo",
